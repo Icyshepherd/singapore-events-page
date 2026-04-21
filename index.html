@@ -1,0 +1,1036 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SG Events</title>
+  <style>
+    :root {
+      --brand: #bf261d;
+      --brand-dark: #9d1913;
+      --surface: #ffffff;
+      --page: #f5f3f0;
+      --text: #282828;
+      --muted: #6f6f6f;
+      --line: #d8d5d1;
+      --chip: #a9a9a9;
+      --success: #7bc55a;
+      --danger: #d84f4f;
+      --shadow: 0 10px 28px rgba(42, 32, 24, 0.14);
+      --card-shadow: 0 5px 14px rgba(42, 32, 24, 0.16);
+      --radius-xl: 28px;
+      --radius-lg: 24px;
+      --radius-md: 18px;
+      --max-width: 1200px;
+      font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background:
+        radial-gradient(circle at top left, rgba(191, 38, 29, 0.06), transparent 24%),
+        linear-gradient(180deg, #faf7f4 0%, var(--page) 28%, #f3f0ec 100%);
+      color: var(--text);
+    }
+
+    .page-shell {
+      min-height: 100vh;
+    }
+
+    .hero {
+      background: linear-gradient(180deg, #bf261d 0%, #bb251c 100%);
+      color: #fff;
+      box-shadow: var(--shadow);
+    }
+
+    .hero-inner {
+      max-width: var(--max-width);
+      margin: 0 auto;
+      padding: 42px 28px 68px;
+      display: flex;
+      gap: 24px;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .brand {
+      font-size: clamp(3rem, 6vw, 5rem);
+      font-weight: 900;
+      line-height: 0.96;
+      letter-spacing: -0.06em;
+      margin: 0;
+    }
+
+    .search-bar {
+      width: min(100%, 670px);
+      display: flex;
+      align-items: center;
+      background: rgba(255, 255, 255, 0.98);
+      border-radius: 999px;
+      border: 3px solid rgba(255, 255, 255, 0.42);
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6);
+      overflow: hidden;
+      flex: 0 1 620px;
+    }
+
+    .search-input {
+      flex: 1;
+      min-width: 0;
+      border: 0;
+      outline: none;
+      padding: 18px 24px;
+      font-size: 1rem;
+      color: #4e5665;
+      background: transparent;
+    }
+
+    .search-button {
+      border: 0;
+      background: var(--brand);
+      color: #fff;
+      border-radius: 999px;
+      margin: 7px;
+      padding: 13px 24px;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: background 0.18s ease, transform 0.18s ease;
+    }
+
+    .search-button:hover,
+    .search-button:focus-visible {
+      background: var(--brand-dark);
+      transform: translateY(-1px);
+    }
+
+    .content-wrap {
+      max-width: var(--max-width);
+      margin: -34px auto 0;
+      padding: 0 18px 40px;
+    }
+
+    .toolbar {
+      background: rgba(255, 255, 255, 0.93);
+      border-radius: var(--radius-xl);
+      padding: 24px 28px 20px;
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(10px);
+      position: sticky;
+      top: 12px;
+      z-index: 10;
+    }
+
+    .filters-row {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 26px;
+      margin-bottom: 22px;
+    }
+
+    .select-wrap {
+      position: relative;
+    }
+
+    .filter-select {
+      width: 100%;
+      border: 2px solid #2d2d2d;
+      border-radius: 24px;
+      background: #fff;
+      color: #6f6f6f;
+      padding: 18px 60px 18px 24px;
+      font-size: 1.15rem;
+      appearance: none;
+      outline: none;
+      cursor: pointer;
+    }
+
+    .select-wrap::after {
+      content: "";
+      position: absolute;
+      right: 22px;
+      top: 50%;
+      width: 0;
+      height: 0;
+      border-left: 11px solid transparent;
+      border-right: 11px solid transparent;
+      border-top: 12px solid #b8b8b8;
+      transform: translateY(-20%);
+      pointer-events: none;
+    }
+
+    .date-strip {
+      display: grid;
+      grid-template-columns: auto auto 1fr auto;
+      align-items: stretch;
+      gap: 0;
+      border-radius: 24px;
+      overflow: hidden;
+      border: 1px solid rgba(40, 40, 40, 0.08);
+      background: #fff;
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7);
+    }
+
+    .calendar-button {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      background: #fff;
+      border: 0;
+      padding: 22px 18px;
+      cursor: pointer;
+      color: var(--text);
+      min-width: 162px;
+      border-right: 1px solid rgba(40, 40, 40, 0.1);
+    }
+
+    .calendar-icon {
+      width: 46px;
+      height: 46px;
+      flex: 0 0 auto;
+    }
+
+    .calendar-button span {
+      font-size: 0.94rem;
+      line-height: 1.05;
+      text-align: left;
+      color: #4d4d4d;
+    }
+
+    .date-nav {
+      border: 0;
+      background: #fff;
+      color: #c9c9c9;
+      width: 58px;
+      font-size: 2.4rem;
+      cursor: pointer;
+      transition: color 0.18s ease, background 0.18s ease;
+    }
+
+    .date-nav:hover,
+    .date-nav:focus-visible {
+      color: var(--brand);
+      background: rgba(191, 38, 29, 0.05);
+    }
+
+    .date-nav:disabled {
+      opacity: 0.4;
+      cursor: default;
+    }
+
+    .date-track {
+      display: grid;
+      grid-auto-flow: column;
+      grid-auto-columns: minmax(122px, 1fr);
+      overflow-x: auto;
+      scrollbar-width: none;
+      background: #fff;
+    }
+
+    .date-track::-webkit-scrollbar {
+      display: none;
+    }
+
+    .date-pill {
+      border: 0;
+      background: #fff;
+      border-left: 1px solid rgba(40, 40, 40, 0.15);
+      padding: 16px 10px 14px;
+      min-height: 124px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 6px;
+      cursor: pointer;
+      color: #565656;
+      transition: background 0.18s ease, color 0.18s ease;
+    }
+
+    .date-pill:first-child {
+      border-left: 0;
+    }
+
+    .date-pill .weekday {
+      font-size: 1rem;
+      line-height: 1.05;
+      white-space: nowrap;
+    }
+
+    .date-pill .day-text {
+      font-size: 1.2rem;
+      line-height: 1.12;
+      font-weight: 500;
+    }
+
+    .date-pill.active {
+      background: var(--brand);
+      color: #fff;
+    }
+
+    .stats-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      padding: 18px 4px 4px;
+      color: #5b5b5b;
+      font-size: 0.95rem;
+    }
+
+    .cards {
+      display: grid;
+      gap: 18px;
+      margin-top: 18px;
+    }
+
+    .event-card {
+      background: rgba(255, 255, 255, 0.98);
+      border: 2px solid rgba(45, 45, 45, 0.18);
+      border-radius: 26px;
+      box-shadow: var(--card-shadow);
+      padding: 22px 18px 14px;
+      display: grid;
+      gap: 18px;
+      grid-template-columns: minmax(0, 1fr) auto;
+    }
+
+    .card-main {
+      min-width: 0;
+    }
+
+    .event-title {
+      margin: 0 0 14px;
+      font-size: clamp(1.5rem, 2.5vw, 2.2rem);
+      line-height: 1.04;
+      letter-spacing: -0.04em;
+      font-weight: 800;
+      text-transform: none;
+    }
+
+    .meta-list {
+      display: grid;
+      gap: 8px;
+      margin-bottom: 14px;
+    }
+
+    .meta-row {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      color: #575757;
+      font-size: 1rem;
+      line-height: 1.35;
+    }
+
+    .meta-icon {
+      width: 20px;
+      height: 20px;
+      flex: 0 0 auto;
+      color: #b6b6b6;
+      margin-top: 1px;
+    }
+
+    .artist-line,
+    .intro-line {
+      color: #575757;
+      font-size: 0.98rem;
+      line-height: 1.5;
+      margin: 0 0 8px;
+    }
+
+    .card-side {
+      min-width: 170px;
+      display: flex;
+      justify-content: flex-end;
+      align-items: flex-start;
+    }
+
+    .price-box {
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+      white-space: nowrap;
+      margin-top: 28px;
+    }
+
+    .price-prefix {
+      font-size: 0.95rem;
+      color: #4d4d4d;
+      padding-top: 13px;
+    }
+
+    .price-main {
+      color: var(--brand);
+      font-weight: 900;
+      font-size: clamp(2rem, 3.1vw, 3rem);
+      line-height: 0.95;
+      letter-spacing: -0.05em;
+    }
+
+    .price-original {
+      color: var(--brand);
+      font-weight: 800;
+      font-size: 0.82rem;
+      line-height: 0.92;
+      padding-top: 9px;
+      text-transform: lowercase;
+      max-width: 62px;
+      white-space: normal;
+    }
+
+    .card-footer {
+      grid-column: 1 / -1;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+
+    .tag-list {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      min-width: 0;
+    }
+
+    .tag {
+      border-radius: 999px;
+      background: #a7a7a7;
+      color: #fff;
+      font-size: 0.86rem;
+      line-height: 1;
+      padding: 6px 12px;
+    }
+
+    .source-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+      border: 2px solid rgba(45, 45, 45, 0.28);
+      border-radius: 999px;
+      padding: 8px 14px 8px 8px;
+      color: #585858;
+      text-decoration: none;
+      min-width: min(100%, 420px);
+      max-width: 100%;
+      background: #fff;
+    }
+
+    .source-status {
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      background: var(--success);
+      box-shadow: inset 0 2px 1px rgba(255, 255, 255, 0.55);
+      flex: 0 0 auto;
+    }
+
+    .source-status.is-unavailable {
+      background: var(--danger);
+    }
+
+    .source-name {
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      flex: 1 1 auto;
+      font-size: 0.96rem;
+    }
+
+    .source-price {
+      white-space: nowrap;
+      font-size: 0.94rem;
+      color: #5d5d5d;
+    }
+
+    .empty-state {
+      background: rgba(255, 255, 255, 0.96);
+      border: 2px dashed rgba(45, 45, 45, 0.18);
+      border-radius: 26px;
+      padding: 42px 24px;
+      text-align: center;
+      box-shadow: var(--card-shadow);
+      color: #5a5a5a;
+    }
+
+    .empty-state h2 {
+      margin: 0 0 10px;
+      font-size: 1.7rem;
+      letter-spacing: -0.04em;
+    }
+
+    .sr-only {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      border: 0;
+    }
+
+    @media (max-width: 900px) {
+      .hero-inner {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 34px 18px 64px;
+      }
+
+      .search-bar {
+        width: 100%;
+        flex-basis: auto;
+      }
+
+      .toolbar {
+        padding: 20px 16px 18px;
+      }
+
+      .filters-row {
+        grid-template-columns: 1fr;
+        gap: 16px;
+      }
+
+      .date-strip {
+        grid-template-columns: auto 1fr auto;
+      }
+
+      .calendar-button {
+        min-width: auto;
+        padding: 18px 14px;
+      }
+
+      .date-track {
+        grid-auto-columns: 116px;
+      }
+
+      .event-card {
+        grid-template-columns: 1fr;
+      }
+
+      .card-side {
+        justify-content: flex-start;
+      }
+
+      .price-box {
+        margin-top: 0;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .content-wrap {
+        padding: 0 10px 28px;
+      }
+
+      .hero-inner {
+        padding: 24px 14px 56px;
+      }
+
+      .brand {
+        font-size: 3.3rem;
+      }
+
+      .search-input {
+        padding: 14px 16px;
+        font-size: 0.96rem;
+      }
+
+      .search-button {
+        padding: 11px 18px;
+      }
+
+      .calendar-button {
+        gap: 10px;
+      }
+
+      .calendar-button span {
+        font-size: 0.85rem;
+      }
+
+      .date-nav {
+        width: 42px;
+      }
+
+      .date-track {
+        grid-auto-columns: 104px;
+      }
+
+      .date-pill {
+        min-height: 102px;
+        padding: 14px 8px;
+      }
+
+      .date-pill .weekday {
+        font-size: 0.88rem;
+      }
+
+      .date-pill .day-text {
+        font-size: 1rem;
+      }
+
+      .event-card {
+        padding: 18px 14px 14px;
+      }
+
+      .event-title {
+        font-size: 1.85rem;
+      }
+
+      .source-pill {
+        width: 100%;
+        min-width: 0;
+      }
+
+      .stats-row {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <div class="hero-inner">
+        <h1 class="brand">SG Events</h1>
+        <form class="search-bar" id="searchForm">
+          <label class="sr-only" for="searchInput">Search events</label>
+          <input id="searchInput" class="search-input" type="search" placeholder="Event name / Artist / ..." autocomplete="off">
+          <button class="search-button" type="submit">Search</button>
+        </form>
+      </div>
+    </header>
+
+    <main class="content-wrap">
+      <section class="toolbar" aria-label="Filters">
+        <div class="filters-row">
+          <label class="select-wrap">
+            <span class="sr-only">Categories</span>
+            <select id="categorySelect" class="filter-select">
+              <option value="">Categories</option>
+            </select>
+          </label>
+          <label class="select-wrap">
+            <span class="sr-only">Venues</span>
+            <select id="venueSelect" class="filter-select">
+              <option value="">Venues</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="date-strip">
+          <button id="datePickerButton" class="calendar-button" type="button">
+            <svg class="calendar-icon" viewBox="0 0 64 64" fill="none" aria-hidden="true">
+              <rect x="11" y="14" width="42" height="40" rx="6" stroke="currentColor" stroke-width="4"></rect>
+              <path d="M11 24H53" stroke="currentColor" stroke-width="4"></path>
+              <path d="M22 8V20" stroke="currentColor" stroke-width="4" stroke-linecap="round"></path>
+              <path d="M42 8V20" stroke="currentColor" stroke-width="4" stroke-linecap="round"></path>
+            </svg>
+            <span>Select<br>Date</span>
+          </button>
+          <input id="datePicker" class="sr-only" type="date">
+          <button id="prevDates" class="date-nav" type="button" aria-label="Previous dates">&#8249;</button>
+          <div id="dateTrack" class="date-track" aria-label="Date selection"></div>
+          <button id="nextDates" class="date-nav" type="button" aria-label="Next dates">&#8250;</button>
+        </div>
+
+        <div class="stats-row">
+          <div id="resultSummary">Loading events...</div>
+          <div id="selectedDateLabel"></div>
+        </div>
+      </section>
+
+      <section id="cards" class="cards" aria-live="polite"></section>
+    </main>
+  </div>
+
+  <script src="./events-data.js"></script>
+  <script>
+    (() => {
+      const rawEvents = Array.isArray(window.SG_EVENTS_DATA) ? window.SG_EVENTS_DATA : [];
+      const monthMap = {
+        Jan: 0,
+        Feb: 1,
+        Mar: 2,
+        Apr: 3,
+        May: 4,
+        Jun: 5,
+        Jul: 6,
+        Aug: 7,
+        Sep: 8,
+        Oct: 9,
+        Nov: 10,
+        Dec: 11
+      };
+
+      const state = {
+        selectedDateKey: "",
+        category: "",
+        venue: "",
+        query: ""
+      };
+
+      const elements = {
+        cards: document.getElementById("cards"),
+        categorySelect: document.getElementById("categorySelect"),
+        venueSelect: document.getElementById("venueSelect"),
+        dateTrack: document.getElementById("dateTrack"),
+        resultSummary: document.getElementById("resultSummary"),
+        selectedDateLabel: document.getElementById("selectedDateLabel"),
+        searchInput: document.getElementById("searchInput"),
+        searchForm: document.getElementById("searchForm"),
+        prevDates: document.getElementById("prevDates"),
+        nextDates: document.getElementById("nextDates"),
+        datePickerButton: document.getElementById("datePickerButton"),
+        datePicker: document.getElementById("datePicker")
+      };
+
+      const sanitizeText = (value) => String(value ?? "").replace(/\s+/g, " ").trim();
+
+      const parseEventDate = (source) => {
+        const value = sanitizeText(source);
+        const match = value.match(/^(\d{2})-([A-Za-z]{3})-(\d{4}) \(([^)]+)\) (\d{2}:\d{2})$/);
+        if (!match) {
+          return null;
+        }
+
+        const [, day, monthAbbr, year, weekday, time] = match;
+        const monthIndex = monthMap[monthAbbr];
+        if (monthIndex === undefined) {
+          return null;
+        }
+
+        const date = new Date(Number(year), monthIndex, Number(day));
+        return {
+          key: `${year}-${String(monthIndex + 1).padStart(2, "0")}-${day}`,
+          display: `${day}-${monthAbbr}-${year} (${weekday}) ${time}`,
+          weekday,
+          dayNumber: day,
+          monthAbbr,
+          year,
+          time,
+          date
+        };
+      };
+
+      const events = rawEvents
+        .map((item, index) => {
+          const dateInfo = parseEventDate(item["Day-Month-Year (day of the week) hour: minute"]);
+          if (!dateInfo) {
+            return null;
+          }
+
+          const categories = Array.isArray(item.category)
+            ? item.category.map(sanitizeText).filter(Boolean)
+            : [];
+          const ticketOpen = String(item["ticket status"]).toLowerCase() === "true";
+          const priceMin = Number(item["prince min"] ?? 0);
+          const originalPriceMin = Number(item["original price min"] ?? priceMin);
+
+          return {
+            id: `event-${index + 1}`,
+            title: sanitizeText(item["Event name"]) || "Untitled event",
+            venue: sanitizeText(item["Venue"]) || "Venue TBC",
+            artist: sanitizeText(item["Artist"]),
+            organizer: sanitizeText(item["Organizer"]),
+            introduction: sanitizeText(item["Event introduction"]),
+            sourceName: sanitizeText(item["source name"]) || "Source",
+            sourceUrl: sanitizeText(item["source url"]) || "#",
+            ticketUrl: sanitizeText(item["ticket url"]) || sanitizeText(item["source url"]) || "#",
+            ticketOpen,
+            categories,
+            priceMin: Number.isFinite(priceMin) ? priceMin : 0,
+            originalPriceMin: Number.isFinite(originalPriceMin) ? originalPriceMin : 0,
+            dateInfo,
+            searchText: [
+              item["Event name"],
+              item["Artist"],
+              item["Organizer"],
+              item["Venue"],
+              item["source name"],
+              ...(Array.isArray(item.category) ? item.category : [])
+            ].map(sanitizeText).join(" ").toLowerCase()
+          };
+        })
+        .filter(Boolean)
+        .sort((a, b) => a.dateInfo.date - b.dateInfo.date || a.dateInfo.time.localeCompare(b.dateInfo.time) || a.title.localeCompare(b.title));
+
+      const uniqueDates = [...new Map(events.map((event) => [event.dateInfo.key, event.dateInfo])).values()];
+      const categories = [...new Set(events.flatMap((event) => event.categories))].sort((a, b) => a.localeCompare(b));
+      const venues = [...new Set(events.map((event) => event.venue))].sort((a, b) => a.localeCompare(b));
+
+      const preferredDefaultDate = "2026-05-01";
+      state.selectedDateKey = uniqueDates.some((date) => date.key === preferredDefaultDate)
+        ? preferredDefaultDate
+        : uniqueDates[0]?.key || "";
+
+      const formatMoney = (amount) => `S$${Math.max(0, Number(amount) || 0)}`;
+
+      const buildArtistOrganizerLine = (event) => {
+        if (event.artist && event.organizer) {
+          return `${event.artist} / ${event.organizer}`;
+        }
+        return event.artist || event.organizer || "";
+      };
+
+      const createOption = (value, label) => {
+        const option = document.createElement("option");
+        option.value = value;
+        option.textContent = label;
+        return option;
+      };
+
+      const populateFilters = () => {
+        categories.forEach((category) => {
+          elements.categorySelect.append(createOption(category, category));
+        });
+
+        venues.forEach((venue) => {
+          elements.venueSelect.append(createOption(venue, venue));
+        });
+      };
+
+      const getFilteredEvents = () => {
+        return events.filter((event) => {
+          if (state.selectedDateKey && event.dateInfo.key !== state.selectedDateKey) {
+            return false;
+          }
+
+          if (state.category && !event.categories.includes(state.category)) {
+            return false;
+          }
+
+          if (state.venue && event.venue !== state.venue) {
+            return false;
+          }
+
+          if (state.query && !event.searchText.includes(state.query)) {
+            return false;
+          }
+
+          return true;
+        });
+      };
+
+      const updateActiveDateTrack = () => {
+        const pills = elements.dateTrack.querySelectorAll(".date-pill");
+        pills.forEach((pill) => {
+          pill.classList.toggle("active", pill.dataset.dateKey === state.selectedDateKey);
+        });
+      };
+
+      const renderDateTrack = () => {
+        elements.dateTrack.innerHTML = "";
+
+        uniqueDates.forEach((dateInfo) => {
+          const button = document.createElement("button");
+          button.type = "button";
+          button.className = `date-pill${dateInfo.key === state.selectedDateKey ? " active" : ""}`;
+          button.dataset.dateKey = dateInfo.key;
+          button.innerHTML = `
+            <span class="weekday">${dateInfo.weekday}</span>
+            <span class="day-text">${dateInfo.dayNumber} ${dateInfo.monthAbbr}</span>
+          `;
+          button.addEventListener("click", () => {
+            state.selectedDateKey = dateInfo.key;
+            syncDatePicker();
+            render();
+            scrollDateIntoView(dateInfo.key);
+          });
+          elements.dateTrack.appendChild(button);
+        });
+
+        syncDatePicker();
+      };
+
+      const scrollDateTrackBy = (direction) => {
+        const samplePill = elements.dateTrack.querySelector(".date-pill");
+        const step = samplePill ? samplePill.getBoundingClientRect().width * 2.3 : 260;
+        elements.dateTrack.scrollBy({ left: step * direction, behavior: "smooth" });
+      };
+
+      const scrollDateIntoView = (dateKey) => {
+        const active = elements.dateTrack.querySelector(`[data-date-key="${dateKey}"]`);
+        if (active) {
+          active.scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" });
+        }
+      };
+
+      const syncDatePicker = () => {
+        elements.datePicker.value = state.selectedDateKey || "";
+      };
+
+      const buildCard = (event) => {
+        const article = document.createElement("article");
+        article.className = "event-card";
+
+        const artistOrganizerLine = buildArtistOrganizerLine(event);
+        const title = escapeHtml(event.title);
+        const intro = escapeHtml(event.introduction);
+        const venue = escapeHtml(event.venue);
+        const sourceName = escapeHtml(event.sourceName);
+        const tags = event.categories.map((category) => `<span class="tag">${escapeHtml(category)}</span>`).join("");
+        const dateText = escapeHtml(event.dateInfo.display);
+
+        article.innerHTML = `
+          <div class="card-main">
+            <h2 class="event-title">${title}</h2>
+            <div class="meta-list">
+              <div class="meta-row">
+                <svg class="meta-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                  <rect x="3.5" y="5.5" width="17" height="15" rx="2.5" stroke="currentColor" stroke-width="2"></rect>
+                  <path d="M3.5 9.5H20.5" stroke="currentColor" stroke-width="2"></path>
+                  <path d="M8 3V8" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+                  <path d="M16 3V8" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+                </svg>
+                <span>${dateText}</span>
+              </div>
+              <div class="meta-row">
+                <svg class="meta-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                  <path d="M12 21C15.8 16.9 19 13.5 19 9.5A7 7 0 1 0 5 9.5C5 13.5 8.2 16.9 12 21Z" stroke="currentColor" stroke-width="2"></path>
+                  <circle cx="12" cy="9.5" r="2.5" stroke="currentColor" stroke-width="2"></circle>
+                </svg>
+                <span>${venue}</span>
+              </div>
+            </div>
+            ${artistOrganizerLine ? `<p class="artist-line">${escapeHtml(artistOrganizerLine)}</p>` : ""}
+            ${intro ? `<p class="intro-line">${intro}</p>` : ""}
+          </div>
+          <div class="card-side">
+            <div class="price-box">
+              <span class="price-prefix">from</span>
+              <span class="price-main">${escapeHtml(formatMoney(event.originalPriceMin || event.priceMin))}</span>
+            </div>
+          </div>
+          <div class="card-footer">
+            <div class="tag-list">${tags}</div>
+            <a class="source-pill" href="${escapeAttribute(event.ticketUrl)}" target="_blank" rel="noreferrer">
+              <span class="source-status${event.ticketOpen ? "" : " is-unavailable"}"></span>
+              <span class="source-name">${sourceName}</span>
+              <span class="source-price">from ${escapeHtml(formatMoney(event.priceMin))}</span>
+            </a>
+          </div>
+        `;
+
+        return article;
+      };
+
+      const renderCards = (filteredEvents) => {
+        elements.cards.innerHTML = "";
+
+        if (!filteredEvents.length) {
+          const empty = document.createElement("div");
+          empty.className = "empty-state";
+          empty.innerHTML = `
+            <h2>No events found</h2>
+            <p>Try another date, category, venue, or search keyword.</p>
+          `;
+          elements.cards.appendChild(empty);
+          return;
+        }
+
+        filteredEvents.forEach((event) => {
+          elements.cards.appendChild(buildCard(event));
+        });
+      };
+
+      const renderSummary = (filteredEvents) => {
+        const selectedDate = uniqueDates.find((item) => item.key === state.selectedDateKey);
+        const summaryParts = [];
+
+        summaryParts.push(`${filteredEvents.length} event${filteredEvents.length === 1 ? "" : "s"}`);
+
+        if (state.category) {
+          summaryParts.push(state.category);
+        }
+
+        if (state.venue) {
+          summaryParts.push(state.venue);
+        }
+
+        if (state.query) {
+          summaryParts.push(`matching "${state.query}"`);
+        }
+
+        elements.resultSummary.textContent = summaryParts.join(" · ");
+        elements.selectedDateLabel.textContent = selectedDate
+          ? `${selectedDate.weekday}, ${selectedDate.dayNumber} ${selectedDate.monthAbbr} ${selectedDate.year}`
+          : "All dates";
+      };
+
+      const render = () => {
+        updateActiveDateTrack();
+        const filteredEvents = getFilteredEvents();
+        renderSummary(filteredEvents);
+        renderCards(filteredEvents);
+      };
+
+      const escapeHtml = (value) => String(value)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/\"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+
+      const escapeAttribute = (value) => escapeHtml(value || "#");
+
+      const bindEvents = () => {
+        elements.categorySelect.addEventListener("change", (event) => {
+          state.category = event.target.value;
+          render();
+        });
+
+        elements.venueSelect.addEventListener("change", (event) => {
+          state.venue = event.target.value;
+          render();
+        });
+
+        elements.searchForm.addEventListener("submit", (event) => {
+          event.preventDefault();
+          state.query = sanitizeText(elements.searchInput.value).toLowerCase();
+          render();
+        });
+
+        elements.searchInput.addEventListener("search", () => {
+          state.query = sanitizeText(elements.searchInput.value).toLowerCase();
+          render();
+        });
+
+        elements.prevDates.addEventListener("click", () => {
+          scrollDateTrackBy(-1);
+        });
+
+        elements.nextDates.addEventListener("click", () => {
+          scrollDateTrackBy(1);
+        });
+
+        elements.datePickerButton.addEventListener("click", () => {
+          elements.datePicker.showPicker?.();
+          elements.datePicker.click();
+        });
+
+        elements.datePicker.addEventListener("change", (event) => {
+          const picked = event.target.value;
+          if (!picked) {
+            return;
+          }
+
+          state.selectedDateKey = picked;
+          render();
+          scrollDateIntoView(picked);
+        });
+      };
+
+      populateFilters();
+      renderDateTrack();
+      bindEvents();
+      render();
+      scrollDateIntoView(state.selectedDateKey);
+    })();
+  </script>
+</body>
+</html>
