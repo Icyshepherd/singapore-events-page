@@ -7,17 +7,19 @@
   <style>
     :root {
       --brand: #bf261d;
-      --brand-dark: #9d1913;
-      --surface: #ffffff;
-      --page: #f5f3f0;
-      --text: #282828;
-      --muted: #6f6f6f;
-      --line: #d8d5d1;
-      --chip: #a9a9a9;
-      --success: #7bc55a;
-      --danger: #d84f4f;
+      --brand-dark: #9f1d16;
+      --page: #f5f2ee;
+      --surface: rgba(255, 255, 255, 0.98);
+      --text: #262626;
+      --muted: #666;
+      --line: rgba(36, 36, 36, 0.16);
+      --chip: #ececee;
+      --chip-text: #333;
+      --tag: #a8a8aa;
+      --success: #87ca6b;
+      --danger: #c7362d;
       --shadow: 0 10px 28px rgba(42, 32, 24, 0.14);
-      --card-shadow: 0 5px 14px rgba(42, 32, 24, 0.16);
+      --card-shadow: 0 6px 16px rgba(42, 32, 24, 0.16);
       --radius-xl: 28px;
       --radius-lg: 24px;
       --radius-md: 18px;
@@ -31,10 +33,15 @@
 
     body {
       margin: 0;
+      color: var(--text);
       background:
         radial-gradient(circle at top left, rgba(191, 38, 29, 0.06), transparent 24%),
-        linear-gradient(180deg, #faf7f4 0%, var(--page) 28%, #f3f0ec 100%);
-      color: var(--text);
+        linear-gradient(180deg, #faf7f4 0%, var(--page) 28%, #f1ede9 100%);
+    }
+
+    button,
+    input {
+      font: inherit;
     }
 
     .page-shell {
@@ -42,7 +49,7 @@
     }
 
     .hero {
-      background: linear-gradient(180deg, #bf261d 0%, #bb251c 100%);
+      background: linear-gradient(180deg, var(--brand) 0%, #bb251c 100%);
       color: #fff;
       box-shadow: var(--shadow);
     }
@@ -58,23 +65,23 @@
     }
 
     .brand {
+      margin: 0;
       font-size: clamp(3rem, 6vw, 5rem);
       font-weight: 900;
       line-height: 0.96;
       letter-spacing: -0.06em;
-      margin: 0;
     }
 
     .search-bar {
       width: min(100%, 670px);
+      flex: 0 1 620px;
       display: flex;
       align-items: center;
       background: rgba(255, 255, 255, 0.98);
       border-radius: 999px;
       border: 3px solid rgba(255, 255, 255, 0.42);
-      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6);
       overflow: hidden;
-      flex: 0 1 620px;
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7);
     }
 
     .search-input {
@@ -83,19 +90,18 @@
       border: 0;
       outline: none;
       padding: 18px 24px;
-      font-size: 1rem;
-      color: #4e5665;
       background: transparent;
+      color: #516070;
+      font-size: 1rem;
     }
 
     .search-button {
       border: 0;
-      background: var(--brand);
-      color: #fff;
-      border-radius: 999px;
       margin: 7px;
       padding: 13px 24px;
-      font-size: 1rem;
+      border-radius: 999px;
+      background: var(--brand);
+      color: #fff;
       cursor: pointer;
       transition: background 0.18s ease, transform 0.18s ease;
     }
@@ -113,41 +119,48 @@
     }
 
     .toolbar {
+      position: sticky;
+      top: 12px;
+      z-index: 10;
       background: rgba(255, 255, 255, 0.93);
       border-radius: var(--radius-xl);
       padding: 24px 28px 20px;
       box-shadow: var(--shadow);
       backdrop-filter: blur(10px);
-      position: sticky;
-      top: 12px;
-      z-index: 10;
     }
 
     .filters-row {
       display: grid;
       grid-template-columns: repeat(2, minmax(0, 1fr));
       gap: 26px;
-      margin-bottom: 22px;
+      margin-bottom: 18px;
     }
 
-    .select-wrap {
+    .multi-select {
       position: relative;
     }
 
-    .filter-select {
-      width: 100%;
-      border: 2px solid #2d2d2d;
-      border-radius: 24px;
-      background: #fff;
-      color: #6f6f6f;
-      padding: 18px 60px 18px 24px;
-      font-size: 1.15rem;
-      appearance: none;
-      outline: none;
-      cursor: pointer;
+    .multi-select.is-open .multi-select-panel {
+      display: block;
     }
 
-    .select-wrap::after {
+    .multi-select-trigger {
+      width: 100%;
+      min-height: 74px;
+      border: 2px solid #2d2d2d;
+      border-radius: 24px;
+      padding: 14px 60px 14px 14px;
+      background: #fff;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      cursor: pointer;
+      text-align: left;
+      position: relative;
+    }
+
+    .multi-select-trigger::after {
       content: "";
       position: absolute;
       right: 22px;
@@ -157,8 +170,94 @@
       border-left: 11px solid transparent;
       border-right: 11px solid transparent;
       border-top: 12px solid #b8b8b8;
-      transform: translateY(-20%);
-      pointer-events: none;
+      transform: translateY(-25%);
+      transition: transform 0.18s ease;
+    }
+
+    .multi-select.is-open .multi-select-trigger::after {
+      transform: translateY(-60%) rotate(180deg);
+    }
+
+    .multi-select-placeholder {
+      color: #727272;
+      font-size: 1.15rem;
+      padding-left: 8px;
+    }
+
+    .selected-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      max-width: calc(100% - 8px);
+      border-radius: 999px;
+      background: var(--chip);
+      color: var(--chip-text);
+      padding: 7px 10px 7px 14px;
+      line-height: 1;
+      font-size: 0.95rem;
+    }
+
+    .selected-chip button {
+      border: 0;
+      background: transparent;
+      color: #666;
+      cursor: pointer;
+      padding: 0;
+      line-height: 1;
+      font-size: 1rem;
+    }
+
+    .multi-select-panel {
+      display: none;
+      position: absolute;
+      inset: calc(100% + 8px) 0 auto;
+      max-height: 320px;
+      overflow: auto;
+      background: #fff;
+      border: 1px solid rgba(45, 45, 45, 0.14);
+      border-radius: 24px;
+      padding: 12px;
+      box-shadow: var(--shadow);
+    }
+
+    .option-list {
+      display: grid;
+      gap: 4px;
+    }
+
+    .option-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 12px;
+      border-radius: 14px;
+      cursor: pointer;
+      transition: background 0.16s ease;
+    }
+
+    .option-item:hover,
+    .option-item:focus-within {
+      background: rgba(191, 38, 29, 0.06);
+    }
+
+    .option-item input {
+      accent-color: var(--brand);
+      width: 16px;
+      height: 16px;
+      margin: 0;
+      flex: 0 0 auto;
+    }
+
+    .option-label {
+      flex: 1;
+      min-width: 0;
+      color: #3f3f3f;
+    }
+
+    .option-count {
+      color: #8a8a8a;
+      font-size: 0.9rem;
+      white-space: nowrap;
     }
 
     .date-strip {
@@ -177,13 +276,13 @@
       display: flex;
       align-items: center;
       gap: 14px;
-      background: #fff;
+      min-width: 162px;
       border: 0;
+      border-right: 1px solid rgba(40, 40, 40, 0.1);
+      background: #fff;
       padding: 22px 18px;
       cursor: pointer;
       color: var(--text);
-      min-width: 162px;
-      border-right: 1px solid rgba(40, 40, 40, 0.1);
     }
 
     .calendar-icon {
@@ -193,19 +292,19 @@
     }
 
     .calendar-button span {
+      color: #4d4d4d;
       font-size: 0.94rem;
       line-height: 1.05;
       text-align: left;
-      color: #4d4d4d;
     }
 
     .date-nav {
+      width: 58px;
       border: 0;
       background: #fff;
       color: #c9c9c9;
-      width: 58px;
-      font-size: 2.4rem;
       cursor: pointer;
+      font-size: 2.4rem;
       transition: color 0.18s ease, background 0.18s ease;
     }
 
@@ -213,11 +312,6 @@
     .date-nav:focus-visible {
       color: var(--brand);
       background: rgba(191, 38, 29, 0.05);
-    }
-
-    .date-nav:disabled {
-      opacity: 0.4;
-      cursor: default;
     }
 
     .date-track {
@@ -235,10 +329,10 @@
 
     .date-pill {
       border: 0;
-      background: #fff;
       border-left: 1px solid rgba(40, 40, 40, 0.15);
-      padding: 16px 10px 14px;
+      background: #fff;
       min-height: 124px;
+      padding: 16px 10px 14px;
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -269,12 +363,41 @@
       color: #fff;
     }
 
+    .legend-row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 16px;
+      padding: 14px 4px 2px;
+      color: #5d5d5d;
+      font-size: 0.94rem;
+    }
+
+    .legend-item {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .legend-dot {
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      display: inline-block;
+      background: var(--success);
+      box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.5);
+    }
+
+    .legend-dot.is-sold-out {
+      background: var(--danger);
+    }
+
     .stats-row {
       display: flex;
       align-items: center;
       justify-content: space-between;
       gap: 16px;
-      padding: 18px 4px 4px;
+      padding: 14px 4px 4px;
       color: #5b5b5b;
       font-size: 0.95rem;
     }
@@ -286,11 +409,11 @@
     }
 
     .event-card {
-      background: rgba(255, 255, 255, 0.98);
+      background: var(--surface);
       border: 2px solid rgba(45, 45, 45, 0.18);
       border-radius: 26px;
       box-shadow: var(--card-shadow);
-      padding: 22px 18px 14px;
+      padding: 22px 18px 16px;
       display: grid;
       gap: 18px;
       grid-template-columns: minmax(0, 1fr) auto;
@@ -306,7 +429,6 @@
       line-height: 1.04;
       letter-spacing: -0.04em;
       font-weight: 800;
-      text-transform: none;
     }
 
     .meta-list {
@@ -334,14 +456,14 @@
 
     .artist-line,
     .intro-line {
+      margin: 0 0 8px;
       color: #575757;
       font-size: 0.98rem;
       line-height: 1.5;
-      margin: 0 0 8px;
     }
 
     .card-side {
-      min-width: 170px;
+      min-width: 150px;
       display: flex;
       justify-content: flex-end;
       align-items: flex-start;
@@ -350,82 +472,73 @@
     .price-box {
       display: flex;
       align-items: flex-start;
-      gap: 8px;
+      gap: 10px;
+      margin-top: 20px;
       white-space: nowrap;
-      margin-top: 28px;
     }
 
     .price-prefix {
-      font-size: 0.95rem;
-      color: #4d4d4d;
       padding-top: 13px;
+      color: #4d4d4d;
+      font-size: 0.95rem;
     }
 
     .price-main {
       color: var(--brand);
       font-weight: 900;
-      font-size: clamp(2rem, 3.1vw, 3rem);
+      font-size: clamp(2rem, 3vw, 3rem);
       line-height: 0.95;
       letter-spacing: -0.05em;
     }
 
-    .price-original {
-      color: var(--brand);
-      font-weight: 800;
-      font-size: 0.82rem;
-      line-height: 0.92;
-      padding-top: 9px;
-      text-transform: lowercase;
-      max-width: 62px;
-      white-space: normal;
-    }
-
     .card-footer {
       grid-column: 1 / -1;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 14px;
-      flex-wrap: wrap;
+      display: grid;
+      gap: 12px;
     }
 
     .tag-list {
       display: flex;
       gap: 8px;
       flex-wrap: wrap;
-      min-width: 0;
     }
 
     .tag {
       border-radius: 999px;
-      background: #a7a7a7;
+      background: var(--tag);
       color: #fff;
       font-size: 0.86rem;
       line-height: 1;
       padding: 6px 12px;
     }
 
+    .source-list {
+      display: grid;
+      gap: 10px;
+      justify-content: end;
+    }
+
     .source-pill {
       display: inline-flex;
       align-items: center;
       gap: 12px;
+      min-width: min(100%, 560px);
+      max-width: 100%;
+      padding: 8px 14px 8px 8px;
       border: 2px solid rgba(45, 45, 45, 0.28);
       border-radius: 999px;
-      padding: 8px 14px 8px 8px;
+      background: #fff;
       color: #585858;
       text-decoration: none;
-      min-width: min(100%, 420px);
-      max-width: 100%;
-      background: #fff;
     }
 
     .source-status {
       width: 28px;
       height: 28px;
       border-radius: 50%;
+      flex: 0 0 auto;
       background: var(--success);
       box-shadow: inset 0 2px 1px rgba(255, 255, 255, 0.55);
-      flex: 0 0 auto;
     }
 
     .source-status.is-unavailable {
@@ -433,18 +546,18 @@
     }
 
     .source-name {
+      flex: 1 1 auto;
       min-width: 0;
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
-      flex: 1 1 auto;
       font-size: 0.96rem;
     }
 
     .source-price {
       white-space: nowrap;
-      font-size: 0.94rem;
       color: #5d5d5d;
+      font-size: 0.94rem;
     }
 
     .empty-state {
@@ -519,6 +632,10 @@
       .price-box {
         margin-top: 0;
       }
+
+      .source-list {
+        justify-content: stretch;
+      }
     }
 
     @media (max-width: 640px) {
@@ -541,6 +658,15 @@
 
       .search-button {
         padding: 11px 18px;
+      }
+
+      .multi-select-trigger {
+        min-height: 68px;
+        padding-right: 54px;
+      }
+
+      .multi-select-placeholder {
+        font-size: 1rem;
       }
 
       .calendar-button {
@@ -586,8 +712,8 @@
       }
 
       .stats-row {
-        align-items: flex-start;
         flex-direction: column;
+        align-items: flex-start;
       }
     }
   </style>
@@ -608,18 +734,23 @@
     <main class="content-wrap">
       <section class="toolbar" aria-label="Filters">
         <div class="filters-row">
-          <label class="select-wrap">
-            <span class="sr-only">Categories</span>
-            <select id="categorySelect" class="filter-select">
-              <option value="">Categories</option>
-            </select>
-          </label>
-          <label class="select-wrap">
-            <span class="sr-only">Venues</span>
-            <select id="venueSelect" class="filter-select">
-              <option value="">Venues</option>
-            </select>
-          </label>
+          <div class="multi-select" id="categoryFilter">
+            <button class="multi-select-trigger" type="button" aria-haspopup="listbox" aria-expanded="false">
+              <span class="multi-select-placeholder">Categories</span>
+            </button>
+            <div class="multi-select-panel">
+              <div class="option-list" role="listbox" aria-multiselectable="true"></div>
+            </div>
+          </div>
+
+          <div class="multi-select" id="venueFilter">
+            <button class="multi-select-trigger" type="button" aria-haspopup="listbox" aria-expanded="false">
+              <span class="multi-select-placeholder">Venues</span>
+            </button>
+            <div class="multi-select-panel">
+              <div class="option-list" role="listbox" aria-multiselectable="true"></div>
+            </div>
+          </div>
         </div>
 
         <div class="date-strip">
@@ -636,6 +767,11 @@
           <button id="prevDates" class="date-nav" type="button" aria-label="Previous dates">&#8249;</button>
           <div id="dateTrack" class="date-track" aria-label="Date selection"></div>
           <button id="nextDates" class="date-nav" type="button" aria-label="Next dates">&#8250;</button>
+        </div>
+
+        <div class="legend-row">
+          <span class="legend-item"><span class="legend-dot"></span> Green dot means tickets are available.</span>
+          <span class="legend-item"><span class="legend-dot is-sold-out"></span> Red dot means sold out.</span>
         </div>
 
         <div class="stats-row">
@@ -669,27 +805,38 @@
 
       const state = {
         selectedDateKey: "",
-        category: "",
-        venue: "",
+        categories: [],
+        venues: [],
         query: ""
       };
 
       const elements = {
         cards: document.getElementById("cards"),
-        categorySelect: document.getElementById("categorySelect"),
-        venueSelect: document.getElementById("venueSelect"),
-        dateTrack: document.getElementById("dateTrack"),
         resultSummary: document.getElementById("resultSummary"),
         selectedDateLabel: document.getElementById("selectedDateLabel"),
         searchInput: document.getElementById("searchInput"),
         searchForm: document.getElementById("searchForm"),
+        dateTrack: document.getElementById("dateTrack"),
         prevDates: document.getElementById("prevDates"),
         nextDates: document.getElementById("nextDates"),
         datePickerButton: document.getElementById("datePickerButton"),
-        datePicker: document.getElementById("datePicker")
+        datePicker: document.getElementById("datePicker"),
+        filters: {
+          category: document.getElementById("categoryFilter"),
+          venue: document.getElementById("venueFilter")
+        }
       };
 
       const sanitizeText = (value) => String(value ?? "").replace(/\s+/g, " ").trim();
+
+      const escapeHtml = (value) => String(value)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/\"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+
+      const escapeAttribute = (value) => escapeHtml(value || "#");
 
       const parseEventDate = (source) => {
         const value = sanitizeText(source);
@@ -717,59 +864,6 @@
         };
       };
 
-      const events = rawEvents
-        .map((item, index) => {
-          const dateInfo = parseEventDate(item["Day-Month-Year (day of the week) hour: minute"]);
-          if (!dateInfo) {
-            return null;
-          }
-
-          const categories = Array.isArray(item.category)
-            ? item.category.map(sanitizeText).filter(Boolean)
-            : [];
-          const ticketOpen = String(item["ticket status"]).toLowerCase() === "true";
-          const priceMin = Number(item["prince min"] ?? 0);
-          const originalPriceMin = Number(item["original price min"] ?? priceMin);
-
-          return {
-            id: `event-${index + 1}`,
-            title: sanitizeText(item["Event name"]) || "Untitled event",
-            venue: sanitizeText(item["Venue"]) || "Venue TBC",
-            artist: sanitizeText(item["Artist"]),
-            organizer: sanitizeText(item["Organizer"]),
-            introduction: sanitizeText(item["Event introduction"]),
-            sourceName: sanitizeText(item["source name"]) || "Source",
-            sourceUrl: sanitizeText(item["source url"]) || "#",
-            ticketUrl: sanitizeText(item["ticket url"]) || sanitizeText(item["source url"]) || "#",
-            ticketOpen,
-            categories,
-            priceMin: Number.isFinite(priceMin) ? priceMin : 0,
-            originalPriceMin: Number.isFinite(originalPriceMin) ? originalPriceMin : 0,
-            dateInfo,
-            searchText: [
-              item["Event name"],
-              item["Artist"],
-              item["Organizer"],
-              item["Venue"],
-              item["source name"],
-              ...(Array.isArray(item.category) ? item.category : [])
-            ].map(sanitizeText).join(" ").toLowerCase()
-          };
-        })
-        .filter(Boolean)
-        .sort((a, b) => a.dateInfo.date - b.dateInfo.date || a.dateInfo.time.localeCompare(b.dateInfo.time) || a.title.localeCompare(b.title));
-
-      const uniqueDates = [...new Map(events.map((event) => [event.dateInfo.key, event.dateInfo])).values()];
-      const categories = [...new Set(events.flatMap((event) => event.categories))].sort((a, b) => a.localeCompare(b));
-      const venues = [...new Set(events.map((event) => event.venue))].sort((a, b) => a.localeCompare(b));
-
-      const preferredDefaultDate = "2026-05-01";
-      state.selectedDateKey = uniqueDates.some((date) => date.key === preferredDefaultDate)
-        ? preferredDefaultDate
-        : uniqueDates[0]?.key || "";
-
-      const formatMoney = (amount) => `S$${Math.max(0, Number(amount) || 0)}`;
-
       const buildArtistOrganizerLine = (event) => {
         if (event.artist && event.organizer) {
           return `${event.artist} / ${event.organizer}`;
@@ -777,48 +871,178 @@
         return event.artist || event.organizer || "";
       };
 
-      const createOption = (value, label) => {
-        const option = document.createElement("option");
-        option.value = value;
-        option.textContent = label;
-        return option;
+      const formatMoney = (amount) => `S$${Math.max(0, Number(amount) || 0)}`;
+
+      const normalizedEvents = rawEvents
+        .flatMap((item, eventIndex) => {
+          const categories = Array.isArray(item.category)
+            ? item.category.map(sanitizeText).filter(Boolean)
+            : [];
+          const sources = Array.isArray(item.sources)
+            ? item.sources.map((source, sourceIndex) => ({
+                id: `source-${eventIndex + 1}-${sourceIndex + 1}`,
+                name: sanitizeText(source["source name"]) || "Source",
+                url: sanitizeText(source["source url"]) || "#",
+                ticketUrl: sanitizeText(source["ticket url"]) || sanitizeText(source["source url"]) || "#",
+                ticketOpen: String(source["ticket status"]).toLowerCase() === "true",
+                priceMin: Number.isFinite(Number(source["prince min"])) ? Number(source["prince min"]) : 0
+              }))
+            : [];
+          const originalPriceMin = Number.isFinite(Number(item["original price min"])) ? Number(item["original price min"]) : 0;
+
+          return (Array.isArray(item.showtimes) ? item.showtimes : [])
+            .map((showtime, showtimeIndex) => {
+              const dateInfo = parseEventDate(showtime["Day-Month-Year (day of the week) hour: minute"]);
+              if (!dateInfo) {
+                return null;
+              }
+
+              const searchFragments = [
+                item["Event name"],
+                item["Artist"],
+                item["Organizer"],
+                item["Venue"],
+                ...(Array.isArray(item.category) ? item.category : []),
+                ...sources.flatMap((source) => [source.name, source.url])
+              ];
+
+              return {
+                id: `event-${eventIndex + 1}-showtime-${showtimeIndex + 1}`,
+                title: sanitizeText(item["Event name"]) || "Untitled event",
+                venue: sanitizeText(item["Venue"]) || "Venue TBC",
+                artist: sanitizeText(item["Artist"]),
+                organizer: sanitizeText(item["Organizer"]),
+                introduction: sanitizeText(item["Event introduction"]),
+                categories,
+                sources,
+                originalPriceMin,
+                dateInfo,
+                searchText: searchFragments.map(sanitizeText).join(" ").toLowerCase()
+              };
+            })
+            .filter(Boolean);
+        })
+        .sort((a, b) => a.dateInfo.date - b.dateInfo.date || a.dateInfo.time.localeCompare(b.dateInfo.time) || a.title.localeCompare(b.title));
+
+      const uniqueDates = [...new Map(normalizedEvents.map((event) => [event.dateInfo.key, event.dateInfo])).values()];
+
+      const countOccurrences = (values) => {
+        const counts = new Map();
+        values.forEach((value) => {
+          if (!value) {
+            return;
+          }
+          counts.set(value, (counts.get(value) || 0) + 1);
+        });
+        return [...counts.entries()]
+          .map(([label, count]) => ({ label, count }))
+          .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
       };
 
-      const populateFilters = () => {
-        categories.forEach((category) => {
-          elements.categorySelect.append(createOption(category, category));
-        });
+      const categoryOptions = countOccurrences(normalizedEvents.flatMap((event) => event.categories));
+      const venueOptions = countOccurrences(normalizedEvents.map((event) => event.venue));
 
-        venues.forEach((venue) => {
-          elements.venueSelect.append(createOption(venue, venue));
+      const preferredDefaultDate = "2026-05-01";
+      state.selectedDateKey = uniqueDates.some((date) => date.key === preferredDefaultDate)
+        ? preferredDefaultDate
+        : uniqueDates[0]?.key || "";
+
+      const getSelectedSet = (filterName) => new Set(filterName === "category" ? state.categories : state.venues);
+
+      const setSelectedValues = (filterName, values) => {
+        if (filterName === "category") {
+          state.categories = values;
+        } else {
+          state.venues = values;
+        }
+      };
+
+      const renderMultiSelectTrigger = (filterName, options) => {
+        const root = elements.filters[filterName];
+        const trigger = root.querySelector(".multi-select-trigger");
+        const placeholder = filterName === "category" ? "Categories" : "Venues";
+        const selected = filterName === "category" ? state.categories : state.venues;
+
+        trigger.innerHTML = "";
+
+        if (!selected.length) {
+          const span = document.createElement("span");
+          span.className = "multi-select-placeholder";
+          span.textContent = placeholder;
+          trigger.appendChild(span);
+          return;
+        }
+
+        selected.forEach((value) => {
+          const chip = document.createElement("span");
+          chip.className = "selected-chip";
+          chip.innerHTML = `<span>${escapeHtml(value)}</span>`;
+
+          const removeButton = document.createElement("button");
+          removeButton.type = "button";
+          removeButton.setAttribute("aria-label", `Remove ${value}`);
+          removeButton.textContent = "×";
+          removeButton.addEventListener("click", (event) => {
+            event.stopPropagation();
+            toggleFilterValue(filterName, value);
+          });
+
+          chip.appendChild(removeButton);
+          trigger.appendChild(chip);
         });
       };
 
-      const getFilteredEvents = () => {
-        return events.filter((event) => {
-          if (state.selectedDateKey && event.dateInfo.key !== state.selectedDateKey) {
-            return false;
-          }
+      const renderMultiSelectOptions = (filterName, options) => {
+        const root = elements.filters[filterName];
+        const list = root.querySelector(".option-list");
+        const selected = getSelectedSet(filterName);
+        list.innerHTML = "";
 
-          if (state.category && !event.categories.includes(state.category)) {
-            return false;
-          }
+        options.forEach((option) => {
+          const label = document.createElement("label");
+          label.className = "option-item";
+          label.innerHTML = `
+            <input type="checkbox" ${selected.has(option.label) ? "checked" : ""}>
+            <span class="option-label">${escapeHtml(option.label)}</span>
+            <span class="option-count">${option.count}</span>
+          `;
 
-          if (state.venue && event.venue !== state.venue) {
-            return false;
-          }
+          const input = label.querySelector("input");
+          input.addEventListener("change", () => {
+            toggleFilterValue(filterName, option.label);
+          });
 
-          if (state.query && !event.searchText.includes(state.query)) {
-            return false;
-          }
+          list.appendChild(label);
+        });
+      };
 
-          return true;
+      const renderMultiSelect = (filterName, options) => {
+        renderMultiSelectTrigger(filterName, options);
+        renderMultiSelectOptions(filterName, options);
+      };
+
+      const toggleFilterValue = (filterName, value) => {
+        const selected = getSelectedSet(filterName);
+        if (selected.has(value)) {
+          selected.delete(value);
+        } else {
+          selected.add(value);
+        }
+        setSelectedValues(filterName, [...selected]);
+        renderMultiSelect(filterName, filterName === "category" ? categoryOptions : venueOptions);
+        render();
+      };
+
+      const closeAllDropdowns = (exceptName = "") => {
+        Object.entries(elements.filters).forEach(([name, root]) => {
+          const shouldOpen = name === exceptName;
+          root.classList.toggle("is-open", shouldOpen && !root.classList.contains("is-open"));
+          root.querySelector(".multi-select-trigger").setAttribute("aria-expanded", String(root.classList.contains("is-open")));
         });
       };
 
       const updateActiveDateTrack = () => {
-        const pills = elements.dateTrack.querySelectorAll(".date-pill");
-        pills.forEach((pill) => {
+        elements.dateTrack.querySelectorAll(".date-pill").forEach((pill) => {
           pill.classList.toggle("active", pill.dataset.dateKey === state.selectedDateKey);
         });
       };
@@ -832,8 +1056,8 @@
           button.className = `date-pill${dateInfo.key === state.selectedDateKey ? " active" : ""}`;
           button.dataset.dateKey = dateInfo.key;
           button.innerHTML = `
-            <span class="weekday">${dateInfo.weekday}</span>
-            <span class="day-text">${dateInfo.dayNumber} ${dateInfo.monthAbbr}</span>
+            <span class="weekday">${escapeHtml(dateInfo.weekday)}</span>
+            <span class="day-text">${escapeHtml(`${dateInfo.dayNumber} ${dateInfo.monthAbbr}`)}</span>
           `;
           button.addEventListener("click", () => {
             state.selectedDateKey = dateInfo.key;
@@ -847,9 +1071,13 @@
         syncDatePicker();
       };
 
+      const syncDatePicker = () => {
+        elements.datePicker.value = state.selectedDateKey || "";
+      };
+
       const scrollDateTrackBy = (direction) => {
-        const samplePill = elements.dateTrack.querySelector(".date-pill");
-        const step = samplePill ? samplePill.getBoundingClientRect().width * 2.3 : 260;
+        const sample = elements.dateTrack.querySelector(".date-pill");
+        const step = sample ? sample.getBoundingClientRect().width * 2.3 : 260;
         elements.dateTrack.scrollBy({ left: step * direction, behavior: "smooth" });
       };
 
@@ -860,8 +1088,44 @@
         }
       };
 
-      const syncDatePicker = () => {
-        elements.datePicker.value = state.selectedDateKey || "";
+      const getFilteredEvents = () => {
+        return normalizedEvents.filter((event) => {
+          if (state.selectedDateKey && event.dateInfo.key !== state.selectedDateKey) {
+            return false;
+          }
+
+          if (state.categories.length && !state.categories.some((category) => event.categories.includes(category))) {
+            return false;
+          }
+
+          if (state.venues.length && !state.venues.includes(event.venue)) {
+            return false;
+          }
+
+          if (state.query && !event.searchText.includes(state.query)) {
+            return false;
+          }
+
+          return true;
+        });
+      };
+
+      const buildSourcePills = (sources) => {
+        if (!sources.length) {
+          return "";
+        }
+
+        return `
+          <div class="source-list">
+            ${sources.map((source) => `
+              <a class="source-pill" href="${escapeAttribute(source.ticketUrl)}" target="_blank" rel="noreferrer">
+                <span class="source-status${source.ticketOpen ? "" : " is-unavailable"}"></span>
+                <span class="source-name">${escapeHtml(source.name)}</span>
+                <span class="source-price">from ${escapeHtml(formatMoney(source.priceMin))}</span>
+              </a>
+            `).join("")}
+          </div>
+        `;
       };
 
       const buildCard = (event) => {
@@ -869,16 +1133,12 @@
         article.className = "event-card";
 
         const artistOrganizerLine = buildArtistOrganizerLine(event);
-        const title = escapeHtml(event.title);
-        const intro = escapeHtml(event.introduction);
-        const venue = escapeHtml(event.venue);
-        const sourceName = escapeHtml(event.sourceName);
         const tags = event.categories.map((category) => `<span class="tag">${escapeHtml(category)}</span>`).join("");
-        const dateText = escapeHtml(event.dateInfo.display);
+        const displayPrice = event.originalPriceMin || Math.min(...event.sources.map((source) => source.priceMin), 0);
 
         article.innerHTML = `
           <div class="card-main">
-            <h2 class="event-title">${title}</h2>
+            <h2 class="event-title">${escapeHtml(event.title)}</h2>
             <div class="meta-list">
               <div class="meta-row">
                 <svg class="meta-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
@@ -887,32 +1147,28 @@
                   <path d="M8 3V8" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
                   <path d="M16 3V8" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
                 </svg>
-                <span>${dateText}</span>
+                <span>${escapeHtml(event.dateInfo.display)}</span>
               </div>
               <div class="meta-row">
                 <svg class="meta-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
                   <path d="M12 21C15.8 16.9 19 13.5 19 9.5A7 7 0 1 0 5 9.5C5 13.5 8.2 16.9 12 21Z" stroke="currentColor" stroke-width="2"></path>
                   <circle cx="12" cy="9.5" r="2.5" stroke="currentColor" stroke-width="2"></circle>
                 </svg>
-                <span>${venue}</span>
+                <span>${escapeHtml(event.venue)}</span>
               </div>
             </div>
             ${artistOrganizerLine ? `<p class="artist-line">${escapeHtml(artistOrganizerLine)}</p>` : ""}
-            ${intro ? `<p class="intro-line">${intro}</p>` : ""}
+            ${event.introduction ? `<p class="intro-line">${escapeHtml(event.introduction)}</p>` : ""}
           </div>
           <div class="card-side">
             <div class="price-box">
               <span class="price-prefix">from</span>
-              <span class="price-main">${escapeHtml(formatMoney(event.originalPriceMin || event.priceMin))}</span>
+              <span class="price-main">${escapeHtml(formatMoney(displayPrice))}</span>
             </div>
           </div>
           <div class="card-footer">
             <div class="tag-list">${tags}</div>
-            <a class="source-pill" href="${escapeAttribute(event.ticketUrl)}" target="_blank" rel="noreferrer">
-              <span class="source-status${event.ticketOpen ? "" : " is-unavailable"}"></span>
-              <span class="source-name">${sourceName}</span>
-              <span class="source-price">from ${escapeHtml(formatMoney(event.priceMin))}</span>
-            </a>
+            ${buildSourcePills(event.sources)}
           </div>
         `;
 
@@ -940,16 +1196,14 @@
 
       const renderSummary = (filteredEvents) => {
         const selectedDate = uniqueDates.find((item) => item.key === state.selectedDateKey);
-        const summaryParts = [];
+        const summaryParts = [`${filteredEvents.length} event${filteredEvents.length === 1 ? "" : "s"}`];
 
-        summaryParts.push(`${filteredEvents.length} event${filteredEvents.length === 1 ? "" : "s"}`);
-
-        if (state.category) {
-          summaryParts.push(state.category);
+        if (state.categories.length) {
+          summaryParts.push(state.categories.join(", "));
         }
 
-        if (state.venue) {
-          summaryParts.push(state.venue);
+        if (state.venues.length) {
+          summaryParts.push(state.venues.join(", "));
         }
 
         if (state.query) {
@@ -969,25 +1223,35 @@
         renderCards(filteredEvents);
       };
 
-      const escapeHtml = (value) => String(value)
-        .replace(/&/g, "&amp;")
-        .replace(/</g, "&lt;")
-        .replace(/>/g, "&gt;")
-        .replace(/\"/g, "&quot;")
-        .replace(/'/g, "&#39;");
+      const bindMultiSelects = () => {
+        Object.entries(elements.filters).forEach(([filterName, root]) => {
+          const trigger = root.querySelector(".multi-select-trigger");
+          trigger.addEventListener("click", (event) => {
+            event.stopPropagation();
+            const isOpen = root.classList.contains("is-open");
+            Object.entries(elements.filters).forEach(([name, otherRoot]) => {
+              otherRoot.classList.remove("is-open");
+              otherRoot.querySelector(".multi-select-trigger").setAttribute("aria-expanded", "false");
+            });
+            if (!isOpen) {
+              root.classList.add("is-open");
+              trigger.setAttribute("aria-expanded", "true");
+            }
+          });
+        });
 
-      const escapeAttribute = (value) => escapeHtml(value || "#");
+        document.addEventListener("click", (event) => {
+          if (!event.target.closest(".multi-select")) {
+            Object.values(elements.filters).forEach((root) => {
+              root.classList.remove("is-open");
+              root.querySelector(".multi-select-trigger").setAttribute("aria-expanded", "false");
+            });
+          }
+        });
+      };
 
       const bindEvents = () => {
-        elements.categorySelect.addEventListener("change", (event) => {
-          state.category = event.target.value;
-          render();
-        });
-
-        elements.venueSelect.addEventListener("change", (event) => {
-          state.venue = event.target.value;
-          render();
-        });
+        bindMultiSelects();
 
         elements.searchForm.addEventListener("submit", (event) => {
           event.preventDefault();
@@ -1025,7 +1289,8 @@
         });
       };
 
-      populateFilters();
+      renderMultiSelect("category", categoryOptions);
+      renderMultiSelect("venue", venueOptions);
       renderDateTrack();
       bindEvents();
       render();
