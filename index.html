@@ -85,6 +85,11 @@
       letter-spacing: 0.01em;
     }
 
+    .hero-note.is-secondary {
+      color: rgba(255, 255, 255, 0.74);
+      font-size: 0.88rem;
+    }
+
     .search-bar {
       width: min(100%, 670px);
       flex: 0 1 620px;
@@ -859,6 +864,7 @@
       <div class="hero-inner">
         <div class="hero-copy">
           <h1 class="brand">SG Events</h1>
+          <p id="heroDateRange" class="hero-note is-secondary">Singapore Events Information</p>
           <p class="hero-note">by Icyshepherd · Non-commercial use only</p>
         </div>
         <form class="search-bar" id="searchForm">
@@ -959,6 +965,7 @@
         cards: document.getElementById("cards"),
         toolbar: document.querySelector(".toolbar"),
         toolbarCompactSummary: document.getElementById("toolbarCompactSummary"),
+        heroDateRange: document.getElementById("heroDateRange"),
         resultSummary: document.getElementById("resultSummary"),
         selectedDateLabel: document.getElementById("selectedDateLabel"),
         searchInput: document.getElementById("searchInput"),
@@ -1108,6 +1115,8 @@
         .sort((a, b) => a.dateInfo.date - b.dateInfo.date || a.dateInfo.time.localeCompare(b.dateInfo.time) || a.title.localeCompare(b.title));
 
       const uniqueDates = [...new Map(normalizedEvents.map((event) => [event.dateInfo.key, event.dateInfo])).values()];
+      const earliestDate = uniqueDates[0] || null;
+      const latestDate = uniqueDates[uniqueDates.length - 1] || null;
 
       const countOccurrences = (values) => {
         const counts = new Map();
@@ -1432,6 +1441,9 @@
       const render = () => {
         updateActiveDateTrack();
         const filteredEvents = getFilteredEvents();
+        if (earliestDate && latestDate) {
+          elements.heroDateRange.textContent = `Singapore Events Information from ${earliestDate.dayNumber} ${earliestDate.monthAbbr} ${earliestDate.year} to ${latestDate.dayNumber} ${latestDate.monthAbbr} ${latestDate.year}`;
+        }
         renderSummary(filteredEvents);
         renderCompactSummary();
         renderCards(filteredEvents);
