@@ -142,77 +142,16 @@
       z-index: 10;
       background: rgba(255, 255, 255, 0.93);
       border-radius: var(--radius-xl);
-      padding: 24px 28px 20px;
+      padding: 18px 24px 14px;
       box-shadow: var(--shadow);
       backdrop-filter: blur(10px);
-      transition: none;
-    }
-
-    .toolbar-compact-summary {
-      display: none;
-      align-items: center;
-      gap: 10px;
-      flex-wrap: wrap;
-      min-height: 44px;
-    }
-
-    .compact-label {
-      color: #7a7a7a;
-      font-size: 0.92rem;
-      margin-right: 2px;
-    }
-
-    .compact-chip {
-      display: inline-flex;
-      align-items: center;
-      min-height: 34px;
-      max-width: min(100%, 280px);
-      padding: 8px 14px;
-      border-radius: 999px;
-      background: #f0efec;
-      color: #3b3b3b;
-      font-size: 0.92rem;
-      line-height: 1;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-    }
-
-    .compact-chip.is-date {
-      background: rgba(191, 38, 29, 0.1);
-      color: var(--brand-dark);
-      font-weight: 600;
-    }
-
-    .filters-row,
-    .date-strip,
-    .legend-row,
-    .stats-row {
-      transition: none;
-    }
-
-    .toolbar.is-compact:not(:hover):not(:focus-within) {
-      padding-top: 14px;
-      padding-bottom: 14px;
-      box-shadow: 0 8px 18px rgba(42, 32, 24, 0.12);
-    }
-
-    .toolbar.is-compact:not(:hover):not(:focus-within) .toolbar-compact-summary {
-      display: flex;
-    }
-
-    .toolbar.is-compact:not(:hover):not(:focus-within) .filters-row,
-    .toolbar.is-compact:not(:hover):not(:focus-within) .date-strip,
-    .toolbar.is-compact:not(:hover):not(:focus-within) .legend-row,
-    .toolbar.is-compact:not(:hover):not(:focus-within) .stats-row {
-      display: none;
     }
 
     .filters-row {
       display: grid;
       grid-template-columns: repeat(2, minmax(0, 1fr));
       gap: 26px;
-      margin-bottom: 18px;
+      margin-bottom: 12px;
     }
 
     .multi-select {
@@ -225,14 +164,14 @@
 
     .multi-select-trigger {
       width: 100%;
-      min-height: 74px;
+      min-height: 48px;
       border: 2px solid #2d2d2d;
       border-radius: 24px;
-      padding: 14px 60px 14px 14px;
+      padding: 5px 48px 5px 6px;
       background: #fff;
       display: flex;
       align-items: center;
-      gap: 8px;
+      gap: 6px;
       flex-wrap: wrap;
       cursor: pointer;
       text-align: left;
@@ -266,14 +205,14 @@
     .selected-chip {
       display: inline-flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
       max-width: calc(100% - 8px);
       border-radius: 999px;
       background: var(--chip);
       color: var(--chip-text);
-      padding: 7px 10px 7px 14px;
+      padding: 3px 6px 3px 6px;
       line-height: 1;
-      font-size: 0.95rem;
+      font-size: 0.9rem;
     }
 
     .selected-chip button {
@@ -366,7 +305,7 @@
       border: 0;
       border-right: 1px solid rgba(40, 40, 40, 0.1);
       background: #fff;
-      padding: 22px 18px;
+      padding: 8px 7px;
       cursor: pointer;
       color: var(--text);
     }
@@ -385,14 +324,14 @@
     }
 
     .calendar-icon {
-      width: 46px;
-      height: 46px;
+      width: 38px;
+      height: 38px;
       flex: 0 0 auto;
     }
 
     .calendar-button span {
       color: #4d4d4d;
-      font-size: 0.94rem;
+      font-size: 0.88rem;
       line-height: 1.05;
       text-align: left;
     }
@@ -436,12 +375,12 @@
       border: 0;
       border-left: 1px solid rgba(40, 40, 40, 0.15);
       background: #fff;
-      min-height: 124px;
-      padding: 16px 10px 14px;
+      min-height: 74px;
+      padding: 6px 4px 5px;
       display: flex;
       flex-direction: column;
       justify-content: center;
-      gap: 6px;
+      gap: 4px;
       cursor: pointer;
       color: #565656;
       transition: background 0.18s ease, color 0.18s ease;
@@ -452,13 +391,13 @@
     }
 
     .date-pill .weekday {
-      font-size: 1rem;
+      font-size: 0.94rem;
       line-height: 1.05;
       white-space: nowrap;
     }
 
     .date-pill .day-text {
-      font-size: 1.2rem;
+      font-size: 1.08rem;
       line-height: 1.12;
       font-weight: 500;
     }
@@ -473,9 +412,9 @@
       flex-wrap: wrap;
       align-items: center;
       gap: 16px;
-      padding: 14px 4px 2px;
+      padding: 10px 4px 0;
       color: #5d5d5d;
-      font-size: 0.94rem;
+      font-size: 0.9rem;
     }
 
     .legend-item {
@@ -502,9 +441,9 @@
       align-items: center;
       justify-content: space-between;
       gap: 16px;
-      padding: 14px 4px 4px;
+      padding: 10px 4px 2px;
       color: #5b5b5b;
-      font-size: 0.95rem;
+      font-size: 0.92rem;
     }
 
     .cards {
@@ -737,12 +676,7 @@
       }
 
       .toolbar {
-        padding: 20px 16px 18px;
-      }
-
-      .toolbar.is-compact:not(:hover):not(:focus-within) {
-        padding-top: 12px;
-        padding-bottom: 12px;
+        padding: 16px 14px 12px;
       }
 
       .filters-row {
@@ -757,7 +691,7 @@
       .calendar-button,
       .browse-all-button {
         min-width: 0;
-        padding: 18px 14px;
+        padding: 14px 10px;
       }
 
       .date-track {
@@ -804,8 +738,8 @@
       }
 
       .multi-select-trigger {
-        min-height: 68px;
-        padding-right: 54px;
+        min-height: 44px;
+        padding-right: 42px;
       }
 
       .multi-select-placeholder {
@@ -821,7 +755,7 @@
         min-width: 0;
         gap: 0;
         justify-content: center;
-        padding: 12px 8px;
+        padding: 5px 3px;
       }
 
       .calendar-icon {
@@ -843,7 +777,7 @@
 
       .browse-all-button {
         font-size: 0.92rem;
-        padding: 12px 6px;
+        padding: 5px 3px;
       }
 
       .date-nav {
@@ -856,8 +790,8 @@
       }
 
       .date-pill {
-        min-height: 58px;
-        padding: 8px 4px;
+        min-height: 48px;
+        padding: 4px 2px;
         gap: 2px;
       }
 
@@ -888,14 +822,6 @@
         align-items: flex-start;
       }
 
-      .toolbar-compact-summary {
-        gap: 8px;
-      }
-
-      .compact-chip {
-        max-width: 100%;
-      }
-
       .scroll-top-button {
         right: 14px;
         bottom: 14px;
@@ -924,8 +850,6 @@
 
     <main class="content-wrap">
       <section class="toolbar" aria-label="Filters">
-        <div id="toolbarCompactSummary" class="toolbar-compact-summary"></div>
-
         <div class="filters-row">
           <div class="multi-select" id="categoryFilter">
             <button class="multi-select-trigger" type="button" aria-haspopup="listbox" aria-expanded="false">
@@ -1013,8 +937,6 @@
 
       const elements = {
         cards: document.getElementById("cards"),
-        toolbar: document.querySelector(".toolbar"),
-        toolbarCompactSummary: document.getElementById("toolbarCompactSummary"),
         heroDateRange: document.getElementById("heroDateRange"),
         resultSummary: document.getElementById("resultSummary"),
         selectedDateLabel: document.getElementById("selectedDateLabel"),
@@ -1458,34 +1380,10 @@
           summaryParts.push(`matching "${state.query}"`);
         }
 
-        elements.resultSummary.textContent = summaryParts.join(" · ");
+        elements.resultSummary.textContent = summaryParts.join(" | ");
         elements.selectedDateLabel.textContent = selectedDate
           ? `${selectedDate.weekday}, ${selectedDate.dayNumber} ${selectedDate.monthAbbr} ${selectedDate.year}`
           : "All dates";
-      };
-
-      const renderCompactSummary = () => {
-        const parts = [];
-        const dateLabel = state.selectedDateKey === allDatesKey
-          ? "All dates"
-          : (elements.selectedDateLabel.textContent || "Date");
-
-        parts.push(`<span class="compact-label">Selected</span>`);
-
-        if (state.categories.length) {
-          state.categories.forEach((category) => {
-            parts.push(`<span class="compact-chip">${escapeHtml(category)}</span>`);
-          });
-        }
-
-        if (state.venues.length) {
-          state.venues.forEach((venue) => {
-            parts.push(`<span class="compact-chip">${escapeHtml(venue)}</span>`);
-          });
-        }
-
-        parts.push(`<span class="compact-chip is-date">${escapeHtml(dateLabel)}</span>`);
-        elements.toolbarCompactSummary.innerHTML = parts.join("");
       };
 
       const render = () => {
@@ -1495,14 +1393,11 @@
           elements.heroDateRange.textContent = `Singapore Events Information from ${earliestDate.dayNumber} ${earliestDate.monthAbbr} ${earliestDate.year} to ${latestDate.dayNumber} ${latestDate.monthAbbr} ${latestDate.year}`;
         }
         renderSummary(filteredEvents);
-        renderCompactSummary();
         renderCards(filteredEvents);
       };
 
       const updateToolbarState = () => {
         const currentY = window.scrollY || window.pageYOffset || 0;
-        const shouldCompact = currentY > 180;
-        elements.toolbar.classList.toggle("is-compact", shouldCompact);
         elements.scrollTopButton.classList.toggle("is-visible", currentY > 260);
       };
 
