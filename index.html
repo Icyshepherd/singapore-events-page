@@ -145,7 +145,7 @@
       padding: 24px 28px 20px;
       box-shadow: var(--shadow);
       backdrop-filter: blur(10px);
-      transition: padding 0.22s ease, box-shadow 0.22s ease;
+      transition: none;
     }
 
     .toolbar-compact-summary {
@@ -182,6 +182,13 @@
       background: rgba(191, 38, 29, 0.1);
       color: var(--brand-dark);
       font-weight: 600;
+    }
+
+    .filters-row,
+    .date-strip,
+    .legend-row,
+    .stats-row {
+      transition: none;
     }
 
     .toolbar.is-compact:not(:hover):not(:focus-within) {
@@ -334,14 +341,20 @@
 
     .date-strip {
       display: grid;
-      grid-template-columns: auto auto auto 1fr auto;
+      grid-template-columns: 162px 138px 58px minmax(0, 1fr) 58px;
       align-items: stretch;
       gap: 0;
+      width: 100%;
+      min-width: 0;
       border-radius: 24px;
       overflow: hidden;
       border: 1px solid rgba(40, 40, 40, 0.08);
       background: #fff;
       box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7);
+    }
+
+    .date-strip > * {
+      min-width: 0;
     }
 
     .calendar-button,
@@ -384,8 +397,13 @@
       text-align: left;
     }
 
+    .label-short {
+      display: none;
+    }
+
     .date-nav {
       width: 58px;
+      min-width: 0;
       border: 0;
       background: #fff;
       color: #c9c9c9;
@@ -404,6 +422,7 @@
       display: grid;
       grid-auto-flow: column;
       grid-auto-columns: minmax(122px, 1fr);
+      min-width: 0;
       overflow-x: auto;
       scrollbar-width: none;
       background: #fff;
@@ -732,12 +751,12 @@
       }
 
       .date-strip {
-        grid-template-columns: auto auto 1fr auto;
+        grid-template-columns: 144px 120px 48px minmax(0, 1fr) 48px;
       }
 
       .calendar-button,
       .browse-all-button {
-        min-width: auto;
+        min-width: 0;
         padding: 18px 14px;
       }
 
@@ -793,34 +812,62 @@
         font-size: 1rem;
       }
 
+      .date-strip {
+        grid-template-columns: 58px 54px 28px 1fr 28px;
+      }
+
       .calendar-button,
       .browse-all-button {
-        gap: 10px;
+        min-width: 0;
+        gap: 0;
+        justify-content: center;
+        padding: 12px 8px;
+      }
+
+      .calendar-icon {
+        width: 30px;
+        height: 30px;
       }
 
       .calendar-button span {
-        font-size: 0.85rem;
+        display: none;
+      }
+
+      .browse-all-button .label-full {
+        display: none;
+      }
+
+      .browse-all-button .label-short {
+        display: inline;
+      }
+
+      .browse-all-button {
+        font-size: 0.92rem;
+        padding: 12px 6px;
       }
 
       .date-nav {
-        width: 42px;
+        width: 28px;
+        font-size: 1.8rem;
       }
 
       .date-track {
-        grid-auto-columns: 104px;
+        grid-auto-columns: minmax(64px, 1fr);
       }
 
       .date-pill {
-        min-height: 102px;
-        padding: 14px 8px;
+        min-height: 58px;
+        padding: 8px 4px;
+        gap: 2px;
       }
 
       .date-pill .weekday {
-        font-size: 0.88rem;
+        font-size: 0.76rem;
       }
 
       .date-pill .day-text {
-        font-size: 1rem;
+        font-size: 0.82rem;
+        line-height: 1;
       }
 
       .event-card {
@@ -865,7 +912,7 @@
         <div class="hero-copy">
           <h1 class="brand">SG Events</h1>
           <p id="heroDateRange" class="hero-note is-secondary">Singapore Events Information</p>
-          <p class="hero-note">by Icyshepherd · Non-commercial use only</p>
+          <p class="hero-note">by Icyshepherd | Non-commercial use only</p>
         </div>
         <form class="search-bar" id="searchForm">
           <label class="sr-only" for="searchInput">Search events</label>
@@ -909,7 +956,10 @@
             </svg>
             <span>Select<br>Date</span>
           </button>
-          <button id="browseAllButton" class="browse-all-button active" type="button">Browse All</button>
+          <button id="browseAllButton" class="browse-all-button active" type="button">
+            <span class="label-full">Browse All</span>
+            <span class="label-short">All</span>
+          </button>
           <input id="datePicker" class="sr-only" type="date">
           <button id="prevDates" class="date-nav" type="button" aria-label="Previous dates">&#8249;</button>
           <div id="dateTrack" class="date-track" aria-label="Date selection"></div>
