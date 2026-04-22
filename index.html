@@ -145,6 +145,57 @@
       padding: 18px 24px 14px;
       box-shadow: var(--shadow);
       backdrop-filter: blur(10px);
+      transition: padding 0.24s ease, box-shadow 0.24s ease, background 0.24s ease;
+      overflow: hidden;
+    }
+
+    .toolbar-summary {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 12px;
+      max-height: 0;
+      opacity: 0;
+      transform: translateY(-10px);
+      pointer-events: none;
+      transition: max-height 0.24s ease, opacity 0.18s ease, transform 0.24s ease;
+    }
+
+    .toolbar-summary-item {
+      min-width: 0;
+      padding: 10px 14px;
+      border-radius: 18px;
+      background: rgba(191, 38, 29, 0.07);
+      border: 1px solid rgba(191, 38, 29, 0.12);
+    }
+
+    .toolbar-summary-label {
+      display: block;
+      margin-bottom: 4px;
+      color: rgba(84, 47, 44, 0.72);
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    .toolbar-summary-value {
+      display: block;
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      color: #3c2f2c;
+      font-size: 0.98rem;
+      font-weight: 700;
+    }
+
+    .toolbar-body {
+      display: grid;
+      gap: 0;
+      max-height: 480px;
+      opacity: 1;
+      transform: translateY(0);
+      transition: max-height 0.3s ease, opacity 0.22s ease, transform 0.3s ease;
     }
 
     .filters-row {
@@ -446,6 +497,44 @@
       font-size: 0.92rem;
     }
 
+    .toolbar.is-collapsed {
+      padding-top: 14px;
+      padding-bottom: 12px;
+      box-shadow: 0 12px 30px rgba(42, 32, 24, 0.18);
+    }
+
+    .toolbar.is-collapsed .toolbar-summary {
+      max-height: 96px;
+      opacity: 1;
+      transform: translateY(0);
+      pointer-events: auto;
+      margin-bottom: 2px;
+    }
+
+    .toolbar.is-collapsed .toolbar-body {
+      max-height: 0;
+      opacity: 0;
+      transform: translateY(-10px);
+      pointer-events: none;
+    }
+
+    .toolbar.is-collapsed:hover .toolbar-body,
+    .toolbar.is-collapsed:focus-within .toolbar-body {
+      max-height: 480px;
+      opacity: 1;
+      transform: translateY(0);
+      pointer-events: auto;
+    }
+
+    .toolbar.is-collapsed:hover .toolbar-summary,
+    .toolbar.is-collapsed:focus-within .toolbar-summary {
+      max-height: 0;
+      opacity: 0;
+      transform: translateY(-10px);
+      pointer-events: none;
+      margin-bottom: 0;
+    }
+
     .cards {
       display: grid;
       gap: 18px;
@@ -679,6 +768,10 @@
         padding: 16px 14px 12px;
       }
 
+      .toolbar-summary {
+        grid-template-columns: 1fr;
+      }
+
       .filters-row {
         grid-template-columns: 1fr;
         gap: 16px;
@@ -850,54 +943,71 @@
 
     <main class="content-wrap">
       <section class="toolbar" aria-label="Filters">
-        <div class="filters-row">
-          <div class="multi-select" id="categoryFilter">
-            <button class="multi-select-trigger" type="button" aria-haspopup="listbox" aria-expanded="false">
-              <span class="multi-select-placeholder">Categories</span>
-            </button>
-            <div class="multi-select-panel">
-              <div class="option-list" role="listbox" aria-multiselectable="true"></div>
-            </div>
+        <div class="toolbar-summary" aria-hidden="true">
+          <div class="toolbar-summary-item">
+            <span class="toolbar-summary-label">Category</span>
+            <span id="collapsedCategoryValue" class="toolbar-summary-value">All categories</span>
           </div>
-
-          <div class="multi-select" id="venueFilter">
-            <button class="multi-select-trigger" type="button" aria-haspopup="listbox" aria-expanded="false">
-              <span class="multi-select-placeholder">Venues</span>
-            </button>
-            <div class="multi-select-panel">
-              <div class="option-list" role="listbox" aria-multiselectable="true"></div>
-            </div>
+          <div class="toolbar-summary-item">
+            <span class="toolbar-summary-label">Venue</span>
+            <span id="collapsedVenueValue" class="toolbar-summary-value">All venues</span>
+          </div>
+          <div class="toolbar-summary-item">
+            <span class="toolbar-summary-label">Date</span>
+            <span id="collapsedDateValue" class="toolbar-summary-value">All dates</span>
           </div>
         </div>
 
-        <div class="date-strip">
-          <button id="datePickerButton" class="calendar-button" type="button">
-            <svg class="calendar-icon" viewBox="0 0 64 64" fill="none" aria-hidden="true">
-              <rect x="11" y="14" width="42" height="40" rx="6" stroke="currentColor" stroke-width="4"></rect>
-              <path d="M11 24H53" stroke="currentColor" stroke-width="4"></path>
-              <path d="M22 8V20" stroke="currentColor" stroke-width="4" stroke-linecap="round"></path>
-              <path d="M42 8V20" stroke="currentColor" stroke-width="4" stroke-linecap="round"></path>
-            </svg>
-            <span>Select<br>Date</span>
-          </button>
-          <button id="browseAllButton" class="browse-all-button active" type="button">
-            <span class="label-full">Browse All</span>
-            <span class="label-short">All</span>
-          </button>
-          <input id="datePicker" class="sr-only" type="date">
-          <button id="prevDates" class="date-nav" type="button" aria-label="Previous dates">&#8249;</button>
-          <div id="dateTrack" class="date-track" aria-label="Date selection"></div>
-          <button id="nextDates" class="date-nav" type="button" aria-label="Next dates">&#8250;</button>
-        </div>
+        <div class="toolbar-body">
+          <div class="filters-row">
+            <div class="multi-select" id="categoryFilter">
+              <button class="multi-select-trigger" type="button" aria-haspopup="listbox" aria-expanded="false">
+                <span class="multi-select-placeholder">Categories</span>
+              </button>
+              <div class="multi-select-panel">
+                <div class="option-list" role="listbox" aria-multiselectable="true"></div>
+              </div>
+            </div>
 
-        <div class="legend-row">
-          <span class="legend-item"><span class="legend-dot"></span> available</span>
-          <span class="legend-item"><span class="legend-dot is-sold-out"></span> sold out</span>
-        </div>
+            <div class="multi-select" id="venueFilter">
+              <button class="multi-select-trigger" type="button" aria-haspopup="listbox" aria-expanded="false">
+                <span class="multi-select-placeholder">Venues</span>
+              </button>
+              <div class="multi-select-panel">
+                <div class="option-list" role="listbox" aria-multiselectable="true"></div>
+              </div>
+            </div>
+          </div>
 
-        <div class="stats-row">
-          <div id="resultSummary">Loading events...</div>
-          <div id="selectedDateLabel"></div>
+          <div class="date-strip">
+            <button id="datePickerButton" class="calendar-button" type="button">
+              <svg class="calendar-icon" viewBox="0 0 64 64" fill="none" aria-hidden="true">
+                <rect x="11" y="14" width="42" height="40" rx="6" stroke="currentColor" stroke-width="4"></rect>
+                <path d="M11 24H53" stroke="currentColor" stroke-width="4"></path>
+                <path d="M22 8V20" stroke="currentColor" stroke-width="4" stroke-linecap="round"></path>
+                <path d="M42 8V20" stroke="currentColor" stroke-width="4" stroke-linecap="round"></path>
+              </svg>
+              <span>Select<br>Date</span>
+            </button>
+            <button id="browseAllButton" class="browse-all-button active" type="button">
+              <span class="label-full">Browse All</span>
+              <span class="label-short">All</span>
+            </button>
+            <input id="datePicker" class="sr-only" type="date">
+            <button id="prevDates" class="date-nav" type="button" aria-label="Previous dates">&#8249;</button>
+            <div id="dateTrack" class="date-track" aria-label="Date selection"></div>
+            <button id="nextDates" class="date-nav" type="button" aria-label="Next dates">&#8250;</button>
+          </div>
+
+          <div class="legend-row">
+            <span class="legend-item"><span class="legend-dot"></span> available</span>
+            <span class="legend-item"><span class="legend-dot is-sold-out"></span> sold out</span>
+          </div>
+
+          <div class="stats-row">
+            <div id="resultSummary">Loading events...</div>
+            <div id="selectedDateLabel"></div>
+          </div>
         </div>
       </section>
 
@@ -937,9 +1047,13 @@
 
       const elements = {
         cards: document.getElementById("cards"),
+        toolbar: document.querySelector(".toolbar"),
         heroDateRange: document.getElementById("heroDateRange"),
         resultSummary: document.getElementById("resultSummary"),
         selectedDateLabel: document.getElementById("selectedDateLabel"),
+        collapsedCategoryValue: document.getElementById("collapsedCategoryValue"),
+        collapsedVenueValue: document.getElementById("collapsedVenueValue"),
+        collapsedDateValue: document.getElementById("collapsedDateValue"),
         searchInput: document.getElementById("searchInput"),
         searchForm: document.getElementById("searchForm"),
         dateTrack: document.getElementById("dateTrack"),
@@ -1367,6 +1481,11 @@
       const renderSummary = (filteredEvents) => {
         const selectedDate = uniqueDates.find((item) => item.key === state.selectedDateKey);
         const summaryParts = [`${filteredEvents.length} event${filteredEvents.length === 1 ? "" : "s"}`];
+        const categorySummary = state.categories.length ? state.categories.join(", ") : "All categories";
+        const venueSummary = state.venues.length ? state.venues.join(", ") : "All venues";
+        const dateSummary = selectedDate
+          ? `${selectedDate.weekday}, ${selectedDate.dayNumber} ${selectedDate.monthAbbr} ${selectedDate.year}`
+          : "All dates";
 
         if (state.categories.length) {
           summaryParts.push(state.categories.join(", "));
@@ -1381,9 +1500,10 @@
         }
 
         elements.resultSummary.textContent = summaryParts.join(" | ");
-        elements.selectedDateLabel.textContent = selectedDate
-          ? `${selectedDate.weekday}, ${selectedDate.dayNumber} ${selectedDate.monthAbbr} ${selectedDate.year}`
-          : "All dates";
+        elements.selectedDateLabel.textContent = dateSummary;
+        elements.collapsedCategoryValue.textContent = categorySummary;
+        elements.collapsedVenueValue.textContent = venueSummary;
+        elements.collapsedDateValue.textContent = dateSummary;
       };
 
       const render = () => {
@@ -1398,7 +1518,16 @@
 
       const updateToolbarState = () => {
         const currentY = window.scrollY || window.pageYOffset || 0;
+        const toolbarTop = elements.toolbar.getBoundingClientRect().top;
+        const isCollapsed = currentY > 0 && toolbarTop <= 12.5;
         elements.scrollTopButton.classList.toggle("is-visible", currentY > 260);
+        elements.toolbar.classList.toggle("is-collapsed", isCollapsed);
+        if (isCollapsed) {
+          Object.values(elements.filters).forEach((root) => {
+            root.classList.remove("is-open");
+            root.querySelector(".multi-select-trigger").setAttribute("aria-expanded", "false");
+          });
+        }
       };
 
       const bindMultiSelects = () => {
