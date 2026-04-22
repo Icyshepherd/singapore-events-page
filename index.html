@@ -262,7 +262,7 @@
 
     .date-strip {
       display: grid;
-      grid-template-columns: auto auto 1fr auto;
+      grid-template-columns: auto auto auto 1fr auto;
       align-items: stretch;
       gap: 0;
       border-radius: 24px;
@@ -272,7 +272,8 @@
       box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7);
     }
 
-    .calendar-button {
+    .calendar-button,
+    .browse-all-button {
       display: flex;
       align-items: center;
       gap: 14px;
@@ -283,6 +284,19 @@
       padding: 22px 18px;
       cursor: pointer;
       color: var(--text);
+    }
+
+    .browse-all-button {
+      min-width: 138px;
+      justify-content: center;
+      color: #4d4d4d;
+      font-size: 1rem;
+      font-weight: 600;
+    }
+
+    .browse-all-button.active {
+      background: var(--brand);
+      color: #fff;
     }
 
     .calendar-icon {
@@ -609,10 +623,11 @@
       }
 
       .date-strip {
-        grid-template-columns: auto 1fr auto;
+        grid-template-columns: auto auto 1fr auto;
       }
 
-      .calendar-button {
+      .calendar-button,
+      .browse-all-button {
         min-width: auto;
         padding: 18px 14px;
       }
@@ -669,7 +684,8 @@
         font-size: 1rem;
       }
 
-      .calendar-button {
+      .calendar-button,
+      .browse-all-button {
         gap: 10px;
       }
 
@@ -763,6 +779,7 @@
             </svg>
             <span>Select<br>Date</span>
           </button>
+          <button id="browseAllButton" class="browse-all-button active" type="button">Browse All</button>
           <input id="datePicker" class="sr-only" type="date">
           <button id="prevDates" class="date-nav" type="button" aria-label="Previous dates">&#8249;</button>
           <div id="dateTrack" class="date-track" aria-label="Date selection"></div>
@@ -770,8 +787,8 @@
         </div>
 
         <div class="legend-row">
-          <span class="legend-item"><span class="legend-dot"></span> Green dot means tickets are available.</span>
-          <span class="legend-item"><span class="legend-dot is-sold-out"></span> Red dot means sold out.</span>
+          <span class="legend-item"><span class="legend-dot"></span> available</span>
+          <span class="legend-item"><span class="legend-dot is-sold-out"></span> sold out</span>
         </div>
 
         <div class="stats-row">
@@ -821,6 +838,7 @@
         dateTrack: document.getElementById("dateTrack"),
         prevDates: document.getElementById("prevDates"),
         nextDates: document.getElementById("nextDates"),
+        browseAllButton: document.getElementById("browseAllButton"),
         datePickerButton: document.getElementById("datePickerButton"),
         datePicker: document.getElementById("datePicker"),
         filters: {
@@ -1078,6 +1096,7 @@
         elements.dateTrack.querySelectorAll(".date-pill").forEach((pill) => {
           pill.classList.toggle("active", pill.dataset.dateKey === state.selectedDateKey);
         });
+        elements.browseAllButton.classList.toggle("active", state.selectedDateKey === allDatesKey);
       };
 
       const renderDateTrack = () => {
@@ -1100,22 +1119,6 @@
           });
           elements.dateTrack.appendChild(button);
         });
-
-        const allButton = document.createElement("button");
-        allButton.type = "button";
-        allButton.className = `date-pill${state.selectedDateKey === allDatesKey ? " active" : ""}`;
-        allButton.dataset.dateKey = allDatesKey;
-        allButton.innerHTML = `
-          <span class="weekday">Browse</span>
-          <span class="day-text">all</span>
-        `;
-        allButton.addEventListener("click", () => {
-          state.selectedDateKey = allDatesKey;
-          syncDatePicker();
-          render();
-          scrollDateIntoView(allDatesKey);
-        });
-        elements.dateTrack.appendChild(allButton);
 
         syncDatePicker();
       };
@@ -1334,6 +1337,12 @@
           elements.datePicker.click();
         });
 
+        elements.browseAllButton.addEventListener("click", () => {
+          state.selectedDateKey = allDatesKey;
+          syncDatePicker();
+          render();
+        });
+
         elements.datePicker.addEventListener("change", (event) => {
           const picked = event.target.value;
           if (!picked) {
@@ -1354,7 +1363,7 @@
       renderDateTrack();
       bindEvents();
       render();
-      scrollDateIntoView(state.selectedDateKey);
+      elements.dateTrack.scrollLeft = 0;
     })();
   </script>
 </body>
