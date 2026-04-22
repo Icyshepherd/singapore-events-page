@@ -803,8 +803,10 @@
         Dec: 11
       };
 
+      const allDatesKey = "__all__";
+
       const state = {
-        selectedDateKey: "",
+        selectedDateKey: allDatesKey,
         categories: [],
         venues: [],
         query: ""
@@ -873,8 +875,8 @@
 
       const formatMoney = (amount) => `S$${Math.max(0, Number(amount) || 0)}`;
 
-      const normalizedEvents = rawEvents
-        .flatMap((item, eventIndex) => {
+      const eventSummaries = rawEvents
+        .map((item, eventIndex) => {
           const categories = Array.isArray(item.category)
             ? item.category.map(sanitizeText).filter(Boolean)
             : [];
@@ -889,35 +891,69 @@
               }))
             : [];
           const originalPriceMin = Number.isFinite(Number(item["original price min"])) ? Number(item["original price min"]) : 0;
+          const firstDateText = sanitizeText(item["First-Day-Month-Year (day of the week)"]);
+          const lastDateText = sanitizeText(item["Last-Day-Month-Year (day of the week)"]);
+          const firstDateInfo = firstDateText
+            ? parseEventDate(`${firstDateText} 00:00`)
+            : null;
 
-          return (Array.isArray(item.showtimes) ? item.showtimes : [])
+          const searchFragments = [
+            item["Event name"],
+            item["Artist"],
+            item["Organizer"],
+            item["Venue"],
+            ...(Array.isArray(item.category) ? item.category : []),
+            ...sources.flatMap((source) => [source.name, source.url])
+          ];
+
+          return {
+            id: `event-${eventIndex + 1}`,
+            title: sanitizeText(item["Event name"]) || "Untitled event",
+            venue: sanitizeText(item["Venue"]) || "Venue TBC",
+            artist: sanitizeText(item["Artist"]),
+            organizer: sanitizeText(item["Organizer"]),
+            introduction: sanitizeText(item["Event introduction"]),
+            categories,
+            sources,
+            originalPriceMin,
+            firstDateInfo,
+            firstDateText,
+            lastDateText,
+            dateTextForAll: firstDateText && lastDateText
+              ? `${firstDateText} ~ ${lastDateText}`
+              : firstDateText || lastDateText || "",
+            searchText: searchFragments.map(sanitizeText).join(" ").toLowerCase(),
+            showtimes: Array.isArray(item.showtimes) ? item.showtimes : []
+          };
+        })
+        .sort((a, b) => {
+          const timeA = a.firstDateInfo?.date?.getTime?.() ?? Number.MAX_SAFE_INTEGER;
+          const timeB = b.firstDateInfo?.date?.getTime?.() ?? Number.MAX_SAFE_INTEGER;
+          return timeA - timeB || a.title.localeCompare(b.title);
+        });
+
+      const normalizedEvents = eventSummaries
+        .flatMap((item, eventIndex) => {
+          return item.showtimes
             .map((showtime, showtimeIndex) => {
               const dateInfo = parseEventDate(showtime["Day-Month-Year (day of the week) hour: minute"]);
               if (!dateInfo) {
                 return null;
               }
 
-              const searchFragments = [
-                item["Event name"],
-                item["Artist"],
-                item["Organizer"],
-                item["Venue"],
-                ...(Array.isArray(item.category) ? item.category : []),
-                ...sources.flatMap((source) => [source.name, source.url])
-              ];
-
               return {
-                id: `event-${eventIndex + 1}-showtime-${showtimeIndex + 1}`,
-                title: sanitizeText(item["Event name"]) || "Untitled event",
-                venue: sanitizeText(item["Venue"]) || "Venue TBC",
-                artist: sanitizeText(item["Artist"]),
-                organizer: sanitizeText(item["Organizer"]),
-                introduction: sanitizeText(item["Event introduction"]),
-                categories,
-                sources,
-                originalPriceMin,
+                id: `${item.id}-showtime-${showtimeIndex + 1}`,
+                title: item.title,
+                venue: item.venue,
+                artist: item.artist,
+                organizer: item.organizer,
+                introduction: item.introduction,
+                categories: item.categories,
+                sources: item.sources,
+                originalPriceMin: item.originalPriceMin,
                 dateInfo,
-                searchText: searchFragments.map(sanitizeText).join(" ").toLowerCase()
+                dateText: dateInfo.display,
+                searchText: item.searchText
               };
             })
             .filter(Boolean);
@@ -939,13 +975,10 @@
           .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
       };
 
-      const categoryOptions = countOccurrences(normalizedEvents.flatMap((event) => event.categories));
-      const venueOptions = countOccurrences(normalizedEvents.map((event) => event.venue));
+      const categoryOptions = countOccurrences(eventSummaries.flatMap((event) => event.categories));
+      const venueOptions = countOccurrences(eventSummaries.map((event) => event.venue));
 
-      const preferredDefaultDate = "2026-05-01";
-      state.selectedDateKey = uniqueDates.some((date) => date.key === preferredDefaultDate)
-        ? preferredDefaultDate
-        : uniqueDates[0]?.key || "";
+      state.selectedDateKey = allDatesKey;
 
       const getSelectedSet = (filterName) => new Set(filterName === "category" ? state.categories : state.venues);
 
@@ -981,7 +1014,7 @@
           const removeButton = document.createElement("button");
           removeButton.type = "button";
           removeButton.setAttribute("aria-label", `Remove ${value}`);
-          removeButton.textContent = "×";
+          removeButton.textContent = "x";
           removeButton.addEventListener("click", (event) => {
             event.stopPropagation();
             toggleFilterValue(filterName, value);
@@ -1068,11 +1101,27 @@
           elements.dateTrack.appendChild(button);
         });
 
+        const allButton = document.createElement("button");
+        allButton.type = "button";
+        allButton.className = `date-pill${state.selectedDateKey === allDatesKey ? " active" : ""}`;
+        allButton.dataset.dateKey = allDatesKey;
+        allButton.innerHTML = `
+          <span class="weekday">Browse</span>
+          <span class="day-text">all</span>
+        `;
+        allButton.addEventListener("click", () => {
+          state.selectedDateKey = allDatesKey;
+          syncDatePicker();
+          render();
+          scrollDateIntoView(allDatesKey);
+        });
+        elements.dateTrack.appendChild(allButton);
+
         syncDatePicker();
       };
 
       const syncDatePicker = () => {
-        elements.datePicker.value = state.selectedDateKey || "";
+        elements.datePicker.value = state.selectedDateKey === allDatesKey ? "" : (state.selectedDateKey || "");
       };
 
       const scrollDateTrackBy = (direction) => {
@@ -1089,8 +1138,10 @@
       };
 
       const getFilteredEvents = () => {
-        return normalizedEvents.filter((event) => {
-          if (state.selectedDateKey && event.dateInfo.key !== state.selectedDateKey) {
+        const sourceEvents = state.selectedDateKey === allDatesKey ? eventSummaries : normalizedEvents;
+
+        return sourceEvents.filter((event) => {
+          if (state.selectedDateKey && state.selectedDateKey !== allDatesKey && event.dateInfo.key !== state.selectedDateKey) {
             return false;
           }
 
@@ -1134,7 +1185,13 @@
 
         const artistOrganizerLine = buildArtistOrganizerLine(event);
         const tags = event.categories.map((category) => `<span class="tag">${escapeHtml(category)}</span>`).join("");
-        const displayPrice = event.originalPriceMin || Math.min(...event.sources.map((source) => source.priceMin), 0);
+        const fallbackSourcePrice = event.sources.length
+          ? Math.min(...event.sources.map((source) => source.priceMin))
+          : 0;
+        const displayPrice = event.originalPriceMin || fallbackSourcePrice;
+        const dateText = state.selectedDateKey === allDatesKey
+          ? (event.dateTextForAll || event.firstDateText || "")
+          : event.dateText;
 
         article.innerHTML = `
           <div class="card-main">
@@ -1147,7 +1204,7 @@
                   <path d="M8 3V8" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
                   <path d="M16 3V8" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
                 </svg>
-                <span>${escapeHtml(event.dateInfo.display)}</span>
+                <span>${escapeHtml(dateText)}</span>
               </div>
               <div class="meta-row">
                 <svg class="meta-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
@@ -1280,6 +1337,9 @@
         elements.datePicker.addEventListener("change", (event) => {
           const picked = event.target.value;
           if (!picked) {
+            state.selectedDateKey = allDatesKey;
+            render();
+            scrollDateIntoView(allDatesKey);
             return;
           }
 
