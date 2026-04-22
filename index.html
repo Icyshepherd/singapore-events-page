@@ -72,6 +72,19 @@
       letter-spacing: -0.06em;
     }
 
+    .hero-copy {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .hero-note {
+      margin: 0;
+      color: rgba(255, 255, 255, 0.82);
+      font-size: 0.9rem;
+      letter-spacing: 0.01em;
+    }
+
     .search-bar {
       width: min(100%, 670px);
       flex: 0 1 620px;
@@ -127,6 +140,60 @@
       padding: 24px 28px 20px;
       box-shadow: var(--shadow);
       backdrop-filter: blur(10px);
+      transition: padding 0.22s ease, box-shadow 0.22s ease;
+    }
+
+    .toolbar-compact-summary {
+      display: none;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      min-height: 44px;
+    }
+
+    .compact-label {
+      color: #7a7a7a;
+      font-size: 0.92rem;
+      margin-right: 2px;
+    }
+
+    .compact-chip {
+      display: inline-flex;
+      align-items: center;
+      min-height: 34px;
+      max-width: min(100%, 280px);
+      padding: 8px 14px;
+      border-radius: 999px;
+      background: #f0efec;
+      color: #3b3b3b;
+      font-size: 0.92rem;
+      line-height: 1;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .compact-chip.is-date {
+      background: rgba(191, 38, 29, 0.1);
+      color: var(--brand-dark);
+      font-weight: 600;
+    }
+
+    .toolbar.is-compact:not(:hover):not(:focus-within) {
+      padding-top: 14px;
+      padding-bottom: 14px;
+      box-shadow: 0 8px 18px rgba(42, 32, 24, 0.12);
+    }
+
+    .toolbar.is-compact:not(:hover):not(:focus-within) .toolbar-compact-summary {
+      display: flex;
+    }
+
+    .toolbar.is-compact:not(:hover):not(:focus-within) .filters-row,
+    .toolbar.is-compact:not(:hover):not(:focus-within) .date-strip,
+    .toolbar.is-compact:not(:hover):not(:focus-within) .legend-row,
+    .toolbar.is-compact:not(:hover):not(:focus-within) .stats-row {
+      display: none;
     }
 
     .filters-row {
@@ -590,6 +657,38 @@
       letter-spacing: -0.04em;
     }
 
+    .scroll-top-button {
+      position: fixed;
+      right: 22px;
+      bottom: 22px;
+      z-index: 25;
+      width: 54px;
+      height: 54px;
+      border: 0;
+      border-radius: 50%;
+      background: var(--brand);
+      color: #fff;
+      box-shadow: 0 12px 28px rgba(191, 38, 29, 0.28);
+      cursor: pointer;
+      opacity: 0;
+      pointer-events: none;
+      transform: translateY(10px);
+      transition: opacity 0.2s ease, transform 0.2s ease, background 0.18s ease;
+      font-size: 1.55rem;
+      line-height: 1;
+    }
+
+    .scroll-top-button.is-visible {
+      opacity: 1;
+      pointer-events: auto;
+      transform: translateY(0);
+    }
+
+    .scroll-top-button:hover,
+    .scroll-top-button:focus-visible {
+      background: var(--brand-dark);
+    }
+
     .sr-only {
       position: absolute;
       width: 1px;
@@ -615,6 +714,11 @@
 
       .toolbar {
         padding: 20px 16px 18px;
+      }
+
+      .toolbar.is-compact:not(:hover):not(:focus-within) {
+        padding-top: 12px;
+        padding-bottom: 12px;
       }
 
       .filters-row {
@@ -731,6 +835,21 @@
         flex-direction: column;
         align-items: flex-start;
       }
+
+      .toolbar-compact-summary {
+        gap: 8px;
+      }
+
+      .compact-chip {
+        max-width: 100%;
+      }
+
+      .scroll-top-button {
+        right: 14px;
+        bottom: 14px;
+        width: 48px;
+        height: 48px;
+      }
     }
   </style>
 </head>
@@ -738,7 +857,10 @@
   <div class="page-shell">
     <header class="hero">
       <div class="hero-inner">
-        <h1 class="brand">SG Events</h1>
+        <div class="hero-copy">
+          <h1 class="brand">SG Events</h1>
+          <p class="hero-note">by Icyshepherd · Non-commercial use only</p>
+        </div>
         <form class="search-bar" id="searchForm">
           <label class="sr-only" for="searchInput">Search events</label>
           <input id="searchInput" class="search-input" type="search" placeholder="Event name / Artist / ..." autocomplete="off">
@@ -749,6 +871,8 @@
 
     <main class="content-wrap">
       <section class="toolbar" aria-label="Filters">
+        <div id="toolbarCompactSummary" class="toolbar-compact-summary"></div>
+
         <div class="filters-row">
           <div class="multi-select" id="categoryFilter">
             <button class="multi-select-trigger" type="button" aria-haspopup="listbox" aria-expanded="false">
@@ -801,6 +925,8 @@
     </main>
   </div>
 
+  <button id="scrollTopButton" class="scroll-top-button" type="button" aria-label="Back to top">↑</button>
+
   <script src="./events-data.js"></script>
   <script>
     (() => {
@@ -831,6 +957,8 @@
 
       const elements = {
         cards: document.getElementById("cards"),
+        toolbar: document.querySelector(".toolbar"),
+        toolbarCompactSummary: document.getElementById("toolbarCompactSummary"),
         resultSummary: document.getElementById("resultSummary"),
         selectedDateLabel: document.getElementById("selectedDateLabel"),
         searchInput: document.getElementById("searchInput"),
@@ -838,6 +966,7 @@
         dateTrack: document.getElementById("dateTrack"),
         prevDates: document.getElementById("prevDates"),
         nextDates: document.getElementById("nextDates"),
+        scrollTopButton: document.getElementById("scrollTopButton"),
         browseAllButton: document.getElementById("browseAllButton"),
         datePickerButton: document.getElementById("datePickerButton"),
         datePicker: document.getElementById("datePicker"),
@@ -1276,11 +1405,43 @@
           : "All dates";
       };
 
+      const renderCompactSummary = () => {
+        const parts = [];
+        const dateLabel = state.selectedDateKey === allDatesKey
+          ? "All dates"
+          : (elements.selectedDateLabel.textContent || "Date");
+
+        parts.push(`<span class="compact-label">Selected</span>`);
+
+        if (state.categories.length) {
+          state.categories.forEach((category) => {
+            parts.push(`<span class="compact-chip">${escapeHtml(category)}</span>`);
+          });
+        }
+
+        if (state.venues.length) {
+          state.venues.forEach((venue) => {
+            parts.push(`<span class="compact-chip">${escapeHtml(venue)}</span>`);
+          });
+        }
+
+        parts.push(`<span class="compact-chip is-date">${escapeHtml(dateLabel)}</span>`);
+        elements.toolbarCompactSummary.innerHTML = parts.join("");
+      };
+
       const render = () => {
         updateActiveDateTrack();
         const filteredEvents = getFilteredEvents();
         renderSummary(filteredEvents);
+        renderCompactSummary();
         renderCards(filteredEvents);
+      };
+
+      const updateToolbarState = () => {
+        const currentY = window.scrollY || window.pageYOffset || 0;
+        const shouldCompact = currentY > 180;
+        elements.toolbar.classList.toggle("is-compact", shouldCompact);
+        elements.scrollTopButton.classList.toggle("is-visible", currentY > 260);
       };
 
       const bindMultiSelects = () => {
@@ -1343,6 +1504,10 @@
           render();
         });
 
+        elements.scrollTopButton.addEventListener("click", () => {
+          window.scrollTo({ top: 0, behavior: "smooth" });
+        });
+
         elements.datePicker.addEventListener("change", (event) => {
           const picked = event.target.value;
           if (!picked) {
@@ -1356,6 +1521,8 @@
           render();
           scrollDateIntoView(picked);
         });
+
+        window.addEventListener("scroll", updateToolbarState, { passive: true });
       };
 
       renderMultiSelect("category", categoryOptions);
@@ -1364,6 +1531,7 @@
       bindEvents();
       render();
       elements.dateTrack.scrollLeft = 0;
+      updateToolbarState();
     })();
   </script>
 </body>
