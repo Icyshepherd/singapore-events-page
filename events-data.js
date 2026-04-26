@@ -1,5620 +1,15 @@
 ﻿window.SG_EVENTS_DATA = [
   {
-    "Event name": "Fase, Four Movements to the Music of Steve Reich",
-    "Venue": "Singtel Waterfront Theatre at Esplanade",
-    "Artist": "",
-    "Organizer": "The Esplanade Co Ltd",
-    "original price min": 55,
-    "Event introduction": "Don’t miss this seminal work by Anne Teresa De Keersmaeker, a hypnotic, minimalist masterpiece that set the blueprint for choreographing movement in dialogue with music.",
-    "First-Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "category": [
-      "Dance",
-      "Modern/Contemporary"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 19:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/series/dans-focus/events/fase-four-movements-to-the-music-of-steve-reich",
-        "ticket status": "True",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/series/dans-focus/events/fase-four-movements-to-the-music-of-steve-reich",
-        "prince min": 46.75
-      },
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/fase0426",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/fase0426",
-        "prince min": 55
-      }
-    ]
-  },
-  {
-    "Event name": "Gateway Kids Club – May Storytelling 2026",
-    "Venue": "Gateway Theatre Dance Studio",
-    "Artist": "",
-    "Organizer": "Gateway Theatre Pte Ltd",
-    "original price min": 0,
-    "Event introduction": "Made with Love – Stories in AprilThis April at Gateway Kids Club, you’ll find that love can be given and.",
-    "First-Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-    "category": [
-      "Theatre"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 11:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/lite_gkc202605",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/lite_gkc202605",
-        "prince min": 0
-      }
-    ]
-  },
-  {
-    "Event name": "Happy Sing-Along 欢喜来唱歌 2026",
-    "Venue": "Singapore Chinese Cultural Centre",
-    "Artist": "",
-    "Organizer": "Singapore Chinese Cultural Centre",
-    "original price min": 7,
-    "Event introduction": "Happy Sing Along is coming back with double the happiness and double the fun!",
-    "First-Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-    "category": [
-      "Concert",
-      "Evergreen-Asian"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Apr-2026 (Monday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "27-Apr-2026 (Monday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Apr-2026 (Monday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-Apr-2026 (Monday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 12:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 16:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/happy2026",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/happy2026",
-        "prince min": 7
-      }
-    ]
-  },
-  {
-    "Event name": "Jazzing Around at The Capitol Jazz Club",
-    "Venue": "The Capitol Jazz Club",
-    "Artist": "",
-    "Organizer": "VAMP Productions Pte Ltd",
-    "original price min": 38,
-    "Event introduction": "⭐ Step beyond the velvet rope and immerse yourself in the timeless elegance of Jazzing Around at The Capitol Jazz.",
-    "First-Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-    "category": [
-      "Musical"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Apr-2026 (Monday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-Apr-2026 (Monday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Apr-2026 (Monday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "27-Apr-2026 (Monday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 23:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/lite_thecapitoljazzclub02",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/lite_thecapitoljazzclub02",
-        "prince min": 38
-      }
-    ]
-  },
-  {
-    "Event name": "Les Misérables The Arena Spectacular World Tour | Singapore",
-    "Venue": "Sands Theatre, Marina Bay Sands",
-    "Artist": "",
-    "Organizer": "BASE Entertainment Asia",
-    "original price min": 88,
-    "Event introduction": "Cameron Mackintosh's production of Boublil and Schönberg's LES MISÉRABLES THE ARENA SPECTACULAR has commenced its record-breaking World Tour and will.",
-    "First-Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-    "category": [
-      "Theatre",
-      "Entertainment"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 20:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Marina Bay Sands Entertainment",
-        "source url": "https://www.marinabaysands.com/entertainment/shows/les-miserables.html",
-        "ticket status": "True",
-        "ticket url": "https://www.marinabaysands.com/entertainment/shows/les-miserables.html",
-        "prince min": 88
-      },
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/lesmis0526",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/lesmis0526",
-        "prince min": 88
-      }
-    ]
-  },
-  {
-    "Event name": "Live at Cool Cats",
-    "Venue": "Cool Cats at NCO Club",
-    "Artist": "",
-    "Organizer": "VAMP Productions Pte Ltd",
-    "original price min": 28,
-    "Event introduction": "Discover a sultry fusion of live jazz and masterful mixology at Cool Cats — Singapore’s premier destination for cocktails and.",
-    "First-Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-    "category": [
-      "Musical",
-      "Western"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Apr-2026 (Monday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-Apr-2026 (Monday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Apr-2026 (Monday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-Apr-2026 (Monday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Apr-2026 (Monday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "27-Apr-2026 (Monday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Apr-2026 (Monday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "27-Apr-2026 (Monday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 23:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "22:30",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 22:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "23:30",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 23:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/lite_coolcats12",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/lite_coolcats12",
-        "prince min": 15
-      }
-    ]
-  },
-  {
-    "Event name": "Roald Dahl's The BFG Jointly Presented in Singapore by SRT and Esplanade",
-    "Venue": "Esplanade Theatre",
-    "Artist": "",
-    "Organizer": "The Esplanade Co Ltd",
-    "original price min": 48,
-    "Event introduction": "Roald Dahl’s The BFG A Royal Shakespeare Company, Chichester Festival Theatre, Singapore Repertory Theatre, Esplanade – Theatres on the Bay.",
-    "First-Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-    "category": [
-      "Theatre"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 19:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/bfg0526",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/bfg0526",
-        "prince min": 48
-      }
-    ]
-  },
-  {
-    "Event name": "THE CHRISTIANS",
-    "Venue": "The Ngee Ann Kongsi Theatre @ Wild Rice, Funan",
-    "Artist": "",
-    "Organizer": "Wild Rice Ltd",
-    "original price min": 40,
-    "Event introduction": "Over two decades, Pastor Paul has poured his life into building his congregation.",
-    "First-Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-    "category": [
-      "Theatre",
-      "Drama-English"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 13:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 13:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 13:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 13:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 13:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 13:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 19:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/christians0526",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/christians0526",
-        "prince min": 40
-      }
-    ]
-  },
-  {
-    "Event name": "Wings of Time Fireworks Symphony",
-    "Venue": "Central Beach Bazaar, Sentosa",
-    "Artist": "",
-    "Organizer": "Mount Faber Leisure Group",
-    "original price min": 22,
-    "Event introduction": "A beachfront night spectacular blends lasers, fountains, music, and fireworks over the open sea.",
-    "First-Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "21-Jul-2026 (Tuesday)",
-    "category": [
-      "Night Show",
-      "Fireworks",
-      "Outdoor Show"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Apr-2026 (Monday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "27-Apr-2026 (Monday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Apr-2026 (Monday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "27-Apr-2026 (Monday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-Jun-2026 (Monday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "01-Jun-2026 (Monday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-Jun-2026 (Monday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "01-Jun-2026 (Monday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-Jun-2026 (Tuesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "02-Jun-2026 (Tuesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-Jun-2026 (Tuesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "02-Jun-2026 (Tuesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-Jun-2026 (Wednesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "03-Jun-2026 (Wednesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-Jun-2026 (Wednesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "03-Jun-2026 (Wednesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-Jun-2026 (Thursday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "04-Jun-2026 (Thursday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-Jun-2026 (Thursday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "04-Jun-2026 (Thursday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jun-2026 (Friday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jun-2026 (Friday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "07-Jun-2026 (Sunday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "07-Jun-2026 (Sunday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-Jun-2026 (Monday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "08-Jun-2026 (Monday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-Jun-2026 (Monday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "08-Jun-2026 (Monday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-Jun-2026 (Tuesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "09-Jun-2026 (Tuesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-Jun-2026 (Tuesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "09-Jun-2026 (Tuesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-Jun-2026 (Wednesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "10-Jun-2026 (Wednesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-Jun-2026 (Wednesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "10-Jun-2026 (Wednesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-Jun-2026 (Thursday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "11-Jun-2026 (Thursday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-Jun-2026 (Thursday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "11-Jun-2026 (Thursday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-Jun-2026 (Friday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jun-2026 (Friday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-Jun-2026 (Friday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jun-2026 (Friday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "13-Jun-2026 (Saturday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "13-Jun-2026 (Saturday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-Jun-2026 (Sunday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "14-Jun-2026 (Sunday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-Jun-2026 (Sunday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "14-Jun-2026 (Sunday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-Jun-2026 (Monday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "15-Jun-2026 (Monday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-Jun-2026 (Monday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "15-Jun-2026 (Monday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-Jun-2026 (Tuesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "16-Jun-2026 (Tuesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-Jun-2026 (Tuesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "16-Jun-2026 (Tuesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-Jun-2026 (Wednesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "17-Jun-2026 (Wednesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-Jun-2026 (Wednesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "17-Jun-2026 (Wednesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jun-2026 (Thursday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jun-2026 (Thursday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "21-Jun-2026 (Sunday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "21-Jun-2026 (Sunday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-Jun-2026 (Monday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "22-Jun-2026 (Monday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-Jun-2026 (Monday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "22-Jun-2026 (Monday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Jun-2026 (Tuesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "23-Jun-2026 (Tuesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Jun-2026 (Tuesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "23-Jun-2026 (Tuesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Jun-2026 (Wednesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "24-Jun-2026 (Wednesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Jun-2026 (Wednesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "24-Jun-2026 (Wednesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Jun-2026 (Thursday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "25-Jun-2026 (Thursday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Jun-2026 (Thursday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "25-Jun-2026 (Thursday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Jun-2026 (Friday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "26-Jun-2026 (Friday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Jun-2026 (Friday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "26-Jun-2026 (Friday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Jun-2026 (Saturday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "27-Jun-2026 (Saturday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Jun-2026 (Saturday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "27-Jun-2026 (Saturday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Jun-2026 (Sunday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "28-Jun-2026 (Sunday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Jun-2026 (Sunday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "28-Jun-2026 (Sunday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Jun-2026 (Monday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "29-Jun-2026 (Monday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Jun-2026 (Monday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "29-Jun-2026 (Monday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Jun-2026 (Tuesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "30-Jun-2026 (Tuesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Jun-2026 (Tuesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "30-Jun-2026 (Tuesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-Jul-2026 (Wednesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "01-Jul-2026 (Wednesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-Jul-2026 (Wednesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "01-Jul-2026 (Wednesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-Jul-2026 (Thursday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "02-Jul-2026 (Thursday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-Jul-2026 (Thursday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "02-Jul-2026 (Thursday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-Jul-2026 (Friday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "03-Jul-2026 (Friday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-Jul-2026 (Friday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "03-Jul-2026 (Friday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "04-Jul-2026 (Saturday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "04-Jul-2026 (Saturday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jul-2026 (Sunday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jul-2026 (Sunday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-Jul-2026 (Monday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jul-2026 (Monday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-Jul-2026 (Monday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jul-2026 (Monday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-Jul-2026 (Tuesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "07-Jul-2026 (Tuesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-Jul-2026 (Tuesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "07-Jul-2026 (Tuesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-Jul-2026 (Wednesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "08-Jul-2026 (Wednesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-Jul-2026 (Wednesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "08-Jul-2026 (Wednesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-Jul-2026 (Thursday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "09-Jul-2026 (Thursday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-Jul-2026 (Thursday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "09-Jul-2026 (Thursday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-Jul-2026 (Friday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "10-Jul-2026 (Friday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-Jul-2026 (Friday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "10-Jul-2026 (Friday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-Jul-2026 (Saturday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "11-Jul-2026 (Saturday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-Jul-2026 (Saturday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "11-Jul-2026 (Saturday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-Jul-2026 (Sunday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jul-2026 (Sunday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-Jul-2026 (Sunday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jul-2026 (Sunday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-Jul-2026 (Monday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "13-Jul-2026 (Monday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-Jul-2026 (Monday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "13-Jul-2026 (Monday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-Jul-2026 (Tuesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "14-Jul-2026 (Tuesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-Jul-2026 (Tuesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "14-Jul-2026 (Tuesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-Jul-2026 (Wednesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "15-Jul-2026 (Wednesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-Jul-2026 (Wednesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "15-Jul-2026 (Wednesday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-Jul-2026 (Thursday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "16-Jul-2026 (Thursday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-Jul-2026 (Thursday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "16-Jul-2026 (Thursday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-Jul-2026 (Friday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "17-Jul-2026 (Friday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-Jul-2026 (Friday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "17-Jul-2026 (Friday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-Jul-2026 (Saturday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jul-2026 (Saturday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-Jul-2026 (Saturday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jul-2026 (Saturday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jul-2026 (Sunday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jul-2026 (Sunday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jul-2026 (Sunday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jul-2026 (Sunday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jul-2026 (Monday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jul-2026 (Monday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jul-2026 (Monday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jul-2026 (Monday) 20:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-Jul-2026 (Tuesday)",
-        "hour: minute": "19:40",
-        "Day-Month-Year (day of the week) hour: minute": "21-Jul-2026 (Tuesday) 19:40"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-Jul-2026 (Tuesday)",
-        "hour: minute": "20:40",
-        "Day-Month-Year (day of the week) hour: minute": "21-Jul-2026 (Tuesday) 20:40"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Sentosa Events",
-        "source url": "https://www.sentosa.com.sg/en/things-to-do/attractions/wings-of-time/",
-        "ticket status": "True",
-        "ticket url": "https://www.sentosa.com.sg/en/things-to-do/attractions/wings-of-time/",
-        "prince min": 18.7
-      }
-    ]
-  },
-  {
-    "Event name": "华语儿童魔幻剧《大圣归来》(The Monkey King: Legendary Return)",
-    "Venue": "Singapore Chinese Cultural Centre Auditorium, Level 9 新加坡华族文化中心表演厅, 九楼",
-    "Artist": "",
-    "Organizer": "Singapore Focus Theatre Ltd",
-    "original price min": 28,
-    "Event introduction": "The Legend of the Monkey King Returns begins with Sun Wukong trapped under the Five Finger Mountain, having lost his.",
-    "First-Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "22-Jul-2026 (Wednesday)",
-    "category": [
-      "Theatre",
-      "Drama-Chinese"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Apr-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-Apr-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Apr-2026 (Monday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-Apr-2026 (Monday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Apr-2026 (Monday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-Apr-2026 (Monday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Apr-2026 (Monday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "27-Apr-2026 (Monday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-Jun-2026 (Monday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-Jun-2026 (Monday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-Jun-2026 (Monday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-Jun-2026 (Monday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-Jun-2026 (Monday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "01-Jun-2026 (Monday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-Jun-2026 (Tuesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-Jun-2026 (Tuesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-Jun-2026 (Tuesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-Jun-2026 (Tuesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-Jun-2026 (Tuesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "02-Jun-2026 (Tuesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-Jun-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-Jun-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-Jun-2026 (Wednesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-Jun-2026 (Wednesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-Jun-2026 (Wednesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "03-Jun-2026 (Wednesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-Jun-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-Jun-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-Jun-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-Jun-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-Jun-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "04-Jun-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jun-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jun-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jun-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-Jun-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-Jun-2026 (Sunday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "07-Jun-2026 (Sunday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-Jun-2026 (Monday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-Jun-2026 (Monday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-Jun-2026 (Monday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-Jun-2026 (Monday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-Jun-2026 (Monday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "08-Jun-2026 (Monday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-Jun-2026 (Tuesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-Jun-2026 (Tuesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-Jun-2026 (Tuesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-Jun-2026 (Tuesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-Jun-2026 (Tuesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "09-Jun-2026 (Tuesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-Jun-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-Jun-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-Jun-2026 (Wednesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-Jun-2026 (Wednesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-Jun-2026 (Wednesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "10-Jun-2026 (Wednesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-Jun-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-Jun-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-Jun-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-Jun-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-Jun-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "11-Jun-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-Jun-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jun-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-Jun-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jun-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-Jun-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jun-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-Jun-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-Jun-2026 (Saturday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "13-Jun-2026 (Saturday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-Jun-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-Jun-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-Jun-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-Jun-2026 (Sunday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-Jun-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "14-Jun-2026 (Sunday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-Jun-2026 (Monday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-Jun-2026 (Monday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-Jun-2026 (Monday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-Jun-2026 (Monday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-Jun-2026 (Monday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-Jun-2026 (Monday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-Jun-2026 (Tuesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-Jun-2026 (Tuesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-Jun-2026 (Tuesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-Jun-2026 (Tuesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-Jun-2026 (Tuesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-Jun-2026 (Tuesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-Jun-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-Jun-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-Jun-2026 (Wednesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-Jun-2026 (Wednesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-Jun-2026 (Wednesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "17-Jun-2026 (Wednesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jun-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jun-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jun-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-Jun-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-Jun-2026 (Sunday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "21-Jun-2026 (Sunday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-Jun-2026 (Monday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-Jun-2026 (Monday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-Jun-2026 (Monday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-Jun-2026 (Monday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-Jun-2026 (Monday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "22-Jun-2026 (Monday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Jun-2026 (Tuesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-Jun-2026 (Tuesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Jun-2026 (Tuesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-Jun-2026 (Tuesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Jun-2026 (Tuesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-Jun-2026 (Tuesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Jun-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-Jun-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Jun-2026 (Wednesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-Jun-2026 (Wednesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Jun-2026 (Wednesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-Jun-2026 (Wednesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Jun-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Jun-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Jun-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Jun-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Jun-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-Jun-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Jun-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-Jun-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Jun-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-Jun-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Jun-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "26-Jun-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Jun-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-Jun-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Jun-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-Jun-2026 (Saturday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Jun-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "27-Jun-2026 (Saturday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Jun-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-Jun-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Jun-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-Jun-2026 (Sunday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Jun-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "28-Jun-2026 (Sunday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Jun-2026 (Monday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-Jun-2026 (Monday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Jun-2026 (Monday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-Jun-2026 (Monday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Jun-2026 (Monday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "29-Jun-2026 (Monday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Jun-2026 (Tuesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-Jun-2026 (Tuesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Jun-2026 (Tuesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-Jun-2026 (Tuesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Jun-2026 (Tuesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "30-Jun-2026 (Tuesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-Jul-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-Jul-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-Jul-2026 (Wednesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-Jul-2026 (Wednesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-Jul-2026 (Wednesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "01-Jul-2026 (Wednesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-Jul-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-Jul-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-Jul-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-Jul-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-Jul-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "02-Jul-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-Jul-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-Jul-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-Jul-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-Jul-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-Jul-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "03-Jul-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-Jul-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-Jul-2026 (Saturday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "04-Jul-2026 (Saturday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jul-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jul-2026 (Sunday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jul-2026 (Sunday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-Jul-2026 (Monday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jul-2026 (Monday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-Jul-2026 (Monday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jul-2026 (Monday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-Jul-2026 (Monday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jul-2026 (Monday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-Jul-2026 (Tuesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-Jul-2026 (Tuesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-Jul-2026 (Tuesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-Jul-2026 (Tuesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-Jul-2026 (Tuesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "07-Jul-2026 (Tuesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-Jul-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-Jul-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-Jul-2026 (Wednesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-Jul-2026 (Wednesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-Jul-2026 (Wednesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "08-Jul-2026 (Wednesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-Jul-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-Jul-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-Jul-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-Jul-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-Jul-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "09-Jul-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-Jul-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-Jul-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-Jul-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-Jul-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-Jul-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "10-Jul-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-Jul-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-Jul-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-Jul-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-Jul-2026 (Saturday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-Jul-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "11-Jul-2026 (Saturday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-Jul-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jul-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-Jul-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jul-2026 (Sunday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-Jul-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jul-2026 (Sunday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-Jul-2026 (Monday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-Jul-2026 (Monday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-Jul-2026 (Monday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-Jul-2026 (Monday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-Jul-2026 (Monday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "13-Jul-2026 (Monday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-Jul-2026 (Tuesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-Jul-2026 (Tuesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-Jul-2026 (Tuesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-Jul-2026 (Tuesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-Jul-2026 (Tuesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "14-Jul-2026 (Tuesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-Jul-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-Jul-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-Jul-2026 (Wednesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-Jul-2026 (Wednesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-Jul-2026 (Wednesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-Jul-2026 (Wednesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-Jul-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-Jul-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-Jul-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-Jul-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-Jul-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-Jul-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-Jul-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-Jul-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-Jul-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-Jul-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-Jul-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "17-Jul-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-Jul-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jul-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-Jul-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jul-2026 (Saturday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-Jul-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jul-2026 (Saturday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jul-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jul-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jul-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jul-2026 (Sunday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jul-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jul-2026 (Sunday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jul-2026 (Monday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jul-2026 (Monday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jul-2026 (Monday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jul-2026 (Monday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jul-2026 (Monday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jul-2026 (Monday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-Jul-2026 (Tuesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-Jul-2026 (Tuesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-Jul-2026 (Tuesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-Jul-2026 (Tuesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-Jul-2026 (Tuesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "21-Jul-2026 (Tuesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-Jul-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-Jul-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-Jul-2026 (Wednesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-Jul-2026 (Wednesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-Jul-2026 (Wednesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "22-Jul-2026 (Wednesday) 19:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/return0726",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/return0726",
-        "prince min": 28
-      }
-    ]
-  },
-  {
-    "Event name": "Kahchun Wong’s Pictures at an Exhibition",
-    "Venue": "Esplanade Concert Hall",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra (SSO)",
-    "original price min": 15,
-    "Event introduction": "The SSO is joined by musicians of the Singapore Chinese Orchestra as Singaporean conductor Kahchun Wong presents his orchestration of Mussorgsky’s…",
-    "First-Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-    "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 19:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/pictures-exhibition-kahchun-wong",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/SOT2617-1",
-        "prince min": 15
-      },
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/SOT2617-1",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/SOT2617-1",
-        "prince min": 15
-      }
-    ]
-  },
-  {
-    "Event name": "TPCC Presents: Tintinnabuli!",
-    "Venue": "The Arts House, Chamber",
-    "Artist": "",
-    "Organizer": "The Philharmonic Choral Society",
-    "original price min": 30,
-    "Event introduction": "Tintinnabuli!",
-    "First-Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-    "category": [
-      "Concert"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 19:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/tintinnabuli0426",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/tintinnabuli0426",
-        "prince min": 30
-      }
-    ]
-  },
-  {
-    "Event name": "Yvette Atienza & Friends @Eden Jazz Night!",
-    "Venue": "Blu Jazz Cafe",
-    "Artist": "",
-    "Organizer": "Eden Training & Resources Pte Ltd",
-    "original price min": 22,
-    "Event introduction": "An evening of lovingly-selected Afro-Brazilian and Afro-Cuban Latin Jazz classics to make you experience the varied and vibrant tempos and.",
-    "First-Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-    "category": [
-      "Concert"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Apr-2026 (Friday)",
-        "hour: minute": "22:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-Apr-2026 (Friday) 22:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/lite_yvettelatinisimo240426",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/lite_yvettelatinisimo240426",
-        "prince min": 22
-      }
-    ]
-  },
-  {
-    "Event name": "All That Jazz at The Lobby Lounge",
-    "Venue": "The Lobby Lounge, Frasers House, a Luxury Collection Hotel",
-    "Artist": "",
-    "Organizer": "VAMP Productions Pte Ltd",
-    "original price min": 38,
-    "Event introduction": "ALL THAT JAZZ AT THE LOBBY LOUNGE🎙️Introducing All That Jazz at The Lobby Lounge, a month-long weekend series featuring internationally.",
-    "First-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-    "category": [
-      "Musical"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 20:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/lite_allthatjazz01",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/lite_allthatjazz01",
-        "prince min": 38
-      }
-    ]
-  },
-  {
-    "Event name": "Dua Empat & Vanessa Shavonne @Eden Jazz Night!",
-    "Venue": "Blu Jazz Cafe",
-    "Artist": "",
-    "Organizer": "Eden Training & Resources Pte Ltd",
-    "original price min": 22,
-    "Event introduction": "Bringing together some of Indonesia and Singapore’s finest jazz talents, this ensemble features acclaimed guitar duo Dua Empat (Alvin Ghazalie.",
-    "First-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "category": [
-      "Concert"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "22:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 22:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/lite_duaempatvanessa250426",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/lite_duaempatvanessa250426",
-        "prince min": 22
-      }
-    ]
-  },
-  {
-    "Event name": "Echoes of the Forbidden Hill",
-    "Venue": "Drama Centre Theatre, National Library 100 Victoria St, #03-01, Singapore 188064",
-    "Artist": "",
-    "Organizer": "Dance Ensemble Singapore Ltd",
-    "original price min": 40,
-    "Event introduction": "A Dance Drama Bridging 13th Century Temasek and Modern SingaporeEchoes of the Forbidden Hill is a dance drama that journeys.",
-    "First-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "category": [
-      "Dance",
-      "Modern/Contemporary"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 19:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/echoes0426",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/echoes0426",
-        "prince min": 40
-      }
-    ]
-  },
-  {
-    "Event name": "Fase Masterclass by Tale Dolven (Intermediate)",
-    "Venue": "Esplanade Rehearsal Studio",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 40,
-    "Event introduction": "Explore the choreographic structures that underpin the seminal work, Fase, Four Movements to the Music of Steve Reich.",
-    "First-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "category": [
-      "Dance,Masterclass"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 11:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/series/dans-focus/events/fase-masterclass-by-tale-dolven-intermediate",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/series/dans-focus/events/fase-masterclass-by-tale-dolven-intermediate",
-        "prince min": 40
-      }
-    ]
-  },
-  {
-    "Event name": "Isles in Aria",
-    "Venue": "Bechstein Music World",
-    "Artist": "",
-    "Organizer": "VirtuoMusic",
-    "original price min": 50,
-    "Event introduction": "Join Singaporean pianist Corinna Chang and Filipino baritenor Ruzzel Clemeno as they bring you on a musical journey of Western.",
-    "First-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "category": [
-      "Concert"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 12:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/lite_islesinaria2504",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/lite_islesinaria2504",
-        "prince min": 50
-      }
-    ]
-  },
-  {
-    "Event name": "Magic Hour @ Raffles Hotel Singapore",
-    "Venue": "The Lawn, Raffles Arcade at Raffles Hotel",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra",
-    "original price min": 0,
-    "Event introduction": "Raffles Hotel Singapore welcomes you to experience an exclusive world-class musical performance, that will be held bimonthly, by the Singapore Symphony…",
-    "First-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
-    "category": [
-      "Music",
-      "Classical"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 18:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 18:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/magic-hour-raffles-apr-2026",
-        "ticket status": "True",
-        "ticket url": "https://www.sso.org.sg/whats-on/magic-hour-raffles-apr-2026",
-        "prince min": 0
-      }
-    ]
-  },
-  {
-    "Event name": "Noah Zhou in Recital / Asia Premiere: Solo Transcription of Rachmaninoff's Piano Concerto No. 2",
-    "Venue": "Bechstein Music World",
-    "Artist": "",
-    "Organizer": "BespokeArts",
-    "original price min": 34,
-    "Event introduction": "Experience a rare and compelling reimagining of one of the most beloved works in the piano repertoire.",
-    "First-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "category": [
-      "Concert"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 14:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/lite_rach2solo",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/lite_rach2solo",
-        "prince min": 34
-      }
-    ]
-  },
-  {
-    "Event name": "[CANCELLED] PIANOBOY - The Original Piano Music Concert",
-    "Venue": "Victoria Concert Hall",
-    "Artist": "",
-    "Organizer": "KC ENTERTAINMENT PTE. LTD.",
-    "original price min": 48,
-    "Event introduction": "Experience the “Piano Poet” Pianoboy - Gao Zhi Hao, who successfully bridged the gap between classical piano and the digital.",
-    "First-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "category": [
-      "Concert",
-      "Instrumental/New Age/World music"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 19:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/pianoboy0426",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/pianoboy0426",
-        "prince min": 48
-      }
-    ]
-  },
-  {
-    "Event name": "SIFAS Festival of Arts 2026 Bhumi – Feel the Beat",
-    "Venue": "Esplanade Recital Studio",
-    "Artist": "",
-    "Organizer": "SIFAS Productions Ltd",
-    "original price min": 40,
-    "Event introduction": "SIFAS Productions presents a compelling and immersive concert experience that explores humanity’s evolving relationship with Nature—an emotional and artistic journey.",
-    "First-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "category": [
-      "Concert",
-      "Indian"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 20:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/sifasrs0426",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/sifasrs0426",
-        "prince min": 40
-      }
-    ]
-  },
-  {
-    "Event name": "Sunil Grover Live in Singapore",
-    "Venue": "D'Marquee, Downtown East",
-    "Artist": "",
-    "Organizer": "Wandersoul Escapades Pte Ltd & Epic Encounters Pte Ltd",
-    "original price min": 59,
-    "Event introduction": "🎭 A day of Endless Laughter with Sunil Grover in Singapore.",
-    "First-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "category": [
-      "Family Entertainment"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 19:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/sunil0426",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/sunil0426",
-        "prince min": 59
-      }
-    ]
-  },
-  {
-    "Event name": "The Pop Art Of Charly Van Houten Live in Concert",
-    "Venue": "The Star Theatre, The Star Performing Arts Centre",
-    "Artist": "",
-    "Organizer": "Nusantaiment",
-    "original price min": 58,
-    "Event introduction": "This concert is conceived as a living pop art installation where sound, memory, and colour coexist.",
-    "First-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "category": [
-      "Concert",
-      "Pop-Asian"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 20:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/charly0426",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/charly0426",
-        "prince min": 118
-      }
-    ]
-  },
-  {
-    "Event name": "爱的天地-刘家昌新加坡纪念音乐会2",
-    "Venue": "The Theatre at Mediacorp",
-    "Artist": "",
-    "Organizer": "TCR Music Station",
-    "original price min": 50,
-    "Event introduction": "【爱的天地】刘家昌新加坡纪念音乐会台 2 湾音乐大师刘家昌留下无数经典作品，首首动听难忘！汇集了新加坡，台湾和马来西亚的众多歌手将献唱他的作品，向一代大师致敬！曲目包括【一帘幽梦】【秋诗篇篇】【爱的路上千万里】【云河】【烟雨斜阳】等",
-    "First-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-    "category": [
-      "Concert",
-      "Evergreen-Asian"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "25-Apr-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-Apr-2026 (Saturday) 19:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/concert0426",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/concert0426",
-        "prince min": 50
-      }
-    ]
-  },
-  {
-    "Event name": "SIFAS Festival of Arts 2026 DWI – Two Voices, One Soul",
-    "Venue": "Esplanade Concert Hall",
-    "Artist": "",
-    "Organizer": "SIFAS Productions Ltd",
-    "original price min": 50,
-    "Event introduction": "DWI (meaning “two” in Sanskrit) is a thoughtfully imagined concert built on the idea of duality, through two traditions, two.",
-    "First-Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-    "Last-Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-    "category": [
-      "Concert",
-      "Indian"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 19:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/voices0426",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/voices0426",
-        "prince min": 50
-      }
-    ]
-  },
-  {
-    "Event name": "Singapore Grand Choir",
-    "Venue": "PGP AUDITORIUM",
-    "Artist": "",
-    "Organizer": "Global 9 Resources Private Limited",
-    "original price min": 25,
-    "Event introduction": "The Singapore Grand Choir is a landmark choral presentation celebrating the sacred compositions of Mahatma Sri Kamakshi Dasar.Featuring a powerful.",
-    "First-Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-    "Last-Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-    "category": [
-      "Concert"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 17:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/lite_singaporegrandchoir26",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/lite_singaporegrandchoir26",
-        "prince min": 25
-      }
-    ]
-  },
-  {
-    "Event name": "SNYS In Concert: Tchaikovsky Symphony No. 2",
-    "Venue": "Victoria Concert Hall",
-    "Artist": "",
-    "Organizer": "Singapore National Youth Orchestra",
-    "original price min": 15,
-    "Event introduction": "The Singapore National Youth Sinfonia and Associate Conductor Seow Yibin present a colourful programme of magic and myth, folklore and folktunes. Be swept…",
-    "First-Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-    "Last-Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-    "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 16:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/snys-in-concert-tchaikovsky-symphony-no-2",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/YSF2617-1",
-        "prince min": 15
-      },
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/YSF2617-1",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/YSF2617-1",
-        "prince min": 15
-      }
-    ]
-  },
-  {
-    "Event name": "Sumi Jo Open Masterclass",
-    "Venue": "The Arts House at The Old Parliament",
-    "Artist": "",
-    "Organizer": "Opera Asia",
-    "original price min": 25,
-    "Event introduction": "The 3rd Opera Asia Sumi Jo Masterclass is a landmark cultural event in Singapore, offering selected singers the extraordinary opportunity.",
-    "First-Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-    "Last-Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-    "category": [
-      "Concert"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 16:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/lite_sumijomasterclass2026",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/lite_sumijomasterclass2026",
-        "prince min": 25
-      }
-    ]
-  },
-  {
-    "Event name": "Wanna Dance 2026",
-    "Venue": "Gateway Theatre",
-    "Artist": "",
-    "Organizer": "Jitterbugs Swingapore",
-    "original price min": 65,
-    "Event introduction": "Wanna Dance 2026: A Triple Bill is back, and this year, it's three shows in one!",
-    "First-Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-    "Last-Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-    "category": [
-      "Dance"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Apr-2026 (Sunday)",
-        "hour: minute": "16:30",
-        "Day-Month-Year (day of the week) hour: minute": "26-Apr-2026 (Sunday) 16:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/wanna0426",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/wanna0426",
-        "prince min": 65
-      }
-    ]
-  },
-  {
     "Event name": "Sylvaine Asia Tour 2026 Live in Singapore",
     "Venue": "Black Box @ Centre 42",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Vent Box Productions",
-    "original price min": 98,
+    "original price min": 0.0,
     "Event introduction": "Sylvaine makes her first-ever appearance in Singapore, bringing her singular vision of ethereal post-metal, ambient textures, and raw emotional depth.",
     "First-Day-Month-Year (day of the week)": "27-Apr-2026 (Monday)",
     "Last-Day-Month-Year (day of the week)": "27-Apr-2026 (Monday)",
     "category": [
-      "Concert",
-      "Metal"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -5629,16 +24,201 @@
         "source url": "https://www.sistic.com.sg/events/sylv0426",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/sylv0426",
-        "prince min": 98
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "LES MISERABLES THE ARENA SPECTACULAR WORLD TOUR",
+    "Venue": "Sands Theatre, Marina Bay Sands",
+    "Artist": "unknown",
+    "Organizer": "Marina Bay Sands",
+    "original price min": 88.0,
+    "Event introduction": "Victor Hugo's classic tale is staged as a large-scale arena spectacular.",
+    "First-Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
+    "Last-Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
+    "category": [
+      "Theatre"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+        "hour: minute": "14:00",
+        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 14:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
+        "hour: minute": "13:00",
+        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 13:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
+        "hour: minute": "18:30",
+        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 18:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+        "hour: minute": "14:00",
+        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 14:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
+        "hour: minute": "13:00",
+        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 13:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
+        "hour: minute": "18:30",
+        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 18:30"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Marina Bay Sands Entertainment",
+        "source url": "https://www.marinabaysands.com/entertainment/shows/les-miserables.html",
+        "ticket status": "True",
+        "ticket url": "https://www.marinabaysands.com/entertainment/shows/les-miserables.html",
+        "prince min": 88.0
+      }
+    ]
+  },
+  {
+    "Event name": "Roald Dahl's The BFG Jointly Presented in Singapore by SRT and Esplanade",
+    "Venue": "Esplanade Theatre",
+    "Artist": "unknown",
+    "Organizer": "The Esplanade Co Ltd",
+    "original price min": 48.0,
+    "Event introduction": "Roald Dahl’s The BFG A Royal Shakespeare Company, Chichester Festival Theatre, Singapore Repertory Theatre, Esplanade – Theatres on the Bay.",
+    "First-Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
+    "Last-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+    "category": [
+      "Theatre"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "28-Apr-2026 (Tuesday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Esplanade - Theatres on the Bay",
+        "source url": "https://www.esplanade.com/whats-on/2026/roald-dahls-the-bfg",
+        "ticket status": "True",
+        "ticket url": "https://www.esplanade.com/whats-on/2026/roald-dahls-the-bfg",
+        "prince min": 45.0
+      },
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/bfg0526",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/bfg0526",
+        "prince min": 48.0
       }
     ]
   },
   {
     "Event name": "Victoria School 150th Anniversary Concert: The School That Watched Us Grow",
     "Venue": "Esplanade Concert Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Victoria School",
-    "original price min": 15,
+    "original price min": 15.0,
     "Event introduction": "The School That Watched Us Grow marks Victoria School’s 150th anniversary with an evening of music and storytelling at the.",
     "First-Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
     "Last-Day-Month-Year (day of the week)": "28-Apr-2026 (Tuesday)",
@@ -5658,65 +238,343 @@
         "source url": "https://www.sistic.com.sg/events/vsac0426",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/vsac0426",
-        "prince min": 15
+        "prince min": 15.0
       }
     ]
   },
   {
-    "Event name": "An Evening of Qawwali: At the Feet of the Beloved",
-    "Venue": "Esplanade Concert Hall",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 0,
-    "Event introduction": "Experience the ecstatic exaltations of Pakistani qawwali performed by Rizwan and Muazzam Ali Khan, inheritors of a 700- year-old Sufi lineage.",
-    "First-Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
+    "Event name": "Arts House Group",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Arts House Group",
+    "original price min": 0.0,
+    "Event introduction": "Arts House Group (AHG) is a not-for-profit organisation committed to enriching lives through the arts.",
+    "First-Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
+    "Last-Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
     "category": [
-      "Music",
-      "Concert",
-      "Evergreen-Asian"
+      "unknown"
     ],
     "showtimes": [
       {
+        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
+        "hour: minute": "19:00",
+        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 19:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) unknown"
+      },
+      {
         "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "19:45",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 19:45"
+        "hour: minute": "19:00",
+        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 19:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
+        "hour: minute": "21:00",
+        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 21:00"
       },
       {
         "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "22:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 22:00"
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 19:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 19:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
+        "hour: minute": "21:00",
+        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 21:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+        "hour: minute": "15:00",
+        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 15:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
+        "hour: minute": "18:30",
+        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 18:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 19:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 19:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
+        "hour: minute": "21:00",
+        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 21:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Arts House Group",
+        "source url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/tpcc-presents-tintinnabuli",
+        "ticket status": "False",
+        "ticket url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/tpcc-presents-tintinnabuli",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Candlelight: Best of Hans Zimmer",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Arts House Group",
+    "original price min": 42.5,
+    "Event introduction": "Arts House Group (AHG) is a not-for-profit organisation committed to enriching lives through the arts.",
+    "First-Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
+    "Last-Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
+    "category": [
+      "unknown"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Arts House Group",
+        "source url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/candlelight-best-of-hans-zimmer",
+        "ticket status": "True",
+        "ticket url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/candlelight-best-of-hans-zimmer",
+        "prince min": 42.5
+      }
+    ]
+  },
+  {
+    "Event name": "Candlelight: Vivaldi's Four Seasons",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Arts House Group",
+    "original price min": 42.5,
+    "Event introduction": "Arts House Group (AHG) is a not-for-profit organisation committed to enriching lives through the arts.",
+    "First-Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
+    "Last-Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
+    "category": [
+      "unknown"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
+        "hour: minute": "19:00",
+        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 19:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Arts House Group",
+        "source url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/candlelight-vivaldi-s-four-season",
+        "ticket status": "True",
+        "ticket url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/candlelight-vivaldi-s-four-season",
+        "prince min": 42.5
+      }
+    ]
+  },
+  {
+    "Event name": "David Byrne: Who Is The Sky? Tour",
+    "Venue": "unknown",
+    "Artist": "unknown",
+    "Organizer": "Live Nation Singapore",
+    "original price min": 1.0,
+    "Event introduction": "Buy tickets for David Byrne: Who Is The Sky?",
+    "First-Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
+    "Last-Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
+        "hour: minute": "14:00",
+        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 14:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Live Nation Singapore",
+        "source url": "https://www.livenation.sg/event/david-byrne-who-is-the-sky-tour-singapore-tickets-edp1668229",
+        "ticket status": "False",
+        "ticket url": "https://www.livenation.sg/event/david-byrne-who-is-the-sky-tour-singapore-tickets-edp1668229",
+        "prince min": 1.0
+      }
+    ]
+  },
+  {
+    "Event name": "Festival and Series - Esplanade",
+    "Venue": "unknown",
+    "Artist": "unknown",
+    "Organizer": "Esplanade",
+    "original price min": 0.0,
+    "Event introduction": "There’s something for everyone at Esplanade.",
+    "First-Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
+    "Last-Day-Month-Year (day of the week)": "30-Jun-2026 (Tuesday)",
+    "category": [
+      "unknown"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "07-Jun-2026 (Sunday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "21-Jun-2026 (Sunday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "30-Jun-2026 (Tuesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "30-Jun-2026 (Tuesday) unknown"
       }
     ],
     "sources": [
       {
         "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/an-evening-of-qawwali-at-the-feet-of-the-beloved",
+        "source url": "https://www.esplanade.com/whats-on/festivals-and-series",
+        "ticket status": "Unknown",
+        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "JOJI: SOLARIS",
+    "Venue": "unknown",
+    "Artist": "unknown",
+    "Organizer": "Live Nation Singapore",
+    "original price min": 1.0,
+    "Event introduction": "Buy tickets for JOJI: SOLARIS at Arena @ EXPO on 21 November - 22 November 2026 at www.livenation.sg.",
+    "First-Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
+    "Last-Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "29-Apr-2026 (Wednesday)",
+        "hour: minute": "12:00",
+        "Day-Month-Year (day of the week) hour: minute": "29-Apr-2026 (Wednesday) 12:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Live Nation Singapore",
+        "source url": "https://www.livenation.sg/event/joji-solaris-singapore-tickets-edp1668234",
         "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/an-evening-of-qawwali-at-the-feet-of-the-beloved",
-        "prince min": 0
+        "ticket url": "https://www.livenation.sg/event/joji-solaris-singapore-tickets-edp1668234",
+        "prince min": 1.0
+      }
+    ]
+  },
+  {
+    "Event name": "Candlelight: Best of Bridgerton on Strings",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Arts House Group",
+    "original price min": 42.0,
+    "Event introduction": "Arts House Group (AHG) is a not-for-profit organisation committed to enriching lives through the arts.",
+    "First-Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
+    "Last-Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
+    "category": [
+      "unknown"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
+        "hour: minute": "19:00",
+        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 19:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Arts House Group",
+        "source url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/candlelight-best-of-bridgerton-on-strings",
+        "ticket status": "True",
+        "ticket url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/candlelight-best-of-bridgerton-on-strings",
+        "prince min": 42.0
+      }
+    ]
+  },
+  {
+    "Event name": "Candlelight: Tribute to Joe Hisaishi 久石 譲",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Arts House Group",
+    "original price min": 42.5,
+    "Event introduction": "Arts House Group (AHG) is a not-for-profit organisation committed to enriching lives through the arts.",
+    "First-Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
+    "Last-Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
+    "category": [
+      "unknown"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
+        "hour: minute": "21:00",
+        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 21:00"
       },
       {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/qawwali0426",
+        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
+        "hour: minute": "21:00",
+        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 21:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Arts House Group",
+        "source url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/candlelight-tribute-to-joe-hisaishi",
         "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/qawwali0426",
-        "prince min": 0
+        "ticket url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/candlelight-tribute-to-joe-hisaishi",
+        "prince min": 42.5
       }
     ]
   },
   {
     "Event name": "Daniel Sloss - BITTER",
     "Venue": "Capitol Theatre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Now/Live Pte Ltd",
-    "original price min": 108,
+    "original price min": 108.0,
     "Event introduction": "DON’T MISS your chance to catch one of the biggest global names in live stand-up, as Scotland’s international comedy superstar.",
     "First-Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
     "Last-Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
     "category": [
-      "Comedy",
-      "Stand-up comedy"
+      "Comedy"
     ],
     "showtimes": [
       {
@@ -5731,268 +589,94 @@
         "source url": "https://www.sistic.com.sg/events/daniel0426",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/daniel0426",
-        "prince min": 108
+        "prince min": 108.0
       }
     ]
   },
   {
-    "Event name": "Echoes of Guinea",
-    "Venue": "Esplanade Courtyard",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 0,
-    "Event introduction": "Lose yourself in the vibrant rhythms of the West African djembe as it channels the cosmic energy that connects all of life’s moments.",
-    "First-Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-    "category": [
-      "Music"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "20:30",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 20:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 18:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/echoes-of-guinea",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/echoes-of-guinea",
-        "prince min": 0
-      }
-    ]
-  },
-  {
-    "Event name": "Festival Opening: Dance of the Spirit Protector",
-    "Venue": "Esplanade Courtyard",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 0,
-    "Event introduction": "Bask in the frenetic energy of the Kumpo as it radiates blessings and leaps with joy, marking the opening of the festival.",
+    "Event name": "Esplanade Presents | Tapestry An Evening of Qawwali: At the Feet of the Beloved Rizwan-Muazzam Qawwali (Pakistan)",
+    "Venue": "Esplanade Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "The Esplanade Co Ltd",
+    "original price min": 0.0,
+    "Event introduction": "Heirs to the 700-year-old tradition—and nephews of the legendary Nusrat Fateh Ali Khan—Rizwan and Muazzam Mujahid Ali Khan invite you.",
     "First-Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
     "Last-Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
     "category": [
-      "Music"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "19:15",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 19:15"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/festival-opening-dance-of-the-spirit-protector",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/festival-opening-dance-of-the-spirit-protector",
-        "prince min": 0
-      }
-    ]
-  },
-  {
-    "Event name": "Kumar's Stand-Up Comedy Live! April / May 2026 Edition",
-    "Venue": "Blu Jaz, Clarke Quay Central",
-    "Artist": "Kumar",
-    "Organizer": "HIATUS ENTERTAINMENT",
-    "original price min": 55,
-    "Event introduction": "Kumar delivers one of his final Singapore club sets before heading off on tour.",
-    "First-Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-    "category": [
-      "Comedy",
-      "Stand-Up"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 20:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Eventbrite Singapore",
-        "source url": "https://www.eventbrite.sg/e/kumars-stand-up-comedy-live-april-2026-edition-tickets-1985221327431",
-        "ticket status": "True",
-        "ticket url": "https://www.eventbrite.sg/e/kumars-stand-up-comedy-live-april-2026-edition-tickets-1985221327431",
-        "prince min": 40
-      }
-    ]
-  },
-  {
-    "Event name": "Ritual Noh of Kurokawa - Shojo",
-    "Venue": "Esplanade Concourse",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 0,
-    "Event introduction": "Savour the refined artistry of Kurokawa noh as ritual theatre brings to life the myth of the sake sprite and the wine-seller.",
-    "First-Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-    "category": [
-      "Music"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "22:15",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 22:15"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/ritual-noh-of-kurokawa-shojo",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/ritual-noh-of-kurokawa-shojo",
-        "prince min": 0
-      }
-    ]
-  },
-  {
-    "Event name": "Sikh Kirtans",
-    "Venue": "Dbs Foundation Outdoor Theatre At Esplanade",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 0,
-    "Event introduction": "Through sacred ragas and poetic verse, Gurmat Sangeet Academy present musical offerings that speak of divine love.",
-    "First-Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-    "category": [
-      "Music"
+      "Concert"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
         "hour: minute": "19:45",
         "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 19:45"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "21:15",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 21:15"
       }
     ],
     "sources": [
       {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/sikh-kirtans",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/sikh-kirtans",
-        "prince min": 0
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/qawwali0426",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/qawwali0426",
+        "prince min": 0.0
       }
     ]
   },
   {
-    "Event name": "Songs of Pilgrimage: the Llibre Vermell of Montserrat",
-    "Venue": "Esplanade Concourse",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 0,
-    "Event introduction": "Trace the echoes of 14th-century pilgrim voices to the mountain of Montserrat, where faith met festivity, and devotion found its rhythm.",
+    "Event name": "THE CHRISTIANS – WILD RICE Singapore",
+    "Venue": "Wild Rice @ Funan Venue Hire Wild Rice @ Funan Venue Hire Venue Wild Rice @ Funan Venue Hire Support Us How You Can Help Donate Our Angels Be A Sponsor Our Sponsors & Donors The Rice Ball New & Now Plant A Seat Name A Space Leave A Legacy How You Can Help Donate Our Angels Be A Sponsor Our Sponsors & Donors The Rice Ball New & Now Plant A Seat Name A Space Leave A Legacy Support Us Featured Sections Be An Angel New & Now The Rice Ball NEW & NOW The Rice Cooker SCRIPT SUBMISSIONS The Rice Cooker SCRIPT SUBMISSIONS New & Now The Rice Cooker Script Submissions Learning Children Wild Rice Academy First Stage Mailing List Young People Singapore Youth Theatre Young & Wild School Programmes Training Programmes & Workshops Learning Resources Children Wild Rice Academy First Stage Mailing List Young People Singapore Youth Theatre Young & Wild School Programmes Training Programmes & Workshops Learning Resources Learning Featured Sections WILD RICE ACADEMY School Programmes Training Programmes & Workshops Engagement Community Engagement Corporate Hospitality Community Engagement Corporate Hospitality Engagement Community Engagement Corporate Hospitality News Magazine Press Releases Auditions Magazine Press Releases Auditions News Magazine Press Releases AUDITIONS About Us About Wild Rice Board of Directors Our Team Past Productions Touring & Collaborations Careers Financial Information About Wild Rice Board of Directors Our Team Past Productions Touring & Collaborations Careers Financial Information About Featured Sections About Wild Rice Our Team Past Productions What’s On Your Visit Getting Here Ticket Holder Privileges Accessibility Visitor Safety Information Venue Wild Rice @ Funan Venue Hire Support Us How You Can Help Donate Our Angels Be A Sponsor Our Sponsors & Donors The Rice Ball NEW & NOW Plant A Seat Name A Space Leave A Legacy New & Now The Rice Cooker Script Submissions Learning Children Wild Rice Academy Young People School Programmes Training Programmes & Workshops Learning Resources Engagement Community Engagement Corporate Hospitality News Magazine Press Releases About Us About Wild Rice Board of Directors Our Team Touring & Collaborations Careers Past Productions Financial Information Donate @media (min-width:1025px){.plus-navigation-wrap.nav-menu69ee336fb1c2a59ba8bc #theplus-navigation-normal-menu{display: block!important;}.plus-navigation-wrap.nav-menu69ee336fb1c2a59ba8bc #plus-mobile-nav-toggle-nav-menu69ee336fb1c2a59ba8bc.collapse.in{display:none;}}@media (max-width:1024px){.plus-navigation-wrap.nav-menu69ee336fb1c2a59ba8bc #theplus-navigation-normal-menu{display:none !important;}.plus-navigation-wrap.nav-menu69ee336fb1c2a59ba8bc .plus-mobile-nav-toggle.mobile-toggle{display: -webkit-flex;display: -moz-flex;display: -ms-flex;display: flex;-webkit-align-items: center;-moz-align-items: center;-ms-align-items: center;align-items: center;-webkit-justify-content: flex-end;-moz-justify-content: flex-end;-ms-justify-content: flex-end;justify-content: flex-end;}.plus-navigation-wrap .plus-mobile-menu-content.collapse.swiper-container{display: block;}} Search Sold Out! THE CHRISTIANS 9 Apr – 2 May 2026 Wild Rice @ Funan “Mesmerising . . . terrific . . . penetrating.” – The New York",
+    "Artist": "unknown",
+    "Organizer": "WILD RICE",
+    "original price min": 40.0,
+    "Event introduction": "Skip to content Donate Donate What’s On Your Visit Getting Here Ticket Holder Privileges Accessibility Visitor Safety Information Getting Here.",
     "First-Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
     "category": [
-      "Music"
+      "Theatre"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "30-Apr-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) 20:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "30-Apr-2026 (Thursday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 18:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
         "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 19:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/songs-of-pilgrimage-the-llibre-vermell-of-montserrat",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/songs-of-pilgrimage-the-llibre-vermell-of-montserrat",
-        "prince min": 0
-      }
-    ]
-  },
-  {
-    "Event name": "Community Canteen",
-    "Venue": "Esplanade Concert Hall Main Foyer",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 0,
-    "Event introduction": "Partake in Community Canteen, where food from temple, gurdwara, and monastery is shared with all in openness and generosity.",
-    "First-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-    "category": [
-      "Music"
-    ],
-    "showtimes": [
+        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 19:30"
+      },
       {
         "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "16:30",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 16:30"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "16:30",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 16:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "16:30",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 16:30"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) unknown"
       }
     ],
     "sources": [
       {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/community-canteen",
+        "source name": "WILD RICE",
+        "source url": "https://www.wildrice.com.sg/event/457480-the-christians/",
         "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/community-canteen",
-        "prince min": 0
+        "ticket url": "https://www.wildrice.com.sg/event/457480-the-christians/",
+        "prince min": 40.0
       }
     ]
   },
   {
     "Event name": "Eric Lu & Kahchun Wong / Chopin Piano Concerto 1",
     "Venue": "Victoria Concert Hall",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra",
-    "original price min": 15,
-    "Event introduction": "In his second outing with the SSO this season, trail-blazing Singaporean conductor Kahchun Wong directs the world premiere of a new work by acclaimed…",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra (SSO)",
+    "original price min": 15.0,
+    "Event introduction": "In his second outing with the SSO this season, trail-blazing Singaporean conductor Kahchun Wong directs the world premiere of a.",
     "First-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
     "Last-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
     "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -6008,348 +692,211 @@
     ],
     "sources": [
       {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/eric-lu-kahchun-wong-chopin-piano-concerto",
+        "source name": "Arts House Group",
+        "source url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/eric-lu-kahchun-wong-chopin-piano-concerto-1",
         "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/SOT2618-1a",
-        "prince min": 15
+        "ticket url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/eric-lu-kahchun-wong-chopin-piano-concerto-1",
+        "prince min": 15.0
       },
       {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/SOT2618-1a",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/SOT2618-1a",
-        "prince min": 15
+        "prince min": 15.0
       }
     ]
   },
   {
-    "Event name": "Exchange: Cantu in Paghjella meets Peroveta",
-    "Venue": "Esplanade Recital Studio",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 0,
-    "Event introduction": "Corsican polyphonic hymns meet Papuan choral tides in this side-by-side demonstration—an engaging learning experience of two distinct island traditions.",
+    "Event name": "Eric Lu & Kahchun Wong / Chopin Piano…",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra",
+    "original price min": 15.0,
+    "Event introduction": "In his second outing with the SSO this season, trail-blazing Singaporean conductor Kahchun Wong directs the world premiere of a.",
+    "First-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
+    "Last-Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
+    "category": [
+      "Concert",
+      "Orchestra"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 19:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 19:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 19:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 19:30"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Singapore Symphony Orchestra (SSO)",
+        "source url": "https://www.sso.org.sg/whats-on/eric-lu-kahchun-wong-chopin-piano-concerto",
+        "ticket status": "True",
+        "ticket url": "https://www.sso.org.sg/whats-on/eric-lu-kahchun-wong-chopin-piano-concerto",
+        "prince min": 15.0
+      },
+      {
+        "source name": "Singapore Symphony Orchestra (SSO)",
+        "source url": "https://www.sso.org.sg/whats-on/eric-lu-kahchun-wong-chopin-piano-concerto\\",
+        "ticket status": "True",
+        "ticket url": "https://www.sso.org.sg/whats-on/eric-lu-kahchun-wong-chopin-piano-concerto\\",
+        "prince min": 15.0
+      }
+    ]
+  },
+  {
+    "Event name": "Esplanade Presents | Tapestry Ritual Noh of Kurokawa – Hagoromo Kurokawa Noh Preservation Society (Japan)",
+    "Venue": "Esplanade Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "The Esplanade Co Ltd",
+    "original price min": 0.0,
+    "Event introduction": "Step into the concert hall and be mesmerised as masked performers revive the ancient tale of Hagoromo ( The Feathered.",
     "First-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
     "Last-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
     "category": [
-      "Workshop"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 15:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/exchange-cantu-in-paghjella-meets-peroveta",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/exchange-cantu-in-paghjella-meets-peroveta",
-        "prince min": 0
-      }
-    ]
-  },
-  {
-    "Event name": "Kumpo: Spirit Protector and other Masquerade Dances",
-    "Venue": "Esplanade Forecourt Garden",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 0,
-    "Event introduction": "Witness the frenetic masquerade dance of the Kumpo, the Gambian spiritual guardian garbed in a heavy coat of dried palm leaves.",
-    "First-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-    "category": [
-      "Music"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "19:10",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 19:10"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "21:20",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 21:20"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "18:50",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 18:50"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/kumpo-spirit-protector-and-other-masquerade-dances",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/kumpo-spirit-protector-and-other-masquerade-dances",
-        "prince min": 0
-      }
-    ]
-  },
-  {
-    "Event name": "Mor Lam Phii Fa: Ceremonies of the Spirit Healers",
-    "Venue": "Esplanade Courtyard",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 0,
-    "Event introduction": "Dance to the ceremonial sounds of Isaan spirit healers, whose songs invoke ancestral power to cast out illness.",
-    "First-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-    "category": [
-      "Music"
+      "Concert"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
         "hour: minute": "20:45",
         "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 20:45"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "20:15",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 20:15"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 19:00"
       }
     ],
     "sources": [
       {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/mor-lam-phii-fa-ceremonies-of-the-spirit-healers",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/mor-lam-phii-fa-ceremonies-of-the-spirit-healers",
-        "prince min": 0
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/kurokawa0526",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/kurokawa0526",
+        "prince min": 0.0
       }
     ]
   },
   {
-    "Event name": "Mythology in Song: Legends of the Meitei People",
-    "Venue": "Dbs Foundation Outdoor Theatre At Esplanade",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 0,
-    "Event introduction": "The Laihui Ensemble brings to life the Meitei’s shamanic melodies and dances, echoing the region’s mythological lore and ceremonial devotion.",
+    "Event name": "Gold 905 Solid Gold Night",
+    "Venue": "Blujaz Clarke Quay",
+    "Artist": "unknown",
+    "Organizer": "unknown",
+    "original price min": 95.0,
+    "Event introduction": "The ultimate retro party returns with GOLD 905 DJs and disco hits.",
     "First-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
     "category": [
-      "Music"
+      "Concert"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "20:50",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 20:50"
       }
     ],
     "sources": [
       {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/mythology-in-song-legends-of-the-meitei-people",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/mythology-in-song-legends-of-the-meitei-people",
-        "prince min": 0
+        "source name": "Ticketmaster Singapore",
+        "source url": "https://ticketmaster.sg/activity/detail/26sg_solidgold905",
+        "ticket status": "True",
+        "ticket url": "https://ticketmaster.sg/activity/detail/26sg_solidgold905",
+        "prince min": 95.0
       }
     ]
   },
   {
-    "Event name": "Ritual Noh of Kurokawa - Hagoromo",
-    "Venue": "Esplanade Concert Hall",
-    "Artist": "",
-    "Organizer": "The Esplanade Co Ltd",
-    "original price min": 0,
-    "Event introduction": "Step into the concert hall and be mesmerised as masked performers revive the ancient tale of Hagoromo (The Feathered Robe).",
+    "Event name": "Origin Dance Convention",
+    "Venue": "unknown",
+    "Artist": "unknown",
+    "Organizer": "Gateway Theatre",
+    "original price min": 0.0,
+    "Event introduction": "Origin Dance Convention at Gateway Theatre.",
     "First-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
+    "Last-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
     "category": [
-      "Concert",
-      "Evergreen-Asian",
-      "Music"
+      "Theatre"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "20:45",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 20:45"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) unknown"
       }
     ],
     "sources": [
       {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/ritual-noh-of-kurokawa-hagoromo",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/ritual-noh-of-kurokawa-hagoromo",
-        "prince min": 0
-      },
+        "source name": "Gateway Theatre",
+        "source url": "https://gatewaytheatre.sg/events/origin-dance-convention/",
+        "ticket status": "Unknown",
+        "ticket url": "https://gatewaytheatre.sg/events/origin-dance-convention/",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Raffles Heritage Sunset Tour",
+    "Venue": "Raffles Marina Lighthouse",
+    "Artist": "unknown",
+    "Organizer": "FLAME COMMUNICATIONS PTE. LTD.",
+    "original price min": 82.0,
+    "Event introduction": "Step into Singapore’s maritime past on the Raffles Heritage Sunset Tour, a guided evening experience set against the golden glow.",
+    "First-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
+    "Last-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
+    "category": [
+      "Festival/Fair"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) unknown"
+      }
+    ],
+    "sources": [
       {
         "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/kurokawa0526",
+        "source url": "https://www.sistic.com.sg/events/lite_rafflestourmay2026",
         "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/kurokawa0526",
-        "prince min": 0
+        "ticket url": "https://www.sistic.com.sg/events/lite_rafflestourmay2026",
+        "prince min": 82.0
       }
     ]
   },
   {
-    "Event name": "Talk: Introduction to Kurokawa Noh",
-    "Venue": "Esplanade Black Room",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 0,
-    "Event introduction": "Unravel the world of gods, myths, and rural life. Explore the history and practices embedded in Yamagata’s winter ritual, Kurokawa noh.",
-    "First-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-    "category": [
-      "Music"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 16:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/talk-introduction-to-kurokawa-noh",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/talk-introduction-to-kurokawa-noh",
-        "prince min": 0
-      }
-    ]
-  },
-  {
-    "Event name": "Talk: The Legacy of Nusrat Fateh Ali Khan",
-    "Venue": "Esplanade Recital Studio",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 0,
-    "Event introduction": "Nusrat’s longtime manager Rashid Din shares rare insights into the qawwali icon’s lifelong pursuit of the divine through song.",
-    "First-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-    "category": [
-      "Talk"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 17:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/talk-the-legacy-of-nusrat-fateh-ali-khan",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/talk-the-legacy-of-nusrat-fateh-ali-khan",
-        "prince min": 0
-      }
-    ]
-  },
-  {
-    "Event name": "Talk: Unveiling Heritage - The Timeless Art of Carpet Weaving in the Subcontinent",
-    "Venue": "Esplanade Concert Hall Main Foyer",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 0,
-    "Event introduction": "Encounter the intricate world of carpet weaving in the Indian subcontinent through a captivating lecture that interlaces history, artistry, and faith.",
-    "First-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-    "category": [
-      "Music"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 14:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/talk-unveiling-heritage-the-timeless-art-of-carpet-weaving-in-the-subcontinent",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/talk-unveiling-heritage-the-timeless-art-of-carpet-weaving-in-the-subcontinent",
-        "prince min": 0
-      }
-    ]
-  },
-  {
-    "Event name": "The Art of Chant: Voices of the Vedas",
-    "Venue": "Esplanade Concourse",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 0,
-    "Event introduction": "Bask in the soothing vibrations of Vedic hymns in a session of chants led by the Sathya Sai Centre for Educare.",
-    "First-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-    "category": [
-      "Music"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-May-2026 (Friday) 16:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/the-art-of-chant-voices-of-the-vedas",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/the-art-of-chant-voices-of-the-vedas",
-        "prince min": 0
-      }
-    ]
-  },
-  {
-    "Event name": "德云社三十周年世界巡演 新加坡站 Deyunshe World Tour 2026 Singapore",
+    "Event name": "​​​​​​​德云社三十周年世界巡演 新加坡站 Deyunshe World Tour 2026 Singapore",
     "Venue": "The Star Theatre, The Star Performing Arts Centre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Samihasa Pte Ltd",
-    "original price min": 78,
-    "Event introduction": "郭德纲，郭德纲是天津籍相声演员、德云社创始人，以深厚传统功底与市井风格，让相声重回剧场、重获大众关注。他深耕传统、培养大批青年演员，推动相声市场化与国际化，成为当代曲艺复兴的标志性人物。于谦，是德云社核心捧哏、石富宽弟子，以松弛自然、精准接梗的风格，成为郭德纲的黄金搭档，撑起当代相声的经典组合。他跨界影视、主持与摇滚，以“玩儿”的通透态度，把生活过成段子，是圈内公认的捧哏奇才与生活家。",
+    "original price min": 78.0,
+    "Event introduction": "郭德纲，郭德纲是天津籍相声演员、德云社创始人，以深厚传统功底与市井风格，让相声重回剧场、重获大众关注。他深耕传统、培养大批青年演员，推动相声市场化与国际化，成为当代曲艺复兴的标志性人物。于谦，是德云社核心捧哏、石富宽弟子，以松弛自然、精准接梗的风格，成为郭德纲的黄金搭档，撑起当代相声的经典组合。他跨界影视、主持与摇滚，以“玩儿”的通透态度，把生活过成段子，是圈内公认的捧哏奇才与生活家。 Start Sales",
     "First-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
     "Last-Day-Month-Year (day of the week)": "01-May-2026 (Friday)",
     "category": [
       "Comedy",
-      "Stand-up comedy"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -6364,35 +911,299 @@
         "source url": "https://www.sistic.com.sg/events/dyswt0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/dyswt0526",
-        "prince min": 78
+        "prince min": 78.0
       },
       {
         "source name": "The Star Performing Arts Centre",
         "source url": "https://www.thestar.sg/events/deyunshe-world-tour-2026-singapore",
         "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/dyswt0526?utm_source=website_sistic&amp;utm_medium=srbar&amp;utm_campaign=vism&amp;utm_content=dyswt0526",
-        "prince min": 78
+        "ticket url": "https://www.thestar.sg/events/deyunshe-world-tour-2026-singapore",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "An Esplanade Production PLAYtime! 2026 Together Created by Isabella Chiam",
+    "Venue": "Esplanade Theatre Studio",
+    "Artist": "unknown",
+    "Organizer": "The Esplanade Co Ltd",
+    "original price min": 23.0,
+    "Event introduction": "Gor Gor and Mei Mei are stuck at home, bored, restless and constantly bickering.",
+    "First-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
+    "category": [
+      "Theatre"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/together0526",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/together0526",
+        "prince min": 23.0
+      }
+    ]
+  },
+  {
+    "Event name": "Esplanade Presents | Tapestry Peroveta – Prophet Songs Kapari Viriolo Village Cultural Ambassadors (Papua New Guinea)",
+    "Venue": "Esplanade Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "The Esplanade Co Ltd",
+    "original price min": 0.0,
+    "Event introduction": "From the shores of Papua New Guinea comes a choral language shaped by community and devotion.",
+    "First-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+        "hour: minute": "18:00",
+        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 18:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/kapari0526",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/kapari0526",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Esplanade Presents | Tapestry Workshop: Music of Manipur Laihui Ensemble (India)",
+    "Venue": "Esplanade Black Room",
+    "Artist": "unknown",
+    "Organizer": "The Esplanade Co Ltd",
+    "original price min": 0.0,
+    "Event introduction": "Join us on a journey through the sacred soundscape of Manipur, where song and heritage converge in longstanding traditions shaped.",
+    "First-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+        "hour: minute": "16:00",
+        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 16:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/manipurws0526",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/manipurws0526",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Gateway Kids Club May - Nurturing Nature",
+    "Venue": "Dance Studio",
+    "Artist": "unknown",
+    "Organizer": "Gateway Theatre",
+    "original price min": 0.0,
+    "Event introduction": "Gateway Kids Club presents May storytelling sessions about nature.",
+    "First-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
+    "category": [
+      "Theatre"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Gateway Theatre",
+        "source url": "https://gatewaytheatre.sg/events/gateway-kids-club-may-nurturing-nature/",
+        "ticket status": "False",
+        "ticket url": "https://gatewaytheatre.sg/events/gateway-kids-club-may-nurturing-nature/",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Halwa By Amit Tandon Live Singapore",
+    "Venue": "Kreta Ayer People's Theatre",
+    "Artist": "unknown",
+    "Organizer": "Marching Elephants Ent & The Laughter Factory",
+    "original price min": 0.0,
+    "Event introduction": "Halwa, Halwa, A Stand Up Comedy Show by Amit Tandon.",
+    "First-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+    "category": [
+      "unknown"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+        "hour: minute": "19:00",
+        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 19:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.com.au/e/halwa-by-amit-tandon-live-singapore-tickets-1981843817207",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.com.au/e/halwa-by-amit-tandon-live-singapore-tickets-1981843817207",
+        "prince min": 0.0
+      },
+      {
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.com.au/e/halwa-by-amit-tandon-live-singapore-tickets-1981843817207?aff=ebdssbcitybrowse",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.com.au/e/halwa-by-amit-tandon-live-singapore-tickets-1981843817207?aff=ebdssbcitybrowse",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Hot Mulligan - Live in Singapore (with Forests)",
+    "Venue": "The Grand Theatre at 26 Lorong 27A (Nanyang Pho Leng Hui Kuan Building), Level 6",
+    "Artist": "unknown",
+    "Organizer": "ALT! Concerts",
+    "original price min": 108.0,
+    "Event introduction": "Everyone's favourite post-emo band, live in Singapore for the 1st time!",
+    "First-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+    "category": [
+      "unknown"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+        "hour: minute": "19:00",
+        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 19:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.sg/e/hot-mulligan-live-in-singapore-with-forests-tickets-1982885170924",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.sg/e/hot-mulligan-live-in-singapore-with-forests-tickets-1982885170924",
+        "prince min": 108.0
+      },
+      {
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.sg/e/hot-mulligan-live-in-singapore-with-forests-tickets-1982885170924?aff=ebdssbcitybrowse",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.sg/e/hot-mulligan-live-in-singapore-with-forests-tickets-1982885170924?aff=ebdssbcitybrowse",
+        "prince min": 108.0
+      }
+    ]
+  },
+  {
+    "Event name": "Kahchun Wong’s Pictures at an…",
+    "Venue": "Esplanade Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra",
+    "original price min": 15.0,
+    "Event introduction": "The SSO is joined by musicians of the Singapore Chinese Orchestra as Singaporean conductor Kahchun Wong presents his orchestration of.",
+    "First-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
+    "category": [
+      "Concert",
+      "Orchestra"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 19:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 19:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 19:30"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Singapore Symphony Orchestra (SSO)",
+        "source url": "https://www.sso.org.sg/whats-on/pictures-exhibition-kahchun-wong",
+        "ticket status": "True",
+        "ticket url": "https://www.sso.org.sg/whats-on/pictures-exhibition-kahchun-wong",
+        "prince min": 15.0
+      },
+      {
+        "source name": "Singapore Symphony Orchestra (SSO)",
+        "source url": "https://www.sso.org.sg/whats-on/pictures-exhibition-kahchun-wong\\",
+        "ticket status": "True",
+        "ticket url": "https://www.sso.org.sg/whats-on/pictures-exhibition-kahchun-wong\\",
+        "prince min": 15.0
       }
     ]
   },
   {
     "Event name": "LAMC Presents Daft Funk Live in Singapore",
     "Venue": "Foo Chow Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "LAMC Presents Pte Ltd",
-    "original price min": 30,
-    "Event introduction": "Daft Punk tribute act DAFT FUNK LIVE to perform in Singapore this May!Singapore, get ready to dance under the lights!",
+    "original price min": 0.0,
+    "Event introduction": "Daft Punk tribute act DAFT FUNK LIVE to perform in Singapore this May!",
     "First-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
     "category": [
-      "Concert",
-      "pop western"
+      "Concert"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) unknown"
       }
     ],
     "sources": [
@@ -6401,23 +1212,21 @@
         "source url": "https://www.sistic.com.sg/events/daft0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/daft0526",
-        "prince min": 30
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Laugh Better Feel Better Patrick's 2026 Stand Up Comedy Tour",
     "Venue": "*SCAPE The Ground Theatre, Level 2",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Amazer Enterprise",
-    "original price min": 68,
+    "original price min": 68.0,
     "Event introduction": "《 Life is too short not to laugh!",
     "First-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
     "category": [
-      "Comedy",
-      "Solo-Asian",
-      "Stand-up comedy"
+      "Comedy"
     ],
     "showtimes": [
       {
@@ -6432,16 +1241,16 @@
         "source url": "https://www.sistic.com.sg/events/patrick0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/patrick0526",
-        "prince min": 68
+        "prince min": 68.0
       }
     ]
   },
   {
     "Event name": "MGS Festival of Arts - écho II",
     "Venue": "University Cultural Centre Ho Bee Auditorium, NUS",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Methodist Girls' School (Secondary)",
-    "original price min": 35,
+    "original price min": 35.0,
     "Event introduction": "Methodist Girls’ School (Secondary) presents Festival of Arts (FOA) 2026 - écho.",
     "First-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
@@ -6461,72 +1270,32 @@
         "source url": "https://www.sistic.com.sg/events/echo20526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/echo20526",
-        "prince min": 35
-      }
-    ]
-  },
-  {
-    "Event name": "Pipe Organ Tour",
-    "Venue": "Esplanade Concert Hall",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 0,
-    "Event introduction": "See the mighty Klais organ up close in this exclusive backstage tour revealing its towering pipes, intricate mechanisms, and captivating sounds.",
-    "First-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-    "category": [
-      "Music,Activity"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 13:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "15:30",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 15:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/pipe-organ-tour",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/pipe-organ-tour",
-        "prince min": 0
+        "prince min": 35.0
       }
     ]
   },
   {
     "Event name": "SIFAS Festival of Arts 2026 anumArga – Seeking a Path",
     "Venue": "Singtel Waterfront Theatre at Esplanade",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "SIFAS Productions Ltd",
-    "original price min": 75,
+    "original price min": 75.0,
     "Event introduction": "Project Samskriti in collaboration with SIFAS Productions presents an exploration of Bhakti (devotion), inspired by the colourful characters from Indian.",
     "First-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
     "category": [
-      "Dance",
-      "Traditional/Ethnic"
+      "Dance"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 17:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) unknown"
       },
       {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 19:30"
+        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) unknown"
       }
     ],
     "sources": [
@@ -6535,177 +1304,86 @@
         "source url": "https://www.sistic.com.sg/events/seeking0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/seeking0526",
-        "prince min": 75
+        "prince min": 75.0
       }
     ]
   },
   {
-    "Event name": "Esplanade Presents | Tapestry Peroveta – Prophet Songs Kapari Viriolo Village Cultural Ambassadors (Papua New Guinea)",
-    "Venue": "Esplanade Concert Hall",
-    "Artist": "",
-    "Organizer": "The Esplanade Co Ltd",
-    "original price min": 0,
-    "Event introduction": "From the shores of Papua New Guinea comes a choral language shaped by community and devotion.",
+    "Event name": "THE CHRISTIANS",
+    "Venue": "The Ngee Ann Kongsi Theatre @ Wild Rice, Funan",
+    "Artist": "unknown",
+    "Organizer": "Wild Rice Ltd",
+    "original price min": 40.0,
+    "Event introduction": "Over two decades, Pastor Paul has poured his life into building his congregation.",
     "First-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
     "category": [
-      "Concert",
-      "Evergreen-Asian"
+      "Theatre"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 18:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) unknown"
       }
     ],
     "sources": [
       {
         "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/kapari0526",
+        "source url": "https://www.sistic.com.sg/events/christians0526",
         "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/kapari0526",
-        "prince min": 0
-      }
-    ]
-  },
-  {
-    "Event name": "The Art of Chant: Shabad Chowki Parampara",
-    "Venue": "Esplanade Concourse",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 0,
-    "Event introduction": "Experience the meditative flow of shabad chowki parampara, where sacred song bridges Sikh heritage with modern kirtan expression.",
-    "First-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-    "category": [
-      "Music"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 16:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/the-art-of-chant-shabad-chowki-parampara",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/the-art-of-chant-shabad-chowki-parampara",
-        "prince min": 0
-      }
-    ]
-  },
-  {
-    "Event name": "Workshop: Introduction to Corsican Polyphonic Singing",
-    "Venue": "Esplanade Recital Studio",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 0,
-    "Event introduction": "With Spartimu, learn the art of shared resonance in Corsican polyphony while exploring its heritage and intricate vocal techniques.",
-    "First-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-    "category": [
-      "Music,Workshop"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 15:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/workshop-introduction-to-corsican-polyphonic-singing",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/workshop-introduction-to-corsican-polyphonic-singing",
-        "prince min": 0
-      }
-    ]
-  },
-  {
-    "Event name": "Workshop: Music of Manipur",
-    "Venue": "Esplanade Black Room",
-    "Artist": "",
-    "Organizer": "The Esplanade Co Ltd",
-    "original price min": 0,
-    "Event introduction": "A focused journey into the sacred music traditions of Manipur highlighting the instruments and songs shaped by centuries of ritual artistry.",
-    "First-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-    "category": [
-      "Concert",
-      "Music"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "02-May-2026 (Saturday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-May-2026 (Saturday) 16:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/workshop-music-of-manipur",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/a-tapestry-of-sacred-music/events/workshop-music-of-manipur",
-        "prince min": 0
-      },
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/manipurws0526",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/manipurws0526",
-        "prince min": 0
+        "ticket url": "https://www.sistic.com.sg/events/christians0526",
+        "prince min": 40.0
       }
     ]
   },
   {
     "Event name": "2025-26 TREASURE TOUR [PULSE ON] IN SINGAPORE",
     "Venue": "Singapore Indoor Stadium",
-    "Artist": "TREASURE",
-    "Organizer": "",
-    "original price min": 178,
-    "Event introduction": "TREASURE brings upgraded production, new arrangements, and large-scale K-pop spectacle to Singapore.",
+    "Artist": "unknown",
+    "Organizer": "Live Nation Singapore",
+    "original price min": 1.0,
+    "Event introduction": "Buy tickets for 2025-26 TREASURE TOUR [PULSE ON] IN SINGAPORE at Singapore Indoor Stadium on Sun, 03 May 2026 at.",
     "First-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
     "Last-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
     "category": [
-      "Concert",
-      "K-pop"
+      "Concert"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 18:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) unknown"
       }
     ],
     "sources": [
+      {
+        "source name": "Live Nation Singapore",
+        "source url": "https://www.livenation.sg/event/2025-26-treasure-tour-pulse-on-in-singapore-singapore-tickets-edp1631963",
+        "ticket status": "False",
+        "ticket url": "https://www.livenation.sg/event/2025-26-treasure-tour-pulse-on-in-singapore-singapore-tickets-edp1631963",
+        "prince min": 1.0
+      },
       {
         "source name": "Ticketmaster Singapore",
         "source url": "https://ticketmaster.sg/activity/detail/26sg_treasure",
         "ticket status": "True",
         "ticket url": "https://ticketmaster.sg/activity/detail/26sg_treasure",
-        "prince min": 178
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Esplanade Presents | Tapestry Sacred Organ Works with Pieter van Dijk (The Netherlands)",
     "Venue": "Esplanade Concert Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "The Esplanade Co Ltd",
-    "original price min": 0,
+    "original price min": 0.0,
     "Event introduction": "Not many sounds summon the sacred quite like the organ, with its resonant tones and powerful range that moves from.",
     "First-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
     "Last-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
     "category": [
-      "Concert",
-      "Chamber Music-Western"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -6720,22 +1398,21 @@
         "source url": "https://www.sistic.com.sg/events/sacred0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/sacred0526",
-        "prince min": 0
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Esplanade Presents | Tapestry The Sacred Voices of Corsica Spartimu (France)",
     "Venue": "Esplanade Concert Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "The Esplanade Co Ltd",
-    "original price min": 0,
+    "original price min": 0.0,
     "Event introduction": "Across the rugged mountains and remote villages of Corsica, the Île de Beauté (the island of beauty), voices rise in.",
     "First-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
     "Last-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
     "category": [
-      "Concert",
-      "Acapella/Choir"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -6750,22 +1427,57 @@
         "source url": "https://www.sistic.com.sg/events/corsica0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/corsica0526",
-        "prince min": 0
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Miko Guitar Ensemble • Singapore 10th Anniversary Concert",
+    "Venue": "Stephen Riady Auditorium @NTUC",
+    "Artist": "unknown",
+    "Organizer": "MIKO ARTS & CULTURE PTE. LTD.",
+    "original price min": 55.0,
+    "Event introduction": "After ten years, Miko Guitar returns to the Singapore stage, inviting you to share in this moment of excitement and.",
+    "First-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
+    "category": [
+      "unknown"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
+        "hour: minute": "15:00",
+        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 15:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.com/e/miko-guitar-ensemble-singapore-10th-anniversary-concert-tickets-1980629324627",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.com/e/miko-guitar-ensemble-singapore-10th-anniversary-concert-tickets-1980629324627",
+        "prince min": 55.0
+      },
+      {
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.com/e/miko-guitar-ensemble-singapore-10th-anniversary-concert-tickets-1980629324627?aff=ebdssbcitybrowse",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.com/e/miko-guitar-ensemble-singapore-10th-anniversary-concert-tickets-1980629324627?aff=ebdssbcitybrowse",
+        "prince min": 55.0
       }
     ]
   },
   {
     "Event name": "Thaaye Thaaragaiye!!",
     "Venue": "Kensington Ballroom, Serangoon Gardens Country Club",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Mediacorp Pte Ltd",
-    "original price min": 75,
+    "original price min": 75.0,
     "Event introduction": "OLI 968’s most anticipated and always sold-out Mother’s Day Lunch is back — bigger, brighter, and more glamorous than ever!",
     "First-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
     "Last-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
     "category": [
-      "Family",
-      "Family Entertainment"
+      "Family"
     ],
     "showtimes": [
       {
@@ -6780,33 +1492,133 @@
         "source url": "https://www.sistic.com.sg/events/thaaye0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/thaaye0526",
-        "prince min": 75
+        "prince min": 75.0
+      }
+    ]
+  },
+  {
+    "Event name": "The Silent Reading Book Club By Maktaba Books - 3 May 2026 Tickets, Sunday 3 May • 14:45 - 16:30",
+    "Venue": "unknown",
+    "Artist": "unknown",
+    "Organizer": "unknown",
+    "original price min": 0.0,
+    "Event introduction": "Eventbrite - Maktaba Books Events presents The Silent Reading Book Club By Maktaba Books - 3 May 2026 - Sunday.",
+    "First-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
+    "category": [
+      "unknown"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.sg/e/the-silent-reading-book-club-by-maktaba-books-3-may-2026-tickets-1983746699780",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.sg/e/the-silent-reading-book-club-by-maktaba-books-3-may-2026-tickets-1983746699780",
+        "prince min": 0.0
+      },
+      {
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.sg/e/the-silent-reading-book-club-by-maktaba-books-3-may-2026-tickets-1983746699780?aff=ebdssbcitybrowse",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.sg/e/the-silent-reading-book-club-by-maktaba-books-3-may-2026-tickets-1983746699780?aff=ebdssbcitybrowse",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "View details",
+    "Venue": "Buy",
+    "Artist": "unknown",
+    "Organizer": "unknown",
+    "original price min": 0.0,
+    "Event introduction": "2026 i-dle WORLD TOUR [Syncopation] IN SINGAPORE” is organised by iMe Singapore and will be held at Singapore Indoor Stadium.",
+    "First-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "13-Jun-2026 (Saturday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Singapore Sports Hub",
+        "source url": "https://www.sportshub.com.sg/events/2025-26-treasure-tour-pulse-singapore",
+        "ticket status": "True",
+        "ticket url": "https://www.sportshub.com.sg/events/2025-26-treasure-tour-pulse-singapore",
+        "prince min": 0.0
+      },
+      {
+        "source name": "Singapore Sports Hub",
+        "source url": "https://www.sportshub.com.sg/events/2026-i-dle-world-tour-syncopation",
+        "ticket status": "True",
+        "ticket url": "https://www.sportshub.com.sg/events/2026-i-dle-world-tour-syncopation",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "池子2026脱口秀专场 - 新加坡 CHIZI Stand-Up Comedy",
+    "Venue": "University Cultural Centre Ho Bee Auditorium, NUS",
+    "Artist": "unknown",
+    "Organizer": "FIRST WISDOM HOLDINGS PTE. LTD.",
+    "original price min": 68.0,
+    "Event introduction": "Hi, I’m Chizi, a stand-up comedian from China.",
+    "First-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
+    "category": [
+      "Stand-up comedy"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "03-May-2026 (Sunday)",
+        "hour: minute": "15:00",
+        "Day-Month-Year (day of the week) hour: minute": "03-May-2026 (Sunday) 15:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/chizi0526",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/chizi0526",
+        "prince min": 68.0
       }
     ]
   },
   {
     "Event name": "Esplanade Presents | Coffee Morning & Afternoon Tea Let It Be Lovely – Timeless Classics from The Beatles & Stevie Wonder by Shak & Bennett",
     "Venue": "Esplanade Recital Studio",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "The Esplanade Co Ltd",
-    "original price min": 21,
+    "original price min": 21.0,
     "Event introduction": "This concert brings together Bennett Bay and Shak’thiya in a stellar collaboration, celebrating classics from luminaries such as The Beatles.",
     "First-Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
     "Last-Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
     "category": [
-      "Concert",
-      "Evergreen-Western"
+      "Concert"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 10:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 15:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) unknown"
       }
     ],
     "sources": [
@@ -6815,1092 +1627,17 @@
         "source url": "https://www.sistic.com.sg/events/cmat0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/cmat0526",
-        "prince min": 21
-      }
-    ]
-  },
-  {
-    "Event name": "Odissi Festival 2026",
-    "Venue": "Various Venues",
-    "Artist": "",
-    "Organizer": "BHASKAR'S ARTS ACADEMY LTD",
-    "original price min": 20,
-    "Event introduction": "Emerging from the ancient temples of Odisha, the Odissi dance form is sheer poetry in motion.",
-    "First-Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-    "Last-Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-    "category": [
-      "Dance",
-      "Traditional/Ethnic"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-May-2026 (Monday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "04-May-2026 (Monday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 21:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 12:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "21:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 21:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/odissi0526",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/odissi0526",
-        "prince min": 20
+        "prince min": 21.0
       }
     ]
   },
   {
     "Event name": "In Harmony《声动南洋：百十回响》",
     "Venue": "Esplanade Concert Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Nanyang Girls' High School",
-    "original price min": 25,
-    "Event introduction": "To commemorate the school’s upcoming 110th anniversary, Nanyang Girls’ High School presents In Harmony《声动南洋：百十回响》, a grand music showcase celebrating a.",
+    "original price min": 25.0,
+    "Event introduction": "To commemorate the school’s upcoming 110th anniversary, Nanyang Girls’ High School presents In Harmony《声动南洋：百十回响》 , a grand music showcase celebrating.",
     "First-Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
     "Last-Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
     "category": [
@@ -7919,167 +1656,57 @@
         "source url": "https://www.sistic.com.sg/events/harmony0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/harmony0526",
-        "prince min": 25
+        "prince min": 25.0
       }
     ]
   },
   {
-    "Event name": "An Esplanade Production PLAYtime! 2026 Together Created by Isabella Chiam",
-    "Venue": "Esplanade Theatre Studio",
-    "Artist": "",
-    "Organizer": "The Esplanade Co Ltd",
-    "original price min": 23,
-    "Event introduction": "Gor Gor and Mei Mei are stuck at home, bored, restless and constantly bickering.",
-    "First-Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-    "Last-Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
+    "Event name": "The Monster Jazz Jam",
+    "Venue": "Blu Jaz, Bali Lane",
+    "Artist": "unknown",
+    "Organizer": "Ladybird Works",
+    "original price min": 0.0,
+    "Event introduction": "Every First THREE Tuesdays of EVERY MONTH!",
+    "First-Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
+    "Last-Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
     "category": [
-      "Theatre",
-      "Children"
+      "unknown"
     ],
     "showtimes": [
       {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "09:30",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 09:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-May-2026 (Wednesday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "09:30",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 09:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "09:30",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 09:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "09:30",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 09:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "09:30",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 09:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "09:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 09:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 16:00"
+        "Day-Month-Year (day of the week)": "05-May-2026 (Tuesday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "05-May-2026 (Tuesday) 20:00"
       }
     ],
     "sources": [
       {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/together0526",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/together0526",
-        "prince min": 23
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.sg/e/the-monster-jazz-jam-tickets-1988262508686?aff=ebdssbcitybrowsenightlife",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.sg/e/the-monster-jazz-jam-tickets-1988262508686?aff=ebdssbcitybrowsenightlife",
+        "prince min": 0.0
+      },
+      {
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.sg/e/the-monster-jazz-jam-tickets-1988262535767",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.sg/e/the-monster-jazz-jam-tickets-1988262535767",
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "鸭绒脱口秀专场《张目对日》",
     "Venue": "MDLR",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "South Star Entertainment Pte Ltd",
-    "original price min": 68,
-    "Event introduction": "鸭绒，《脱⼝秀⼤会》卡司、《脱⼝秀和Ta的朋友们》卡司、播客《⼩fool⼈》主播，带着她的专场「张⽬对⽇」来新加坡演出了。「张⽬对⽇」是她对世界的思考，她以孩童般“明察秋毫”的⽬光，拆解⽣活⽇常的褶皱。她的讲述尖锐⼜轻盈，在她的段⼦⾥，我们可以肆意冲浪，或者深度浮潜。每⼀处都有惊喜。在脱⼝秀演员眼⾥，这个专场「张⽬对⽇」：⻦⻦说：“鸭绒的专场像⽻⽑，从密集的职场束缚中飘忽⽽出，让⼈感受到⼀根⼩⼩⽻杆的尖锐、轻盈和⾃由。”三弟说：“鸭绒是百忙之中总能抽出时间写段⼦的时间管理⼤师，⽣活⼩事在她眼⽪底下⼀不⼩⼼就变成了精妙绝伦的梗，看鸭绒的专场会忍不住感叹，⼩⼥⼈有⼤智慧。”如果你也想念那个在屏幕⾥冷幽默的鸭绒，或者你也正处于⼀种“想要呐喊”却⼜必须保持体⾯的⽣活⾥，欢迎来看看这个专场。来现场，和她⼀起张开双眼，⾛出内耗的怪圈。",
+    "original price min": 68.0,
+    "Event introduction": "鸭绒，《脱⼝秀⼤会》卡司、《脱⼝秀和Ta的朋友们》卡司、播客《⼩fool⼈》主播，带着她的专场「张⽬对⽇」来新加坡演出了。 「张⽬对⽇」是她对世界的思考，她以孩童般“明察秋毫”的⽬光，拆解⽣活⽇常的褶皱。她的讲述尖锐⼜轻盈，在她的段⼦⾥，我们可以肆意冲浪，或者深度浮潜。每⼀处都有惊喜。 在脱⼝秀演员眼⾥，这个专场「张⽬对⽇」： ⻦⻦说：“鸭绒的专场像⽻⽑，从密集的职场束缚中飘忽⽽出，让⼈感受到⼀根⼩⼩⽻杆的尖锐、轻盈和⾃由。” 三弟说：“鸭绒是百忙之中总能抽出时间写段⼦的时间管理⼤师，⽣活⼩事在她眼⽪底下⼀不⼩⼼就变成了精妙绝伦的梗，看鸭绒的专场会忍不住感叹，⼩⼥⼈有⼤智慧。” 如果你也想念那个在屏幕⾥冷幽默的鸭绒，或者你也正处于⼀种“想要呐喊”却⼜必须保持体⾯的⽣活⾥，欢迎来看看这个专场。 来现场，和她⼀起张开双眼，⾛出内耗的怪圈。",
     "First-Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
     "Last-Day-Month-Year (day of the week)": "06-May-2026 (Wednesday)",
     "category": [
-      "Comedy",
-      "Stand-up comedy"
+      "Comedy"
     ],
     "showtimes": [
       {
@@ -8094,150 +1721,236 @@
         "source url": "https://www.sistic.com.sg/events/southstar0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/southstar0526",
-        "prince min": 68
+        "prince min": 68.0
       }
     ]
   },
   {
     "Event name": "Hans Graf Farewell Series: Scheherazade",
     "Venue": "Esplanade Concert Hall",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra",
-    "original price min": 15,
-    "Event introduction": "Update: The opener for the concert on 8 May 2026 will change from Prokofiev - The Love for Three Oranges: March and Scherzo, to Rachmaninoff - The Rock,…",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra (SSO)",
+    "original price min": 15.0,
+    "Event introduction": "Update: The opener for the concert on 8 May 2026 will change from Prokofiev - The Love for Three Oranges.",
     "First-Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
     "Last-Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
     "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
+      "Concert"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "07-May-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) 19:30"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "07-May-2026 (Thursday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
         "hour: minute": "19:30",
         "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 19:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) unknown"
       }
     ],
     "sources": [
-      {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/hans-graf-farewell-scheherazade",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/SOT2619-1",
-        "prince min": 15
-      },
       {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/SOT2619-1",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/SOT2619-1",
-        "prince min": 15
+        "prince min": 15.0
       }
     ]
   },
   {
-    "Event name": "Kraftwerk: Multimedia Tour in Singapore",
-    "Venue": "The Star Theatre",
-    "Artist": "",
-    "Organizer": "Unknown organizer",
-    "original price min": 1,
-    "Event introduction": "After an electrifying worldwide tour, including headline-stealing performances at Coachella and Fuji Rock Festival - Kraftwerk legend Ralf Hütter is thrilled to announce their return to Singapore in 2026.",
+    "Event name": "Candlelight: The Lord of the Rings",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Arts House Group",
+    "original price min": 53.0,
+    "Event introduction": "Arts House Group (AHG) is a not-for-profit organisation committed to enriching lives through the arts.",
     "First-Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
     "Last-Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-    "category": [],
+    "category": [
+      "unknown"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
+        "hour: minute": "21:00",
+        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 21:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Arts House Group",
+        "source url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/candlelight-the-lord-of-the-rings",
+        "ticket status": "True",
+        "ticket url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/candlelight-the-lord-of-the-rings",
+        "prince min": 53.0
+      }
+    ]
+  },
+  {
+    "Event name": "Concert Season 24/25 - Singapore Chinese Orchestra",
+    "Venue": "Booking) (65) 6557 4034 (Ticketing Enquiries) Never Miss an Update Subscribe to SCO Newsletter now! Be the first to receive all the latest news and concerts! #wpforms-4684 { } Please enable JavaScript in your browser to complete this form. Please enable JavaScript in your browser to complete this form. Fields Email Address Your Email Address * ( function() { const style = document.createElement( 'style' ); style.appendChild( document.createTextNode( '#wpforms-4684-field_1-container { position: absolute !important; overflow: hidden !important; display: inline !important; height: 1px !important; width: 1px !important; z-index: -1000 !important; padding: 0 !important; } #wpforms-4684-field_1-container input { visibility: hidden; } #wpforms-conversational-form-page #wpforms-4684-field_1-container label { counter-increment: none; }' ) ); document.head.appendChild( style ); document.currentScript?.remove(); } )(); Subscribe Other Sites Singapore National Youth Chinese Orchestra Our young talents and orchestra Singapore Chinese Orchestra Digital Archives Browse through the diverse collection of Chinese orchestral materials EN 中文 © 2026 Singapore Chinese Orchestra Company Ltd. All Rights Reserved. Privacy Policy Whistleblowing Policy Venues & Facilities Search This Site Search for Here are some useful links What's On About The Orchestra Visitor Guide Vision, Mission & Values Donate Contact Us {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/ohio-child/*\",\"/wp-content/themes/ohio/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]} var sbiajaxurl = \"https://sco.com.sg/wp-admin/admin-ajax.php\"; const lazyloadRunObserver = () => { const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` ); const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => { entries.forEach( ( entry ) => { if ( entry.isIntersecting ) { let lazyloadBackground = entry.target; if( lazyloadBackground ) { lazyloadBackground.classList.add( 'e-lazyloaded' ); } lazyloadBackgroundObserver.unobserve( entry.target ); } }); }, { rootMargin: '200px 0px 200px 0px' } ); lazyloadBackgrounds.forEach( ( lazyloadBackground ) => { lazyloadBackgroundObserver.observe( lazyloadBackground ); } ); }; const events = [ 'DOMContentLoaded', 'elementor/lazyload/observe', ]; events.forEach( ( event ) => { document.addEventListener( event, lazyloadRunObserver ); } ); .wp-container-core-buttons-is-layout-c3acae67{flex-wrap:nowrap;flex-direction:column;align-items:flex-start;} /*# sourceURL=core-block-supports-inline-css */ :root { --wpforms-field-border-radius: 3px; --wpforms-field-border-style: solid; --wpforms-field-border-size: 1px; --wpforms-field-background-color: #ffffff; --wpforms-field-border-color: rgba( 0, 0, 0, 0.25 ); --wpforms-field-border-color-spare: rgba( 0, 0, 0, 0.25 ); --wpforms-field-text-color: rgba( 0, 0, 0, 0.7 ); --wpforms-field-menu-color: #ffffff; --wpforms-label-color: rgba( 0, 0, 0, 0.85 ); --wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 ); --wpforms-label-error-color: #d63637; --wpforms-button-border-radius: 3px; --wpforms-button-border-style: none; --wpforms-button-border-size: 1px; --wpforms-button-background-color: #066aab; --wpforms-button-border-color: #066aab; --wpforms-button-text-color: #ffffff; --wpforms-page-break-color: #066aab; --wpforms-background-image: none; --wpforms-background-position: center center; --wpforms-background-repeat: no-repeat; --wpforms-background-size: cover; --wpforms-background-width: 100px; --wpforms-background-height: 100px; --wpforms-background-color: rgba( 0, 0, 0, 0 ); --wpforms-background-url: none; --wpforms-container-padding: 0px; --wpforms-container-border-style: none; --wpforms-container-border-width: 1px; --wpforms-container-border-color: #000000; --wpforms-container-border-radius: 3px; --wpforms-field-size-input-height: 43px; --wpforms-field-size-input-spacing: 15px; --wpforms-field-size-font-size: 16px; --wpforms-field-size-line-height: 19px; --wpforms-field-size-padding-h: 14px; --wpforms-field-size-checkbox-size: 16px; --wpforms-field-size-sublabel-spacing: 5px; --wpforms-field-size-icon-size: 1; --wpforms-label-size-font-size: 16px; --wpforms-label-size-line-height: 19px; --wpforms-label-size-sublabel-font-size: 14px; --wpforms-label-size-sublabel-line-height: 17px; --wpforms-button-size-font-size: 17px; --wpforms-button-size-height: 41px; --wpforms-button-size-padding-h: 15px; --wpforms-button-size-margin-top: 10px; --wpforms-container-shadow-size-box-shadow: none; } /*# sourceURL=wpforms-modern-full-inline-css */ /* <![CDATA[ */ var qodefQiAddonsGlobal = {\"vars\":{\"adminBarHeight\":0,\"iconArrowLeft\":\"\\u003Csvg xmlns=\\\"http://www.w3.org/2000/svg\\\" x=\\\"0px\\\" y=\\\"0px\\\" viewBox=\\\"0 0 34.2 32.3\\\" xml:space=\\\"preserve\\\" style=\\\"stroke-width: 2;\\\"\\u003E\\u003Cline x1=\\\"0.5\\\" y1=\\\"16\\\" x2=\\\"33.5\\\" y2=\\\"16\\\"/\\u003E\\u003Cline x1=\\\"0.3\\\" y1=\\\"16.5\\\" x2=\\\"16.2\\\" y2=\\\"0.7\\\"/\\u003E\\u003Cline x1=\\\"0\\\" y1=\\\"15.4\\\" x2=\\\"16.2\\\" y2=\\\"31.6\\\"/\\u003E\\u003C/svg\\u003E\",\"iconArrowRight\":\"\\u003Csvg xmlns=\\\"http://www.w3.org/2000/svg\\\" x=\\\"0px\\\" y=\\\"0px\\\" viewBox=\\\"0 0 34.2 32.3\\\" xml:space=\\\"preserve\\\" style=\\\"stroke-width: 2;\\\"\\u003E\\u003Cline x1=\\\"0\\\" y1=\\\"16\\\" x2=\\\"33\\\" y2=\\\"16\\\"/\\u003E\\u003Cline x1=\\\"17.3\\\" y1=\\\"0.7\\\" x2=\\\"33.2\\\" y2=\\\"16.5\\\"/\\u003E\\u003Cline x1=\\\"17.3\\\" y1=\\\"31.6\\\" x2=\\\"33.5\\\" y2=\\\"15.4\\\"/\\u003E\\u003C/svg\\u003E\",\"iconClose\":\"\\u003Csvg xmlns=\\\"http://www.w3.org/2000/svg\\\" x=\\\"0px\\\" y=\\\"0px\\\" viewBox=\\\"0 0 9.1 9.1\\\" xml:space=\\\"preserve\\\"\\u003E\\u003Cg\\u003E\\u003Cpath d=\\\"M8.5,0L9,0.6L5.1,4.5L9,8.5L8.5,9L4.5,5.1L0.6,9L0,8.5L4,4.5L0,0.6L0.6,0L4.5,4L8.5,0z\\\"/\\u003E\\u003C/g\\u003E\\u003C/svg\\u003E\"}}; //# sourceURL=qi-addons-for-elementor-script-js-extra /* ]]> */ /* <![CDATA[ */ var qodefQiAddonsPremiumGlobal = {\"vars\":{\"restUrl\":\"https://sco.com.sg/wp-json/\",\"restNonce\":\"dd88efbe92\",\"paginationRestRoute\":\"qi-addons-for-elementor-premium/v1/get-posts\"}}; //# sourceURL=qi-addons-for-elementor-premium-script-js-extra /* ]]> */ /* <![CDATA[ */ jQuery(function(jQuery){jQuery.datepicker.setDefaults({\"closeText\":\"Close\",\"currentText\":\"Today\",\"monthNames\":[\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"monthNamesShort\":[\"Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\",\"Jul\",\"Aug\",\"Sep\",\"Oct\",\"Nov\",\"Dec\"],\"nextText\":\"Next\",\"prevText\":\"Previous\",\"dayNames\":[\"Sunday\",\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\"],\"dayNamesShort\":[\"Sun\",\"Mon\",\"Tue\",\"Wed\",\"Thu\",\"Fri\",\"Sat\"],\"dayNamesMin\":[\"S\",\"M\",\"T\",\"W\",\"T\",\"F\",\"S\"],\"dateFormat\":\"dd M yy\",\"firstDay\":1,\"isRTL\":false});}); //# sourceURL=jquery-ui-datepicker-js-after /* ]]> */ /* <![CDATA[ */ var ohioVariables = {\"url\":\"https://sco.com.sg/wp-admin/admin-ajax.php\",\"view_cart\":\"View Cart\",\"add_to_cart_message\":\"has been added to the cart\",\"subscribe_popup_enable\":\"\",\"notification_enable\":\"\"}; //# sourceURL=ohio-main-js-extra /* ]]> */ /* <![CDATA[ */ var scriptTranslation = {\"this-week\":\"This Week\",\"Related Event\":\"Related Event\"}; //# sourceURL=custom-global-js-js-extra /* ]]> */ /* <![CDATA[ */ var scriptTranslation = {\"Overview\":\"Overview\",\"Others\":\"Others\",\"available for free\":\"Available For Free\",\"available for hire\":\"Available For Hire\",\"Download Booklet\":\"Download Booklet\",\"Videos\":\"Videos\"}; //# sourceURL=custom-dynamic-tabs-js-js-extra /* ]]> */ /* <![CDATA[ */ Fancybox.bind('[data-fancybox]', {}); //# sourceURL=fancybox-js-js-after /* ]]> */ /* <![CDATA[ */ var elementorFrontendConfig = {\"environmentMode\":{\"edit\":false,\"wpPreview\":false,\"isScriptDebug\":false},\"i18n\":{\"shareOnFacebook\":\"Share on Facebook\",\"shareOnTwitter\":\"Share on Twitter\",\"pinIt\":\"Pin it\",\"download\":\"Download\",\"downloadImage\":\"Download image\",\"fullscreen\":\"Fullscreen\",\"zoom\":\"Zoom\",\"share\":\"Share\",\"playVideo\":\"Play Video\",\"previous\":\"Previous\",\"next\":\"Next\",\"close\":\"Close\",\"a11yCarouselPrevSlideMessage\":\"Previous slide\",\"a11yCarouselNextSlideMessage\":\"Next slide\",\"a11yCarouselFirstSlideMessage\":\"This is the first slide\",\"a11yCarouselLastSlideMessage\":\"This is the last slide\",\"a11yCarouselPaginationBulletMessage\":\"Go to slide\"},\"is_rtl\":false,\"breakpoints\":{\"xs\":0,\"sm\":480,\"md\":768,\"lg\":1025,\"xl\":1440,\"xxl\":1600},\"responsive\":{\"breakpoints\":{\"mobile\":{\"label\":\"Mobile Portrait\",\"value\":767,\"default_value\":767,\"direction\":\"max\",\"is_enabled\":true},\"mobile_extra\":{\"label\":\"Mobile Landscape\",\"value\":880,\"default_value\":880,\"direction\":\"max\",\"is_enabled\":false},\"tablet\":{\"label\":\"Tablet Portrait\",\"value\":1024,\"default_value\":1024,\"direction\":\"max\",\"is_enabled\":true},\"tablet_extra\":{\"label\":\"Tablet Landscape\",\"value\":1200,\"default_value\":1200,\"direction\":\"max\",\"is_enabled\":false},\"laptop\":{\"label\":\"Laptop\",\"value\":1366,\"default_value\":1366,\"direction\":\"max\",\"is_enabled\":false},\"widescreen\":{\"label\":\"Widescreen\",\"value\":2400,\"default_value\":2400,\"direction\":\"min\",\"is_enabled\":false}}, \"hasCustomBreakpoints\":false},\"version\":\"3.35.7\",\"is_static\":false,\"experimentalFeatures\":{\"additional_custom_breakpoints\":true,\"theme_builder_v2\":true,\"home_screen\":true,\"global_classes_should_enforce_capabilities\":true,\"e_variables\":true,\"cloud-library\":true,\"e_opt_in_v4_page\":true,\"e_components\":true,\"e_interactions\":true,\"e_editor_one\":true,\"import-export-customization\":true,\"e_pro_variables\":true},\"urls\":{\"assets\":\"https:\\/\\/sco.com.sg\\/wp-content\\/plugins\\/elementor\\/assets\\/\",\"ajaxurl\":\"https:\\/\\/sco.com.sg\\/wp-admin\\/admin-ajax.php\",\"uploadUrl\":\"https:\\/\\/sco.com.sg\\/wp-content\\/uploads\"},\"nonces\":{\"floatingButtonsClickTracking\":\"e379b2f915\"},\"swiperClass\":\"swiper\",\"settings\":{\"page\":[],\"editorPreferences\":[]},\"kit\":{\"active_breakpoints\":[\"viewport_mobile\",\"viewport_tablet\"],\"global_image_lightbox\":\"yes\",\"lightbox_enable_counter\":\"yes\",\"lightbox_enable_fullscreen\":\"yes\",\"lightbox_enable_zoom\":\"yes\",\"lightbox_enable_share\":\"yes\",\"lightbox_title_src\":\"title\",\"lightbox_description_src\":\"description\"},\"post\":{\"id\":4503,\"title\":\"Concert%20Season%2024%2F25%20-%20Singapore%20Chinese%20Orchestra\",\"excerpt\":\"\",\"featuredImage\":\"https:\\/\\/sco.com.sg\\/wp-content\\/uploads\\/2025\\/03\\/whats-on-banner-1024x427.png\"}}; //# sourceURL=elementor-frontend-js-before /* ]]> */ /* <![CDATA[ */ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': [ 'ltr' ] } ); //# sourceURL=wp-i18n-js-after /* ]]> */ /* <![CDATA[ */ var ElementorProFrontendConfig = {\"ajaxurl\":\"https:\\/\\/sco.com.sg\\/wp-admin\\/admin-ajax.php\",\"nonce\":\"98dbc894ae\",\"urls\":{\"assets\":\"https:\\/\\/sco.com.sg\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/\",\"rest\":\"https:\\/\\/sco.com.sg\\/wp-json\\/\"},\"settings\":{\"lazy_load_background_images\":true},\"popup\":{\"hasPopUps\":false},\"shareButtonsNetworks\":{\"facebook\":{\"title\":\"Facebook\",\"has_counter\":true},\"twitter\":{\"title\":\"Twitter\"},\"linkedin\":{\"title\":\"LinkedIn\",\"has_counter\":true},\"pinterest\":{\"title\":\"Pinterest\",\"has_counter\":true},\"reddit\":{\"title\":\"Reddit\",\"has_counter\":true},\"vk\":{\"title\":\"VK\",\"has_counter\":true},\"odnoklassniki\":{\"title\":\"OK\",\"has_counter\":true},\"tumblr\":{\"title\":\"Tumblr\"},\"digg\":{\"title\":\"Digg\"},\"skype\":{\"title\":\"Skype\"},\"stumbleupon\":{\"title\":\"StumbleUpon\",\"has_counter\":true},\"mix\":{\"title\":\"Mix\"},\"telegram\":{\"title\":\"Telegram\"},\"pocket\":{\"title\":\"Pocket\",\"has_counter\":true},\"xing\":{\"title\":\"XING\",\"has_counter\":true},\"whatsapp\":{\"title\":\"WhatsApp\"},\"email\":{\"title\":\"Email\"},\"print\":{\"title\":\"Print\"},\"x-twitter\":{\"title\":\"X\"},\"threads\":{\"title\":\"Threads\"}}, \"facebook_sdk\":{\"lang\":\"en_US\",\"app_id\":\"\"},\"lottie\":{\"defaultAnimationUrl\":\"https:\\/\\/sco.com.sg\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json\"}}; //# sourceURL=elementor-pro-frontend-js-before /* ]]> */ var dFlipLocation = \"https://sco.com.sg/wp-content/plugins/dflip/assets/\"; var dFlipWPGlobal = {\"text\":{\"toggleSound\":\"Turn on\\/off Sound\",\"toggleThumbnails\":\"Toggle Thumbnails\",\"thumbTitle\":\"Thumbnails\",\"outlineTitle\":\"Table of Contents\",\"searchTitle\":\"Search\",\"searchPlaceHolder\":\"Search\",\"toggleOutline\":\"Toggle Outline\\/Bookmark\",\"previousPage\":\"Previous Page\",\"nextPage\":\"Next Page\",\"toggleFullscreen\":\"Toggle Fullscreen\",\"zoomIn\":\"Zoom In\",\"zoomOut\":\"Zoom Out\",\"toggleHelp\":\"Toggle Help\",\"singlePageMode\":\"Single Page Mode\",\"doublePageMode\":\"Double Page Mode\",\"downloadPDFFile\":\"Download PDF File\",\"gotoFirstPage\":\"Goto First Page\",\"gotoLastPage\":\"Goto Last Page\",\"share\":\"Share\",\"search\":\"Search\",\"print\":\"Print\",\"mailSubject\":\"I wanted you to see this FlipBook\",\"mailBody\":\"Check out this site {{url}}\",\"loading\":\"Loading\"},\"viewerType\":\"flipbook\",\"mobileViewerType\":\"auto\",\"moreControls\":\"pageMode,startPage,endPage,sound\",\"hideControls\":\"\",\"leftControls\":\"outline,thumbnail\",\"rightControls\":\"fullScreen,share,download,more\",\"hideShareControls\":\"\",\"scrollWheel\":\"false\",\"backgroundColor\":\"transparent\",\"backgroundImage\":\"\",\"height\":\"auto\",\"paddingTop\":\"20\",\"paddingBottom\":\"20\",\"paddingLeft\":\"20\",\"paddingRight\":\"20\",\"controlsPosition\":\"bottom\",\"controlsFloating\":true,\"direction\":\"1\",\"duration\":\"800\",\"soundEnable\":\"true\",\"showDownloadControl\":\"false\",\"showSearchControl\":\"false\",\"showPrintControl\":\"false\",\"enableAnalytics\":\"false\",\"webgl\":\"true\",\"hard\":\"none\",\"autoEnableOutline\":\"false\",\"autoEnableThumbnail\":\"false\",\"pageScale\":\"fit\",\"maxTextureSize\":\"1600\",\"rangeChunkSize\":\"524288\",\"disableRange\":false,\"zoomRatio\":\"1.5\",\"fakeZoom\":\"1\",\"flexibility\":\"1\",\"pageMode\":\"0\",\"singlePageMode\":\"0\",\"pageSize\":\"0\",\"autoPlay\":\"false\",\"autoPlayDuration\":\"5000\",\"autoPlayStart\":\"false\",\"linkTarget\":\"2\",\"sharePrefix\":\"flipbook-\",\"pdfVersion\":\"default\",\"thumbLayout\":\"book-title-hover\",\"targetWindow\":\"_popup\",\"buttonClass\":\"\",\"hasSpiral\":false,\"calendarMode\":false,\"spiralColor\":\"#eee\",\"cover3DType\":\"none\",\"color3DCover\":\"#aaaaaa\",\"color3DSheets\":\"#fff\",\"flipbook3DTiltAngleUp\":\"0\",\"flipbook3DTiltAngleLeft\":\"0\",\"autoPDFLinktoViewer\":false,\"sideMenuOverlay\":false,\"displayLightboxPlayIcon\":false,\"popupBackGroundColor\":\"#eee\",\"shelfImage\":\"\",\"enableAutoLinks\":true}; .df-sheet .df-page:before { opacity: 0.5;}section.linkAnnotation a, a.linkAnnotation, .buttonWidgetAnnotation a, a.customLinkAnnotation, .customHtmlAnnotation, .customVideoAnnotation, a.df-autolink{background-color: #ff0; opacity: 0.2;} section.linkAnnotation a:hover, a.linkAnnotation:hover, .buttonWidgetAnnotation a:hover, a.customLinkAnnotation:hover, .customHtmlAnnotation:hover, .customVideoAnnotation:hover, a.df-autolink:hover{background-color: #2196F3; opacity: 0.5;}.df-container.df-transparent.df-fullscreen{background-color: #eee;} {\"baseUrl\":\"https://s.w.org/images/core/emoji/17.0.2/72x72/\",\"ext\":\".png\",\"svgUrl\":\"https://s.w.org/images/core/emoji/17.0.2/svg/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https://sco.com.sg/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4\"}} /* <![CDATA[ */ /*! This file is auto-generated */ const a=JSON.parse(document.getElementById(\"wp-emoji-settings\").textContent),o=(window._wpemojiSettings=a,\"wpEmojiSettingsSupports\"),s=[\"flag\",\"emoji\"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case\"flag\":return n(e,\"\\ud83c\\udff3\\ufe0f\\u200d\\u26a7\\ufe0f\",\"\\ud83c\\udff3\\ufe0f\\u200b\\u26a7\\ufe0f\")?!1:!n(e,\"\\ud83c\\udde8\\ud83c\\uddf6\",\"\\ud83c\\udde8\\u200b\\ud83c\\uddf6\")&&!n(e,\"\\ud83c\\udff4\\udb40\\udc67\\udb40\\udc62\\udb40\\udc65\\udb40\\udc6e\\udb40\\udc67\\udb40\\udc7f\",\"\\ud83c\\udff4\\u200b\\udb40\\udc67\\u200b\\udb40\\udc62\\u200b\\udb40\\udc65\\u200b\\udb40\\udc6e\\u200b\\udb40\\udc67\\u200b\\udb40\\udc7f\");case\"emoji\":return!a(e,\"\\ud83e\\u1fac8\")}return!1}function f(e,t,n,a){let r;const o=(r=\"undefined\"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement(\"canvas\")).getContext(\"2d\",{willReadFrequently:!0}),s=(o.textBaseline=\"top\",o.font=\"600 32px Arial\",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement(\"script\");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(\"object\"==typeof e&&\"number\"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&\"object\"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(\"undefined\"!=typeof Worker&&\"undefined\"!=typeof OffscreenCanvas&&\"undefined\"!=typeof URL&&URL.createObjectURL&&\"undefined\"!=typeof Blob)try{var e=\"postMessage(\"+f.toString()+\"(\"+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(\",\")+\"));\",a=new Blob([e],{type:\"text/javascript\"});const r=new Worker(URL.createObjectURL(a),{name:\"wpTestEmojiSupports\"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],\"flag\"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))}); //# sourceURL=https://sco.com.sg/wp-includes/js/wp-emoji-loader.min.js /* ]]> */ /* <![CDATA[ */ var wpforms_settings = {\"val_required\":\"This field is required.\",\"val_email\":\"Please enter a valid email address.\",\"val_email_suggestion\":\"Did you mean {suggestion}?\",\"val_email_suggestion_title\":\"Click to accept this suggestion.\",\"val_email_restricted\":\"This email address is not allowed.\",\"val_number\":\"Please enter a valid number.\",\"val_number_positive\":\"Please enter a valid positive number.\",\"val_minimum_price\":\"Amount entered is less than the required minimum.\",\"val_confirm\":\"Field values do not match.\",\"val_checklimit\":\"You have exceeded the number of allowed selections: {#}.\",\"val_limit_characters\":\"{count} of {limit} max characters.\",\"val_limit_words\":\"{count} of {limit} max words.\",\"val_min\":\"Please enter a value greater than or equal to {0}.\",\"val_max\":\"Please enter a value less than or equal to {0}.\",\"val_recaptcha_fail_msg\":\"Google reCAPTCHA verification failed, please try again later.\",\"val_turnstile_fail_msg\":\"Cloudflare Turnstile verification failed, please try again later.\",\"val_inputmask_incomplete\":\"Please fill out the field in required format.\",\"uuid_cookie\":\"1\",\"locale\":\"en\",\"country\":\"\",\"country_list_label\":\"Country list\",\"wpforms_plugin_url\":\"https:\\/\\/sco.com.sg\\/wp-content\\/plugins\\/wpforms\\/\",\"gdpr\":\"\",\"ajaxurl\":\"https:\\/\\/sco.com.sg\\/wp-admin\\/admin-ajax.php\",\"mailcheck_enabled\":\"\",\"mailcheck_domains\":[],\"mailcheck_toplevel_domains\":[\"dev\"],\"is_ssl\":\"1\",\"currency_code\":\"SGD\",\"currency_thousands\":\",\",\"currency_decimals\":\"2\",\"currency_decimal\":\".\",\"currency_symbol\":\"$\",\"currency_symbol_pos\":\"left\",\"val_requiredpayment\":\"Payment is required.\",\"val_creditcard\":\"Please enter a valid credit card number.\",\"css_vars\":[\"field-border-radius\",\"field-border-style\",\"field-border-size\",\"field-background-color\",\"field-border-color\",\"field-text-color\",\"field-menu-color\",\"label-color\",\"label-sublabel-color\",\"label-error-color\",\"button-border-radius\",\"button-border-style\",\"button-border-size\",\"button-background-color\",\"button-border-color\",\"button-text-color\",\"page-break-color\",\"background-image\",\"background-position\",\"background-repeat\",\"background-size\",\"background-width\",\"background-height\",\"background-color\",\"background-url\",\"container-padding\",\"container-border-style\",\"container-border-width\",\"container-border-color\",\"container-border-radius\",\"field-size-input-height\",\"field-size-input-spacing\",\"field-size-font-size\",\"field-size-line-height\",\"field-size-padding-h\",\"field-size-checkbox-size\",\"field-size-sublabel-spacing\",\"field-size-icon-size\",\"label-size-font-size\",\"label-size-line-height\",\"label-size-sublabel-font-size\",\"label-size-sublabel-line-height\",\"button-size-font-size\",\"button-size-height\",\"button-size-padding-h\",\"button-size-margin-top\",\"container-shadow-size-box-shadow\"],\"val_post_max_size\":\"The total size of the selected files {totalSize} MB exceeds the allowed limit {maxSize} MB.\",\"val_time12h\":\"Please enter",
+    "Artist": "unknown",
+    "Organizer": "Singapore Chinese Orchestra",
+    "original price min": 0.0,
+    "Event introduction": "Curated by Principal Conductor Quek Ling Kiong, “SEAMLESS” presents familiar and beloved Chinese orchestral works that resonate with Singapore’s charming.",
+    "First-Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
+    "Last-Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Singapore Chinese Orchestra (SCO)",
+        "source url": "https://sco.com.sg/whats-on/concert-season-24-25/",
+        "ticket status": "False",
+        "ticket url": "https://sco.com.sg/whats-on/concert-season-24-25/",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Kraftwerk: Multimedia Tour",
+    "Venue": "by full ticket only. Printed tickets must be produced for admission. There will be no admission for infants in arms and children below 6 years old. Individuals aged 6 years old and above will be required to purchase a ticket for admission. No professional photography, videography and social media live streaming allowed. No outside food and beverage are allowed into the venue. Exchange and Refund Policy The Organiser/Venue Owner reserves the right without refund or compensation to refuse admission/evict any person(s) whose conduct is disorderly or inappropriate or who poses a threat to security, or to the enjoyment of the Event by others. Ticket holders assume all risk of injury and all responsibility for property loss, destruction or theft and release the promoters, performers, sponsors, ticket outlets, venues, and their employees from any liability thereafter. The resale of ticket(s) at the same or any price is prohibited. There is no refund, exchange or cancellation once ticket(s) are sold. Upgrade of ticket(s) is subject to terms & conditions. We would like to caution members of the public against purchasing tickets from unauthorized sellers or 3rd party websites. By purchasing tickets through these non-authorized points of sale, buyers take on the risk that the validity of the tickets cannot be guaranteed, with no refunds possible. Promotion Other Ways to Purchase Tickets ► ONLINE & MOBILE: 24 x 7 x 365 days of the year! Visit us on our website at ticketmaster.sg to purchase tickets. ► HOTLINE: +65 6018 7645 Operating Hours: Monday to Saturday (10am - 6pm) Sunday and Public Holidays (Closed) Promoter: %3Cdiv%20role%3D%22listitem%22%20class%3D%22event-promoter%20w-dyn-item%20w-dyn-repeater-item%22%3E%3Cimg%20src%3D%22https%3A%2F%2Fcdn.prod.website-files.com%2Fplugins%2FBasic%2Fassets%2Fplaceholder.60f9b1840c.svg%22%20loading%3D%22lazy%22%20alt%3D%22%22%20class%3D%22event-promoter-logo%20w-dyn-bind-empty%22%2F%3E%3C%2Fdiv%3E No items found. Details Date Friday, May 8, 2026 Time: 8:00 pm Start Friday, May 8, 2026 , 8:00 pm End: , Venue The Star Theatre",
+    "Artist": "unknown",
+    "Organizer": "Live Nation Singapore",
+    "original price min": 1.0,
+    "Event introduction": "After an electrifying worldwide tour, including headline-stealing performances at Coachella and Fuji Rock Festival - Kraftwerk legend Ralf Hütter is.",
+    "First-Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
+    "Last-Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
+    "category": [
+      "Concert"
+    ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) unknown"
       }
     ],
     "sources": [
       {
+        "source name": "Live Nation Singapore",
+        "source url": "https://www.livenation.sg/event/kraftwerk-multimedia-tour-singapore-tickets-edp1640241",
+        "ticket status": "False",
+        "ticket url": "https://www.livenation.sg/event/kraftwerk-multimedia-tour-singapore-tickets-edp1640241",
+        "prince min": 1.0
+      },
+      {
         "source name": "The Star Performing Arts Centre",
         "source url": "https://www.thestar.sg/events/kraftwerk-multimedia-tour-in-singapore",
+        "ticket status": "False",
+        "ticket url": "https://www.thestar.sg/events/kraftwerk-multimedia-tour-in-singapore",
+        "prince min": 1.0
+      },
+      {
+        "source name": "Ticketmaster Singapore",
+        "source url": "https://ticketmaster.sg/activity/detail/26sg_kraftwerk",
         "ticket status": "True",
         "ticket url": "https://ticketmaster.sg/activity/detail/26sg_kraftwerk",
-        "prince min": 1
+        "prince min": 0.0
       }
     ]
   },
   {
-    "Event name": "Mother's Day Concert 2026: Encounter II - Liang Wern Fook's Composition Showcase 母亲节音乐会2",
-    "Venue": "SCO Concert Hall",
-    "Artist": "Liang Wern Fook",
-    "Organizer": "Singapore Chinese Orchestra",
-    "original price min": 60,
-    "Event introduction": "Liang Wern Fook's songs return in Chinese orchestral form for a sold-out Mother's Day concert.",
+    "Event name": "Odissi Festival 2026",
+    "Venue": "Various Venues",
+    "Artist": "unknown",
+    "Organizer": "BHASKAR'S ARTS ACADEMY LTD",
+    "original price min": 20.0,
+    "Event introduction": "Emerging from the ancient temples of Odisha, the Odissi dance form is sheer poetry in motion.",
     "First-Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
     "category": [
-      "Concert",
-      "Chinese Orchestra",
-      "Xinyao"
+      "Dance"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 19:30"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 15:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) unknown"
       },
       {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 19:30"
+        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) unknown"
       }
     ],
     "sources": [
       {
         "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/lwf0526",
-        "ticket status": "False",
-        "ticket url": "https://www.sistic.com.sg/events/lwf0526",
-        "prince min": 60
+        "source url": "https://www.sistic.com.sg/events/odissi0526",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/odissi0526",
+        "prince min": 20.0
       }
     ]
   },
   {
     "Event name": "温情治愈系喜剧《我是你爸爸》(I Am Your Father)",
     "Venue": "Singtel Waterfront Theatre at Esplanade",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Singapore Focus Theatre Ltd",
-    "original price min": 28,
-    "Event introduction": "他是一个特别的父亲，也是一个平凡的父亲。原来，天下的父爱，都一样……本地原创喜剧《我是你爸爸》，一部让你笑着流泪的温情之作。从小，父亲那些离奇的亲身经历，就让女儿深深着迷。可当她渐渐长大，却发现这一切不过是父亲编织的美丽童话。女儿试图探寻父亲真实的过往，却始终得不到回应。直到一场意外发生，层层悬疑被揭开，她才终于走进了父亲的内心世界……《我是你爸爸》自2018年首演以来，口碑载道。它以极具创新的舞台手法和出人意料的剧情走向，将喜剧与温情玩出了新高度。这不仅是一个故事，更是一份关于父爱的终极解码。",
+    "original price min": 28.0,
+    "Event introduction": "他是一个特别的父亲，也是一个平凡的父亲。原来，天下的父爱，都一样…… 本地原创喜剧《我是你爸爸》，一部让你笑着流泪的温情之作。 从小，父亲那些离奇的亲身经历，就让女儿深深着迷。可当她渐渐长大，却发现这一切不过是父亲编织的美丽童话。女儿试图探寻父亲真实的过往，却始终得不到回应。直到一场意外发生，层层悬疑被揭开，她才终于走进了父亲的内心世界…… 《我是你爸爸》自2018年首演以来，口碑载道。它以极具创新的舞台手法和出人意料的剧情走向，将喜剧与温情玩出了新高度。这不仅是一个故事，更是一份关于父爱的终极解码。",
     "First-Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
+    "Last-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
     "category": [
-      "Theatre",
-      "Drama-Chinese"
+      "Theatre"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 14:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) unknown"
       },
       {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-May-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-May-2026 (Friday) 20:00"
+        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) unknown"
       }
     ],
     "sources": [
@@ -8246,22 +1959,21 @@
         "source url": "https://www.sistic.com.sg/events/father0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/father0526",
-        "prince min": 28
+        "prince min": 28.0
       }
     ]
   },
   {
     "Event name": "Ariel Lanyi: Piano Recital",
     "Venue": "Esplanade Recital Studio",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Sinfonia Music Centre Pte Ltd",
-    "original price min": 38,
+    "original price min": 38.0,
     "Event introduction": "“Here at last we have a musician of honesty, integrity and modesty with an uncontaminated sound...\" - The Keyboard Charitable.",
     "First-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
     "category": [
-      "Concert",
-      "Solo-Western"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -8276,43 +1988,91 @@
         "source url": "https://www.sistic.com.sg/events/ariel0926",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/ariel0926",
-        "prince min": 38
+        "prince min": 38.0
+      }
+    ]
+  },
+  {
+    "Event name": "Chicken Little",
+    "Venue": "Esplanade Theatre",
+    "Artist": "unknown",
+    "Organizer": "Singapore Repertory Theatre",
+    "original price min": 28.0,
+    "Event introduction": "A feather-filled family musical where courage takes flight!",
+    "First-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "25-Jul-2026 (Saturday)",
+    "category": [
+      "Theatre"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "21-Jun-2026 (Sunday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "25-Jul-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "25-Jul-2026 (Saturday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Singapore Repertory Theatre (SRT)",
+        "source url": "https://www.srt.com.sg/show/chicken-little/",
+        "ticket status": "False",
+        "ticket url": "https://www.srt.com.sg/show/chicken-little/",
+        "prince min": 28.0
       }
     ]
   },
   {
     "Event name": "Chinese Children Drama – The Three Little Pigs and Little Red Riding Hood, 华语儿童剧《三只小猪与小红帽》",
     "Venue": "SOTA Drama Theatre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Arts Theatre of Singapore Ltd",
-    "original price min": 35,
+    "original price min": 0.0,
     "Event introduction": "In the beautiful forest, there lived three little pigs and their good friend Little Red Riding Hood.",
     "First-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
     "category": [
-      "Theatre",
-      "drama chinese"
+      "Theatre"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "10:30",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 10:30"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) unknown"
       },
       {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 19:30"
+        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) unknown"
       }
     ],
     "sources": [
@@ -8321,199 +2081,17 @@
         "source url": "https://www.sistic.com.sg/events/riding0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/riding0526",
-        "prince min": 35
-      }
-    ]
-  },
-  {
-    "Event name": "IVE WORLD TOUR < SHOW WHAT I AM > IN SINGAPORE",
-    "Venue": "Singapore Indoor Stadium",
-    "Artist": "IVE",
-    "Organizer": "",
-    "original price min": 188,
-    "Event introduction": "IVE presents new songs, solo stages, and expanded production in their second world tour.",
-    "First-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-    "category": [
-      "Concert",
-      "K-pop"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 18:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Ticketmaster Singapore",
-        "source url": "https://ticketmaster.sg/activity/detail/26sg_ive",
-        "ticket status": "False",
-        "ticket url": "https://ticketmaster.sg/activity/detail/26sg_ive",
-        "prince min": 188
-      }
-    ]
-  },
-  {
-    "Event name": "MAJLIS TERTINGGI ROCKQUEEN ELLA 2026",
-    "Venue": "The Star Theatre, The Star Performing Arts Centre",
-    "Artist": "",
-    "Organizer": "HITMAN SOLUTIONS LIVE PTE. LTD.",
-    "original price min": 13,
-    "Event introduction": "Majlis Tertinggi Rockqueen Ella (Singapore)After decades of shaping the music scene, Malaysia’s Rock Queen, Ella, returns on 9 May at.",
-    "First-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-    "category": [
-      "Concert",
-      "Pop-Asian"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 20:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/ella0526",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/ella0526",
-        "prince min": 69
-      },
-      {
-        "source name": "The Star Performing Arts Centre",
-        "source url": "https://www.thestar.sg/events/majlis-tertinggi-rockqueen-ella-2026",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/ella0526",
-        "prince min": 13
-      }
-    ]
-  },
-  {
-    "Event name": "Master White Dragon 白龙王子 Cultural Extravaganza 华彩",
-    "Venue": "Singapore Chinese Cultural Centre Auditorium, Level 9 新加坡华族文化中心表演厅, 九楼",
-    "Artist": "",
-    "Organizer": "Singapore Chinese Cultural Centre",
-    "original price min": 38,
-    "Event introduction": "“Master White Dragon” is Cultural Medallion and Singapore Chinese Culture Contribution Award recipient Goh Boon Teck’s newest theatrical offering that.",
-    "First-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-    "category": [
-      "Theatre",
-      "Drama-Chinese"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 19:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/ce2026a",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/ce2026a",
-        "prince min": 38
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Esplanade Presents | Mosaic Music Series Public Service Broadcasting",
     "Venue": "Esplanade Annexe Studio",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "The Esplanade Co Ltd",
-    "original price min": 60,
-    "Event introduction": "“Public Service Broadcasting are one of the great innovative bands of the 21st century.” – Bring The Noise UK“One might.",
+    "original price min": 60.0,
+    "Event introduction": "“Public Service Broadcasting are one of the great innovative bands of the 21st century.” – Bring The Noise UK “One.",
     "First-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
     "category": [
@@ -8532,190 +2110,357 @@
         "source url": "https://www.sistic.com.sg/events/broadcasting0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/broadcasting0526",
-        "prince min": 60
+        "prince min": 60.0
+      }
+    ]
+  },
+  {
+    "Event name": "IVE WORLD TOUR < SHOW WHAT I AM > IN SINGAPORE",
+    "Venue": "Singapore Indoor Stadium",
+    "Artist": "unknown",
+    "Organizer": "unknown",
+    "original price min": 0.0,
+    "Event introduction": "IVE brings their world tour to Singapore with live vocals and choreography.",
+    "First-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+        "hour: minute": "18:00",
+        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 18:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Ticketmaster Singapore",
+        "source url": "https://ticketmaster.sg/activity/detail/26sg_ive",
+        "ticket status": "True",
+        "ticket url": "https://ticketmaster.sg/activity/detail/26sg_ive",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "IVE WORLD TOUR IN SINGAPORE",
+    "Venue": "unknown",
+    "Artist": "unknown",
+    "Organizer": "unknown",
+    "original price min": 0.0,
+    "Event introduction": "K-pop powerhouse IVE (ANYUJIN, GAEUL, REI, JANGWONYOUNG, LIZ, LEESEO ) has officially launched their second world tour, IVE WORLD TOUR.",
+    "First-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Singapore Sports Hub",
+        "source url": "https://www.sportshub.com.sg/events/ive-world-tour-singapore",
+        "ticket status": "True",
+        "ticket url": "https://www.sportshub.com.sg/events/ive-world-tour-singapore",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "MAJLIS TERTINGGI ROCKQUEEN ELLA 2026",
+    "Venue": "The Star Theatre, The Star Performing Arts Centre",
+    "Artist": "unknown",
+    "Organizer": "HITMAN SOLUTIONS LIVE PTE. LTD.",
+    "original price min": 69.0,
+    "Event introduction": "Majlis Tertinggi Rockqueen Ella (Singapore) After decades of shaping the music scene, Malaysia’s Rock Queen, Ella, returns on 9 May.",
+    "First-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 20:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/ella0526",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/ella0526",
+        "prince min": 69.0
+      },
+      {
+        "source name": "The Star Performing Arts Centre",
+        "source url": "https://www.thestar.sg/events/majlis-tertinggi-rockqueen-ella-2026",
+        "ticket status": "True",
+        "ticket url": "https://www.thestar.sg/events/majlis-tertinggi-rockqueen-ella-2026",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Master White Dragon 白龙王子 Cultural Extravaganza 华彩",
+    "Venue": "Singapore Chinese Cultural Centre Auditorium, Level 9 新加坡华族文化中心表演厅, 九楼",
+    "Artist": "unknown",
+    "Organizer": "Singapore Chinese Cultural Centre",
+    "original price min": 38.0,
+    "Event introduction": "“Master White Dragon” is Cultural Medallion and Singapore Chinese Culture Contribution Award recipient Goh Boon Teck’s newest theatrical offering that.",
+    "First-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
+    "category": [
+      "Theatre"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/ce2026a",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/ce2026a",
+        "prince min": 38.0
+      }
+    ]
+  },
+  {
+    "Event name": "Myles – Soulmate in a Box",
+    "Venue": "KC Arts Centre - Home of SRT",
+    "Artist": "unknown",
+    "Organizer": "Singapore Repertory Theatre Ltd",
+    "original price min": 48.0,
+    "Event introduction": "Inch builds herself the perfect AI boyfriend to be her soulmate.",
+    "First-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
+    "category": [
+      "Theatre"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "21-Jun-2026 (Sunday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/myles0526",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/myles0526",
+        "prince min": 48.0
+      },
+      {
+        "source name": "Singapore Repertory Theatre (SRT)",
+        "source url": "https://www.srt.com.sg/show/myles/",
+        "ticket status": "True",
+        "ticket url": "https://www.srt.com.sg/show/myles/",
+        "prince min": 28.0
+      }
+    ]
+  },
+  {
+    "Event name": "Red Dot Baroque: The Wonder Chamber",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Arts House Group",
+    "original price min": 20.0,
+    "Event introduction": "Arts House Group (AHG) is a not-for-profit organisation committed to enriching lives through the arts.",
+    "First-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+    "category": [
+      "unknown"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+        "hour: minute": "15:00",
+        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 15:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Arts House Group",
+        "source url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/the-wonder-chamber",
+        "ticket status": "True",
+        "ticket url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/the-wonder-chamber",
+        "prince min": 20.0
       }
     ]
   },
   {
     "Event name": "Roald Dahl’s The BFG Comes Alive on Stage in Singapore",
     "Venue": "Esplanade Theatre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Singapore Repertory Theatre",
-    "original price min": 45,
-    "Event introduction": "Experience Roald Dahl’s The BFG live in Singapore. A Phizz-Whizzing Adventure Awaits With The Big Friendly Giant!",
+    "original price min": 45.0,
+    "Event introduction": "Experience Roald Dahl’s The BFG live in Singapore.",
     "First-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
     "category": [
       "Theatre"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 19:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "21-Jun-2026 (Sunday) unknown"
       }
     ],
     "sources": [
       {
-        "source name": "Singapore Repertory Theatre",
+        "source name": "Singapore Repertory Theatre (SRT)",
         "source url": "https://www.srt.com.sg/show/the-bfg/",
         "ticket status": "True",
-        "ticket url": "https://ticketing.srt.com.sg/srt/booking/bfg0526",
-        "prince min": 45
+        "ticket url": "https://www.srt.com.sg/show/the-bfg/",
+        "prince min": 45.0
       }
     ]
   },
   {
-    "Event name": "The Best Is Yet To Be: A Musical",
-    "Venue": "National Library — Drama Centre Theatre",
-    "Artist": "",
-    "Organizer": "Unknown organizer",
-    "original price min": 50,
-    "Event introduction": "Three friends navigate school life, friendship, and hope in an original student musical.",
+    "Event name": "The Trials",
+    "Venue": "Esplanade Theatre",
+    "Artist": "unknown",
+    "Organizer": "Singapore Repertory Theatre",
+    "original price min": 20.0,
+    "Event introduction": "Someone has to pay for the climate crisis that's being inherited.",
     "First-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
     "category": [
-      "Musical",
       "Theatre"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 14:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) unknown"
       },
       {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 19:30"
+        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "21-Jun-2026 (Sunday) unknown"
       }
     ],
     "sources": [
       {
-        "source name": "BookMyShow Singapore",
-        "source url": "https://bookmyshow.sg/en/events/the-best-is-yet-to-be-a-musical/TBIYTB26",
+        "source name": "Singapore Repertory Theatre (SRT)",
+        "source url": "https://www.srt.com.sg/show/the-trials/",
         "ticket status": "True",
-        "ticket url": "https://bookmyshow.sg/en/events/the-best-is-yet-to-be-a-musical/TBIYTB26",
-        "prince min": 30
-      }
-    ]
-  },
-  {
-    "Event name": "The Winding River of History: Singapore's Maritime Past & Eurasian Contributions to Nation-Building",
-    "Venue": "Eurasian Heritage Gallery",
-    "Artist": "",
-    "Organizer": "Eurasian Association",
-    "original price min": 43,
-    "Event introduction": "Embark on a journey through time and discover the rich heritage of the Eurasians of Singapore.",
-    "First-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-    "category": [
-      "Family Entertainment"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-May-2026 (Saturday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 13:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/lite_windingrivermay2026",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/lite_windingrivermay2026",
-        "prince min": 43
+        "ticket url": "https://www.srt.com.sg/show/the-trials/",
+        "prince min": 20.0
       }
     ]
   },
   {
     "Event name": "余天《歌王之王》2026演唱会 Yu Tian – King of Ballads Concert 2026",
     "Venue": "Esplanade Concert Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Biz Trends",
-    "original price min": 68,
+    "original price min": 138.0,
     "Event introduction": "时隔七年深情回归！ 「歌王之王」余天携手雷梦娜歌后李亚萍、嘉宾：余祥銓慈善歌王张仰兴 母亲节前夕呈献 经典劲歌金曲的音乐盛宴 华语乐坛的常青树，拥有「歌王之王」美誉的殿堂级巨星余天，即将带着满满的思念与诚意，重磅回归新加坡舞台！这场万众期待的《余天歌王之王2026 演唱会》 已正式定档，将于 2026年5月9日（星期六），晚上7点30分，在新加坡最具标志性的艺术殿堂～滨海艺术中心音乐厅开唱。这不仅是余天继2019年后，时隔七年再度踏上狮城舞台更是一场专为迎接温馨母亲节而精心筹备「爱」的献礼。 七年等待，经典再现 对于新加坡的歌迷而言，余天的歌声是跨越时代的集体记忆。从传唱数十年不衰的成名曲《榕树下》，到深情款款的《又是黄昏》、《又是细雨》、《不如归去》，再到《含泪的微笑》、《午夜梦回时》、《我需要安慰》首首经典金曲，承载着无数人的情感与故事，被称为\"台湾男人生活情感的缩影\"。暌违七年，余天对新加坡观众的思念更加深厚，此次重返獅城舞台，他不仅将带来这些最耳熟能详的经典之作，更准备用自己的歌声串联起大家的美好回忆，与久违的新加坡朋友共度一个难忘的音乐之夜。 母亲节前夕全家出动，温馨献唱 此次演唱会最大的亮点，在于浓浓的「家」的氛围。为了契合母亲节前夕的温情主题，余天此次可谓「全家总动员」。除了多年来伉俪情深的爱妻李亚平将登台助阵，献上夫妻档的经典对唱～如《相逢夕阳下》及《相见不如怀念》这些承载着岁月情深的歌曲。更值得期待的是，他们的儿子余祥铨也将首次登上滨海艺术中心的舞台，他不仅将展现自己的舞台魅力，更将在这个特别的节日里，用歌声传递对父母的感恩之情。一家人同台，在母亲节前夕用音乐诉说亲情，场面将十分温馨感人。这无疑将是演唱会中最令人动容的环节之一。 挚友助阵，星光熠熠 除了余天一家人的温情献唱，演唱会阵容再添惊喜。主办方此次也特别邀请到备受尊敬的拿督斯里张仰兴 倾情加盟。作为余天的挚友拿督斯里张仰兴的跨界助阵，将为这场音乐盛宴增添别样的光彩与分量，展现深厚的友情力量。 这场充满爱的演唱会，献给最爱的家人 不仅是一场演唱会，更是一次用音乐串联起亲情、友情与爱情的旅程。在母亲节这个充满感恩的日子带上你的母亲、家人，一同走进滨海艺术中心，在《怀念妈妈》《友情》、《船》这些动人旋律中，共同感受那份流淌在音符间的爱与温暖。",
     "First-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "09-May-2026 (Saturday)",
     "category": [
-      "Concert",
-      "Evergreen-Asian"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -8730,52 +2475,21 @@
         "source url": "https://www.sistic.com.sg/events/yutian0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/yutian0526",
-        "prince min": 138
-      }
-    ]
-  },
-  {
-    "Event name": "AFLAME 《琴火》",
-    "Venue": "Esplanade Recital Studio",
-    "Artist": "",
-    "Organizer": "Ding Yi Music Company Ltd",
-    "original price min": 35,
-    "Event introduction": "Fire marks the birth of civilisation and the forging of the human spirit.It kindles hope even as it brings destruction.",
-    "First-Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-    "Last-Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-    "category": [
-      "Concert",
-      "Chamber Music-Asian"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 19:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/aflame0526",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/aflame0526",
-        "prince min": 35
+        "prince min": 138.0
       }
     ]
   },
   {
     "Event name": "[Cancelled] London's West End Rising Stars",
     "Venue": "One Farrer Hotel Grand Ballroom (Level 6)",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "ONE FARRER PTE.LTD.",
-    "original price min": 100,
+    "original price min": 100.0,
     "Event introduction": "A production of the British Theatre Playhouse and Worldwide Entertainment A world premiere concert performance featuring exceptional rising stars from.",
     "First-Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
     "Last-Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
     "category": [
-      "Musical",
-      "Western"
+      "Musical"
     ],
     "showtimes": [
       {
@@ -8790,22 +2504,149 @@
         "source url": "https://www.sistic.com.sg/events/stars0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/stars0526",
-        "prince min": 100
+        "prince min": 100.0
       }
     ]
   },
   {
-    "Event name": "SSO Mother’s Day Concert",
-    "Venue": "Shaw Foundation Symphony Stage, Singapore Botanic Gardens",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra",
-    "original price min": 0,
-    "Event introduction": "Give mom the gift of music, brought to you live by the Singapore Symphony Orchestra in our annual Mother’s Day celebration at the Singapore Botanic…",
+    "Event name": "AFLAME 《琴火》",
+    "Venue": "Esplanade Recital Studio",
+    "Artist": "unknown",
+    "Organizer": "Ding Yi Music Company Ltd ",
+    "original price min": 0.0,
+    "Event introduction": "Fire marks the birth of civilisation and the forging of the human spirit.",
     "First-Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
     "Last-Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
     "category": [
-      "Music",
-      "Classical"
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 19:30"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/aflame0526",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/aflame0526",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Les Misérables The Arena Spectacular World Tour [G]",
+    "Venue": "Sands Theatre, Marina Bay Sands",
+    "Artist": "unknown",
+    "Organizer": "BASE Entertainment Asia",
+    "original price min": 88.0,
+    "Event introduction": "Cameron Mackintosh's production of Boublil and Schönberg's LES MISÉRABLES THE ARENA SPECTACULAR has commenced its record-breaking World Tour and will.",
+    "First-Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
+    "category": [
+      "Theatre"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/lesmis0526",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/lesmis0526",
+        "prince min": 88.0
+      }
+    ]
+  },
+  {
+    "Event name": "Padmashri \"Anup Jalota Live @ SG!\"",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Arts House Group",
+    "original price min": 60.0,
+    "Event introduction": "Arts House Group (AHG) is a not-for-profit organisation committed to enriching lives through the arts.",
+    "First-Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
+    "category": [
+      "unknown"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
+        "hour: minute": "18:30",
+        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 18:30"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Arts House Group",
+        "source url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/padmashri-anup-jalota-live-sg",
+        "ticket status": "True",
+        "ticket url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/padmashri-anup-jalota-live-sg",
+        "prince min": 60.0
+      }
+    ]
+  },
+  {
+    "Event name": "​Harith Iskander《The Outspoken Comedy Tour》 In Singapore 2026",
+    "Venue": "Drama Centre Theatre, National Library 100 Victoria St, #03-01, Singapore 188064",
+    "Artist": "unknown",
+    "Organizer": "Teamup Event Pte Ltd & EUPHORYK乐园",
+    "original price min": 58.0,
+    "Event introduction": "The Godfather of Malaysian Stand-Up Comedy, Harith Iskander, is bringing his hit comedy tour, The Outspoken Comedy Tour, to Singapore!",
+    "First-Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
+    "category": [
+      "Stand-up comedy"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) 19:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "10-May-2026 (Sunday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Arts House Group",
+        "source url": "https://www.artshousegroup.sg/whats-on/whats-on-details/theatre/harith-iskander-the-outspoken-comedy-tour-in-singapore-2026",
+        "ticket status": "True",
+        "ticket url": "https://www.artshousegroup.sg/whats-on/whats-on-details/theatre/harith-iskander-the-outspoken-comedy-tour-in-singapore-2026",
+        "prince min": 58.0
+      },
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/harith0526",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/harith0526",
+        "prince min": 58.0
+      }
+    ]
+  },
+  {
+    "Event name": "慈济60周年庆暨浴佛大典 Tzu Chi 60th Anniversary and Buddha Day Celebration",
+    "Venue": "Yishun Stadium",
+    "Artist": "unknown",
+    "Organizer": "Tzu Chi Merit (Singapore)",
+    "original price min": 0.0,
+    "Event introduction": "诚邀您一起欢庆慈济六十周年，共同举办佛诞日、母亲节暨全球慈济日。Join us as we celebrates Tzu Chi 60th Anniversary, Buddha Day and Mothers' Day.",
+    "First-Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "10-May-2026 (Sunday)",
+    "category": [
+      "unknown"
     ],
     "showtimes": [
       {
@@ -8816,32 +2657,67 @@
     ],
     "sources": [
       {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/mothers-day-concert-2026",
-        "ticket status": "True",
-        "ticket url": "https://www.sso.org.sg/whats-on/mothers-day-concert-2026",
-        "prince min": 0
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.sg/e/60-tzu-chi-60th-anniversary-and-buddha-day-celebration-tickets-1985345252093",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.sg/e/60-tzu-chi-60th-anniversary-and-buddha-day-celebration-tickets-1985345252093",
+        "prince min": 0.0
+      },
+      {
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.sg/e/60-tzu-chi-60th-anniversary-and-buddha-day-celebration-tickets-1985345252093?aff=ebdssbcitybrowse",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.sg/e/60-tzu-chi-60th-anniversary-and-buddha-day-celebration-tickets-1985345252093?aff=ebdssbcitybrowse",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Bridging Cultures: Lithuanian Music in Singapore",
+    "Venue": "Singapore Raffles Music College",
+    "Artist": "unknown",
+    "Organizer": "Singapore Raffles Music College",
+    "original price min": 0.0,
+    "Event introduction": "A curated concert of Lithuanian composers’ works, featuring world premieres alongside pieces presented in Singapore for the first time.",
+    "First-Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
+    "Last-Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
+    "category": [
+      "unknown"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "11-May-2026 (Monday)",
+        "hour: minute": "18:00",
+        "Day-Month-Year (day of the week) hour: minute": "11-May-2026 (Monday) 18:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.sg/e/bridging-cultures-lithuanian-music-in-singapore-tickets-1987969319750",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.sg/e/bridging-cultures-lithuanian-music-in-singapore-tickets-1987969319750",
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "In Motion 《南洋动律：为她序章》",
     "Venue": "University Cultural Centre Ho Bee Auditorium, NUS",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Nanyang Girls' High School",
-    "original price min": 25,
+    "original price min": 25.0,
     "Event introduction": "Commemorating the school’s upcoming 110th anniversary, In Motion《南洋动律：为她序章》 transforms Noel Greig’s Rainbow's Ending into a soaring meditation on the cyclical.",
     "First-Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
     "Last-Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
     "category": [
-      "Family Entertainment",
-      "Family"
+      "Family Entertainment"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "12-May-2026 (Tuesday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 18:30"
+        "hour: minute": "19:00",
+        "Day-Month-Year (day of the week) hour: minute": "12-May-2026 (Tuesday) 19:00"
       }
     ],
     "sources": [
@@ -8850,334 +2726,32 @@
         "source url": "https://www.sistic.com.sg/events/donamotion0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/donamotion0526",
-        "prince min": 25
-      }
-    ]
-  },
-  {
-    "Event name": "Myles – Soulmate in a Box",
-    "Venue": "KC Arts Centre - Home of SRT",
-    "Artist": "",
-    "Organizer": "Singapore Repertory Theatre Ltd",
-    "original price min": 28,
-    "Event introduction": "Inch builds herself the perfect AI boyfriend to be her soulmate. But terms and conditions apply.",
-    "First-Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-    "category": [
-      "Theatre"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 18:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-May-2026 (Wednesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-May-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 18:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 18:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 18:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 18:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 18:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 18:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 18:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 18:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 18:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 18:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 18:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 18:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 18:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 18:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 18:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 18:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Singapore Repertory Theatre",
-        "source url": "https://www.srt.com.sg/show/myles/",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.srt.com.sg/srt/booking/myles0526",
-        "prince min": 28
-      },
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/myles0526",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/myles0526",
-        "prince min": 48
+        "prince min": 25.0
       }
     ]
   },
   {
     "Event name": "All You Can Eat",
     "Venue": "The Ngee Ann Kongsi Theatre @ Wild Rice, Funan",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Wild Rice Ltd",
-    "original price min": 40,
+    "original price min": 40.0,
     "Event introduction": "Singaporeans are obsessed with food.",
     "First-Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
+    "Last-Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
     "category": [
-      "Theatre",
-      "Drama-English"
+      "Theatre"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 13:30"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) unknown"
       },
       {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 13:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 19:30"
+        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) unknown"
       }
     ],
     "sources": [
@@ -9186,17 +2760,17 @@
         "source url": "https://www.sistic.com.sg/events/eat0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/eat0526",
-        "prince min": 40
+        "prince min": 40.0
       }
     ]
   },
   {
     "Event name": "An Evening Soirée & 1826 Beethoven’s Penultimate Year",
     "Venue": "Esplanade Recital Studio",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Chamber Music and Arts Singapore Limited",
-    "original price min": 42,
-    "Event introduction": "An Evening Soirée with Quatuor Elmire14 May 20268pmDebussy String Quartet in g minor Op.",
+    "original price min": 42.0,
+    "Event introduction": "An Evening Soirée with Quatuor Elmire 14 May 2026 8pm Debussy String Quartet in g minor Op.",
     "First-Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
     "Last-Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
     "category": [
@@ -9205,463 +2779,13 @@
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 20:00"
       },
       {
         "Day-Month-Year (day of the week)": "14-May-2026 (Thursday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-May-2026 (Monday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-Jun-2026 (Monday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-Jun-2026 (Monday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-Jun-2026 (Monday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-Jun-2026 (Monday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-Jun-2026 (Monday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-Jun-2026 (Monday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-Jun-2026 (Monday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-Jun-2026 (Monday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-Jun-2026 (Tuesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-Jun-2026 (Tuesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-Jun-2026 (Tuesday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-Jun-2026 (Tuesday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-Jun-2026 (Tuesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-Jun-2026 (Tuesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-Jun-2026 (Tuesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-Jun-2026 (Tuesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-Jun-2026 (Wednesday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-Jun-2026 (Wednesday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-Jun-2026 (Wednesday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-Jun-2026 (Wednesday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-Jun-2026 (Wednesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-Jun-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-Jun-2026 (Wednesday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-Jun-2026 (Wednesday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-Jun-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-Jun-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-Jun-2026 (Thursday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-Jun-2026 (Thursday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-Jun-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-Jun-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-Jun-2026 (Thursday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-Jun-2026 (Thursday) 21:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jun-2026 (Friday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jun-2026 (Friday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jun-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jun-2026 (Friday) 21:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "14-May-2026 (Thursday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
@@ -9670,18 +2794,8 @@
       },
       {
         "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-        "hour: minute": "21:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 21:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) unknown"
       }
     ],
     "sources": [
@@ -9690,32 +2804,32 @@
         "source url": "https://www.sistic.com.sg/events/evening0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/evening0626",
-        "prince min": 42
+        "prince min": 42.0
       }
     ]
   },
   {
     "Event name": "An Evening of Drama 2026《黄城夜韵 2026》",
     "Venue": "Gateway Theatre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Hwa Chong Institution",
-    "original price min": 15,
+    "original price min": 15.0,
     "Event introduction": "An Evening of Drama 2026 is an annual student-led production by Hwa Chong Institution (College).",
     "First-Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
+    "Last-Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
     "category": [
       "Theatre"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 13:30"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) unknown"
       },
       {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 19:00"
+        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) unknown"
       }
     ],
     "sources": [
@@ -9724,24 +2838,21 @@
         "source url": "https://www.sistic.com.sg/events/hcidrama0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/hcidrama0526",
-        "prince min": 15
+        "prince min": 15.0
       }
     ]
   },
   {
-    "Event name": "Hans Graf Farewell Series: Mystère de l’instant",
-    "Venue": "Victoria Concert Hall",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra (SSO)",
-    "original price min": 15,
-    "Event introduction": "From Dutilleux’s prismatic Mystère de l’instant to the vivacious finesse of Poulenc’s Sinfonietta , this programme encapsulates every facet of French…",
+    "Event name": "Chinese Dance Fiesta 2026 @ VivoCity 《一起舞FUN天2026 -- 怡丰城》",
+    "Venue": "VivoCity Amphitheatre, Level 3",
+    "Artist": "unknown",
+    "Organizer": "Singapore Chinese Dance Theatre",
+    "original price min": 0.0,
+    "Event introduction": "The highly anticipated Chinese Dance Fiesta 2026 is making its return to the VivoCity Amphitheatre, Level 3!",
     "First-Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
     "Last-Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
     "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
+      "unknown"
     ],
     "showtimes": [
       {
@@ -9752,33 +2863,97 @@
     ],
     "sources": [
       {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/hans-graf-farewell-french-music",
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.sg/e/chinese-dance-fiesta-2026-vivocity-fun2026--tickets-1984705330069",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.sg/e/chinese-dance-fiesta-2026-vivocity-fun2026--tickets-1984705330069",
+        "prince min": 0.0
+      },
+      {
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.sg/e/chinese-dance-fiesta-2026-vivocity-fun2026--tickets-1984705330069?aff=ebdssbcitybrowse",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.sg/e/chinese-dance-fiesta-2026-vivocity-fun2026--tickets-1984705330069?aff=ebdssbcitybrowse",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Hans Graf Farewell Series: Mystère de l’instant",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra (SSO)",
+    "original price min": 15.0,
+    "Event introduction": "From Dutilleux’s prismatic Mystère de l’instant to the vivacious finesse of Poulenc’s Sinfonietta , this programme encapsulates every facet of.",
+    "First-Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
+    "Last-Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 19:30"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Arts House Group",
+        "source url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/hans-graf-farewell-series-mystere-de-l-instant",
         "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/SOT2620-1",
-        "prince min": 15
+        "ticket url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/hans-graf-farewell-series-mystere-de-l-instant",
+        "prince min": 15.0
       },
       {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/SOT2620-1",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/SOT2620-1",
-        "prince min": 15
+        "prince min": 15.0
+      }
+    ]
+  },
+  {
+    "Event name": "Hokkien Hits Concert 2026 国台语 金曲巨星2026 演唱会",
+    "Venue": "Resorts World Ballroom",
+    "Artist": "unknown",
+    "Organizer": "unknown",
+    "original price min": 68.0,
+    "Event introduction": "Six legendary artists celebrate Chinese and Taiwanese golden hits.",
+    "First-Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
+    "Last-Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Ticketmaster Singapore",
+        "source url": "https://ticketmaster.sg/activity/detail/26sg_hokkienhits",
+        "ticket status": "True",
+        "ticket url": "https://ticketmaster.sg/activity/detail/26sg_hokkienhits",
+        "prince min": 68.0
       }
     ]
   },
   {
     "Event name": "Hokkien Hits Concert 2026 国台语金曲巨星2026演唱会",
-    "Venue": "Resorts World Convention Centre — Resorts World Ballroom",
-    "Artist": "",
-    "Organizer": "Unknown organizer",
-    "original price min": 68,
-    "Event introduction": "A Parents' Day concert unites veteran voices for a nostalgic night of Hokkien and Mandarin hits.",
+    "Venue": "Resorts World Ballroom, Resorts World Convention Centre®",
+    "Artist": "unknown",
+    "Organizer": "Biz Trends",
+    "original price min": 68.0,
+    "Event introduction": "Parents’ Day Special — Hokkien Hits 2026 Concert Six Legendary Voices Unite at Singapore to Celebrate the Golden Era of.",
     "First-Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
     "Last-Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
     "category": [
-      "Concert",
-      "Pop-Asian"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -9791,18 +2966,18 @@
       {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/hokkien0526",
-        "ticket status": "Unknown",
+        "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/hokkien0526",
-        "prince min": 68
+        "prince min": 68.0
       }
     ]
   },
   {
     "Event name": "LBI – Blades Drawn World Tour – Singapore LBI利比【利刃出鞘】世界巡回演唱会 – 新加坡站",
     "Venue": "The Star Theatre, The Star Performing Arts Centre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Starry Live Entertainment",
-    "original price min": 108,
+    "original price min": 108.0,
     "Event introduction": "LBI利比 2026「利刃出鞘」世界巡回演唱会 新加坡站 LBI – 2026 Blades Drawn World Tour in Singapore 🎵 baby我们的感情好像跳楼机~ 那个把《跳楼机》唱到全网循环的人—— 真的要来了。 The voice behind the.",
     "First-Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
     "Last-Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
@@ -9822,124 +2997,74 @@
         "source url": "https://www.sistic.com.sg/events/lbi0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/lbi0526",
-        "prince min": 108
+        "prince min": 108.0
       },
       {
         "source name": "The Star Performing Arts Centre",
         "source url": "https://www.thestar.sg/events/lbi--world-tour-singapore",
         "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/lbi0526",
-        "prince min": 108
+        "ticket url": "https://www.thestar.sg/events/lbi--world-tour-singapore",
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "The Beatles - Beatlemania On Tour Concert [G]",
     "Venue": "Sands Theatre, Marina Bay Sands",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "BASE Entertainment Asia",
-    "original price min": 58,
-    "Event introduction": "Relive the music that defined a generation!",
+    "original price min": 58.0,
+    "Event introduction": "Beatlemania On Tour recreates The Beatles experience with live music and theatrical production.",
     "First-Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
+    "Last-Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
     "category": [
       "Concert"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 15:00"
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 20:00"
       },
       {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 20:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/beatle0526",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/beatle0526",
-        "prince min": 58
-      }
-    ]
-  },
-  {
-    "Event name": "GHOST THE ASCENDANT TOUR 2026 ‘魁’ IN SINGAPORE | 小鬼 王琳凯 GHOST THE ASCENDANT TOUR 2026 ‘魁’ 巡回演唱会 新加坡站",
-    "Venue": "Arena @ EXPO",
-    "Artist": "GHOST王琳凯",
-    "Organizer": "CK Star Entertainment",
-    "original price min": 118,
-    "Event introduction": "GHOST王琳凯 brings his new album and world tour to Singapore for a high-energy arena show.",
-    "First-Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-    "category": [
-      "Concert",
-      "Chinese Pop",
-      "Chinese Rap"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "15-May-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-May-2026 (Friday) 20:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "BookMyShow Singapore",
-        "source url": "https://bookmyshow.sg/en/events/ghost-the-ascendant-tour-2026-kui-in-singapore-or-xiao-gui-wang-lin-kai-ghost-the-ascendant-tour-2026-kui-xun-hui-yan-chang-hui-xin-jia-po-zhan/LILGHOST",
-        "ticket status": "True",
-        "ticket url": "https://bookmyshow.sg/en/events/ghost-the-ascendant-tour-2026-kui-in-singapore-or-xiao-gui-wang-lin-kai-ghost-the-ascendant-tour-2026-kui-xun-hui-yan-chang-hui-xin-jia-po-zhan/LILGHOST",
-        "prince min": 118
-      }
-    ]
-  },
-  {
-    "Event name": "Daniel Caesar - Son of Spergy Tour in Singapore",
-    "Venue": "Singapore Indoor Stadium",
-    "Artist": "Daniel Caesar",
-    "Organizer": "",
-    "original price min": 158,
-    "Event introduction": "Daniel Caesar launches his 2026 arena tour in Singapore with songs from Son Of Spergy.",
-    "First-Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-    "category": [
-      "Concert",
-      "R&B",
-      "Soul"
-    ],
-    "showtimes": [
+        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
+        "hour: minute": "15:00",
+        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 15:00"
+      },
       {
         "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 20:00"
       },
       {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 20:00"
+        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) unknown"
       }
     ],
     "sources": [
       {
-        "source name": "Ticketmaster Singapore",
-        "source url": "https://ticketmaster.sg/activity/detail/26sg_danielcaesar",
+        "source name": "Marina Bay Sands Entertainment",
+        "source url": "https://www.marinabaysands.com/entertainment/shows/beatlemania-on-tour-concert.html",
         "ticket status": "True",
-        "ticket url": "https://ticketmaster.sg/activity/detail/26sg_danielcaesar",
-        "prince min": 158
+        "ticket url": "https://www.marinabaysands.com/entertainment/shows/beatlemania-on-tour-concert.html",
+        "prince min": 58.0
+      },
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/beatle0526",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/beatle0526",
+        "prince min": 58.0
       }
     ]
   },
   {
     "Event name": "[Cancelled] Dino World SINGAPORE 2026",
     "Venue": "Suntec Singapore Convention & Exhibition Centre (Level 4, Hall 401-402)",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Gallery Naomi (PTY) Ltd",
-    "original price min": 39,
+    "original price min": 39.0,
     "Event introduction": "The Dinosaur World is coming to Singapore, Attendees can look forward to a wide range of attractions, including life-sized, roaring.",
     "First-Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
@@ -9949,73 +3074,13 @@
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "08:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 08:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 18:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "22:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 22:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "08:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 08:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "18:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 18:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "22:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 22:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) unknown"
       }
     ],
     "sources": [
@@ -10024,16 +3089,57 @@
         "source url": "https://www.sistic.com.sg/events/dino0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/dino0526",
-        "prince min": 39
+        "prince min": 39.0
+      }
+    ]
+  },
+  {
+    "Event name": "Daniel Caesar - Son of Spergy Tour in Singapore",
+    "Venue": "Singapore Indoor Stadium",
+    "Artist": "unknown",
+    "Organizer": "unknown",
+    "original price min": 0.0,
+    "Event introduction": "& Sunday Daniel Caesar announces his headline 2026 tour in support of his album Son Of Spergy.",
+    "First-Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Singapore Sports Hub",
+        "source url": "https://www.sportshub.com.sg/events/daniel-caesar-son-spergy-tour-singapore",
+        "ticket status": "True",
+        "ticket url": "https://www.sportshub.com.sg/events/daniel-caesar-son-spergy-tour-singapore",
+        "prince min": 0.0
+      },
+      {
+        "source name": "Ticketmaster Singapore",
+        "source url": "https://ticketmaster.sg/activity/detail/26sg_danielcaesar",
+        "ticket status": "True",
+        "ticket url": "https://ticketmaster.sg/activity/detail/26sg_danielcaesar",
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Fun with Parent-Child Travel Journal 亲子旅游手帐",
     "Venue": "Maha Yu Yi",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "MAHA YU YI PTE LTD",
-    "original price min": 75,
+    "original price min": 75.0,
     "Event introduction": "Fun with Parent-Child Travel Journal Workshop is designed for parents and children aged 7–12 to foster creativity, promote parent–child bonding.",
     "First-Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
@@ -10053,22 +3159,21 @@
         "source url": "https://www.sistic.com.sg/events/lite_journal260516",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/lite_journal260516",
-        "prince min": 75
+        "prince min": 75.0
       }
     ]
   },
   {
     "Event name": "Gabriel Hoe Solo Piano Concert",
     "Venue": "Esplanade Recital Studio",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Singapore Street Festival Limited",
-    "original price min": 55,
+    "original price min": 0.0,
     "Event introduction": "Experience how \"gabrielhoemusic\" came to be, from within.",
     "First-Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
     "category": [
-      "Concert",
-      "Solo-Asian"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -10083,23 +3188,21 @@
         "source url": "https://www.sistic.com.sg/events/gabriel0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/gabriel0526",
-        "prince min": 55
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Songs that Keep Us Together Concert 《那些年的歌演唱会》",
-    "Venue": "Resorts World Convention Centre — Resorts World Ballroom",
-    "Artist": "吕方、文章、张克帆、周治平、于台烟、曾淑勤、娃娃、郑怡",
+    "Venue": "Resorts World Ballroom, Resorts World Convention Centre®",
+    "Artist": "unknown",
     "Organizer": "Biz Trends",
-    "original price min": 88,
+    "original price min": 88.0,
     "Event introduction": "An unforgettable celebration of the golden era of Mandopop, this concert gathers a remarkable lineup of iconic voices from the.",
     "First-Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
     "category": [
-      "Concert",
-      "Pop-Asian",
-      "Mandopop"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -10112,48 +3215,47 @@
       {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/songs0526",
-        "ticket status": "Unknown",
+        "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/songs0526",
-        "prince min": 68
+        "prince min": 88.0
       }
     ]
   },
   {
-    "Event name": "SSO Symphony Ball 2026",
-    "Venue": "The Ritz-Carlton, Millenia Singapore",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra",
-    "original price min": 0,
-    "Event introduction": "The Singapore Symphony Orchestra’s annual fundraiser, the SSO Symphony Ball, returns on 16 May 2026. Themed ‘Eine Nacht in Wien’ (‘A Night in Vienna’),…",
+    "Event name": "The Winding River of History: Singapore's Maritime Past & Eurasian Contributions to Nation-Building",
+    "Venue": "Eurasian Heritage Gallery",
+    "Artist": "unknown",
+    "Organizer": "Eurasian Association",
+    "original price min": 43.0,
+    "Event introduction": "Embark on a journey through time and discover the rich heritage of the Eurasians of Singapore.",
     "First-Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
     "category": [
-      "Music",
-      "Classical"
+      "Family Entertainment"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "16-May-2026 (Saturday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) 18:30"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "16-May-2026 (Saturday) unknown"
       }
     ],
     "sources": [
       {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/symphony-ball-2026",
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/lite_windingrivermay2026",
         "ticket status": "True",
-        "ticket url": "https://www.sso.org.sg/whats-on/symphony-ball-2026",
-        "prince min": 0
+        "ticket url": "https://www.sistic.com.sg/events/lite_windingrivermay2026",
+        "prince min": 43.0
       }
     ]
   },
   {
     "Event name": "ACE & Friends - Shared Melodies",
     "Venue": "Esplanade Recital Studio",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Hugo Advance Network Pte. Ltd.",
-    "original price min": 36,
+    "original price min": 36.0,
     "Event introduction": "An instrumental and vocal concert presented by professional musicians from the Ardent Chamber Ensemble, together with their friends and students.",
     "First-Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
     "Last-Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
@@ -10163,13 +3265,8 @@
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "21:15",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 21:15"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) unknown"
       }
     ],
     "sources": [
@@ -10178,16 +3275,81 @@
         "source url": "https://www.sistic.com.sg/events/lite_ace260517",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/lite_ace260517",
-        "prince min": 36
+        "prince min": 36.0
+      }
+    ]
+  },
+  {
+    "Event name": "ALL YOU CAN EAT – WILD RICE Singapore",
+    "Venue": "unknown",
+    "Artist": "unknown",
+    "Organizer": "WILD RICE",
+    "original price min": 35.0,
+    "Event introduction": "Skip to content Donate Donate What’s On Your Visit Getting Here Ticket Holder Privileges Accessibility Visitor Safety Information Getting Here.",
+    "First-Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
+    "category": [
+      "Theatre"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "WILD RICE",
+        "source url": "https://www.wildrice.com.sg/event/472270-all-you-can-eat/",
+        "ticket status": "True",
+        "ticket url": "https://www.wildrice.com.sg/event/472270-all-you-can-eat/",
+        "prince min": 35.0
+      }
+    ]
+  },
+  {
+    "Event name": "BANGTAN 2.0",
+    "Venue": "133 Cecil St",
+    "Artist": "unknown",
+    "Organizer": "HAVOC",
+    "original price min": 0.0,
+    "Event introduction": "BTS HITS ONLY",
+    "First-Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
+    "category": [
+      "unknown"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
+        "hour: minute": "15:00",
+        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 15:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.sg/e/bangtan-20-tickets-1987802912020",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.sg/e/bangtan-20-tickets-1987802912020",
+        "prince min": 0.0
+      },
+      {
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.sg/e/bangtan-20-tickets-1987802912020?aff=ebdssbcitybrowse",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.sg/e/bangtan-20-tickets-1987802912020?aff=ebdssbcitybrowse",
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "舞wǔ",
     "Venue": "NAFA Lee Foundation Theatre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Singapore Wind Symphony",
-    "original price min": 25,
+    "original price min": 25.0,
     "Event introduction": "The Singapore Wind Symphony invites you to an electrifying afternoon of rhythm, movement, and cultural celebration in 《舞 · Wǔ》.",
     "First-Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
     "Last-Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
@@ -10197,13 +3359,8 @@
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-May-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) 17:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "17-May-2026 (Sunday) unknown"
       }
     ],
     "sources": [
@@ -10212,16 +3369,16 @@
         "source url": "https://www.sistic.com.sg/events/lite_swsymwu26",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/lite_swsymwu26",
-        "prince min": 25
+        "prince min": 25.0
       }
     ]
   },
   {
     "Event name": "Esplanade Presents Limelight 2026 Nanyang Junior College Choir",
     "Venue": "Esplanade Concert Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "The Esplanade Co Ltd",
-    "original price min": 15,
+    "original price min": 15.0,
     "Event introduction": "The Nanyang Junior College (NYJC) Choir presents a diverse programme of choral works that bring words to life through music.",
     "First-Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
     "Last-Day-Month-Year (day of the week)": "18-May-2026 (Monday)",
@@ -10241,58 +3398,27 @@
         "source url": "https://www.sistic.com.sg/events/donanjc0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/donanjc0526",
-        "prince min": 15
+        "prince min": 15.0
       }
     ]
   },
   {
     "Event name": "Charlie and the Chocolate Factory [G]",
     "Venue": "Sands Theatre, Marina Bay Sands",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "BASE Entertainment Asia",
-    "original price min": 88,
-    "Event introduction": "Step into a world of pure imagination with Charlie and the Chocolate Factory, debuting in Southeast Asia at Sands Theatre from 19 May to 14 June 2026.",
+    "original price min": 88.0,
+    "Event introduction": "Get your golden ticket ready, the most scrumptious musical is coming to Singapore as the first stop in Southeast Asia!",
     "First-Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-    "Last-Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "14-Jun-2026 (Sunday)",
     "category": [
-      "Musical",
-      "Western"
+      "Musical"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) 18:30"
       },
       {
         "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
@@ -10301,38 +3427,8 @@
       },
       {
         "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 18:30"
       },
       {
         "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
@@ -10341,18 +3437,8 @@
       },
       {
         "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
         "hour: minute": "14:00",
         "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 18:30"
       },
       {
         "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
@@ -10366,53 +3452,8 @@
       },
       {
         "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
         "hour: minute": "18:30",
         "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 18:30"
       },
       {
         "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
@@ -10421,38 +3462,8 @@
       },
       {
         "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 18:30"
       },
       {
         "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
@@ -10461,38 +3472,13 @@
       },
       {
         "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 20:00"
       },
       {
         "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
         "hour: minute": "14:00",
         "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 18:30"
       },
       {
         "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
@@ -10506,53 +3492,8 @@
       },
       {
         "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
         "hour: minute": "18:30",
         "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-Jun-2026 (Monday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-Jun-2026 (Monday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-Jun-2026 (Monday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-Jun-2026 (Monday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-Jun-2026 (Monday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "01-Jun-2026 (Monday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-Jun-2026 (Monday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-Jun-2026 (Monday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-Jun-2026 (Tuesday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-Jun-2026 (Tuesday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-Jun-2026 (Tuesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-Jun-2026 (Tuesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-Jun-2026 (Tuesday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "02-Jun-2026 (Tuesday) 18:30"
       },
       {
         "Day-Month-Year (day of the week)": "02-Jun-2026 (Tuesday)",
@@ -10561,38 +3502,8 @@
       },
       {
         "Day-Month-Year (day of the week)": "03-Jun-2026 (Wednesday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-Jun-2026 (Wednesday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-Jun-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-Jun-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-Jun-2026 (Wednesday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "03-Jun-2026 (Wednesday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-Jun-2026 (Wednesday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "03-Jun-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-Jun-2026 (Thursday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-Jun-2026 (Thursday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-Jun-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-Jun-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "04-Jun-2026 (Thursday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "04-Jun-2026 (Thursday) 18:30"
       },
       {
         "Day-Month-Year (day of the week)": "04-Jun-2026 (Thursday)",
@@ -10601,38 +3512,13 @@
       },
       {
         "Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jun-2026 (Friday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jun-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jun-2026 (Friday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "05-Jun-2026 (Friday) 20:00"
       },
       {
         "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
         "hour: minute": "14:00",
         "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 18:30"
       },
       {
         "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
@@ -10646,53 +3532,8 @@
       },
       {
         "Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-Jun-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
         "hour: minute": "18:30",
         "Day-Month-Year (day of the week) hour: minute": "07-Jun-2026 (Sunday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-Jun-2026 (Sunday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-Jun-2026 (Monday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-Jun-2026 (Monday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-Jun-2026 (Monday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-Jun-2026 (Monday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-Jun-2026 (Monday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "08-Jun-2026 (Monday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-Jun-2026 (Monday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-Jun-2026 (Monday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-Jun-2026 (Tuesday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-Jun-2026 (Tuesday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-Jun-2026 (Tuesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-Jun-2026 (Tuesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-Jun-2026 (Tuesday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "09-Jun-2026 (Tuesday) 18:30"
       },
       {
         "Day-Month-Year (day of the week)": "09-Jun-2026 (Tuesday)",
@@ -10701,38 +3542,8 @@
       },
       {
         "Day-Month-Year (day of the week)": "10-Jun-2026 (Wednesday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-Jun-2026 (Wednesday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-Jun-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-Jun-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-Jun-2026 (Wednesday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "10-Jun-2026 (Wednesday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-Jun-2026 (Wednesday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "10-Jun-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-Jun-2026 (Thursday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-Jun-2026 (Thursday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-Jun-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-Jun-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-Jun-2026 (Thursday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "11-Jun-2026 (Thursday) 18:30"
       },
       {
         "Day-Month-Year (day of the week)": "11-Jun-2026 (Thursday)",
@@ -10741,38 +3552,13 @@
       },
       {
         "Day-Month-Year (day of the week)": "12-Jun-2026 (Friday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jun-2026 (Friday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-Jun-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jun-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-Jun-2026 (Friday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jun-2026 (Friday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-Jun-2026 (Friday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "12-Jun-2026 (Friday) 20:00"
       },
       {
         "Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "13-Jun-2026 (Saturday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
         "hour: minute": "14:00",
         "Day-Month-Year (day of the week) hour: minute": "13-Jun-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "13-Jun-2026 (Saturday) 18:30"
       },
       {
         "Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
@@ -10786,158 +3572,13 @@
       },
       {
         "Day-Month-Year (day of the week)": "14-Jun-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-Jun-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "14-Jun-2026 (Sunday)",
         "hour: minute": "18:30",
         "Day-Month-Year (day of the week) hour: minute": "14-Jun-2026 (Sunday) 18:30"
       },
       {
         "Day-Month-Year (day of the week)": "14-Jun-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-Jun-2026 (Sunday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-Jun-2026 (Monday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-Jun-2026 (Monday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-Jun-2026 (Monday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-Jun-2026 (Monday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-Jun-2026 (Monday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-Jun-2026 (Monday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-Jun-2026 (Monday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "15-Jun-2026 (Monday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-Jun-2026 (Tuesday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-Jun-2026 (Tuesday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-Jun-2026 (Tuesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-Jun-2026 (Tuesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-Jun-2026 (Tuesday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-Jun-2026 (Tuesday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-Jun-2026 (Tuesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "16-Jun-2026 (Tuesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-Jun-2026 (Wednesday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-Jun-2026 (Wednesday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-Jun-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-Jun-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-Jun-2026 (Wednesday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "17-Jun-2026 (Wednesday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-Jun-2026 (Wednesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-Jun-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jun-2026 (Thursday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jun-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jun-2026 (Thursday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jun-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-Jun-2026 (Sunday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-Jun-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "21-Jun-2026 (Sunday) 18:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-Jun-2026 (Sunday) 20:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "14-Jun-2026 (Sunday) unknown"
       }
     ],
     "sources": [
@@ -10946,53 +3587,23 @@
         "source url": "https://www.marinabaysands.com/entertainment/shows/charlie-and-the-chocolate-factory.html",
         "ticket status": "True",
         "ticket url": "https://www.marinabaysands.com/entertainment/shows/charlie-and-the-chocolate-factory.html",
-        "prince min": 88
+        "prince min": 88.0
       },
       {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/catcf0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/catcf0626",
-        "prince min": 88
-      }
-    ]
-  },
-  {
-    "Event name": "Laufey: A Matter of Time Tour in Singapore",
-    "Venue": "Singapore Indoor Stadium",
-    "Artist": "Laufey",
-    "Organizer": "",
-    "original price min": 148,
-    "Event introduction": "Laufey brings her largest Asia tour to Singapore with intimate storytelling and elegant live arrangements.",
-    "First-Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-    "Last-Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-    "category": [
-      "Concert",
-      "Jazz Pop"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) 20:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Ticketmaster Singapore",
-        "source url": "https://ticketmaster.sg/activity/detail/26sg_laufey",
-        "ticket status": "False",
-        "ticket url": "https://ticketmaster.sg/activity/detail/26sg_laufey",
-        "prince min": 148
+        "prince min": 88.0
       }
     ]
   },
   {
     "Event name": "Esplanade Presents Limelight 2026 Temasek Wind Ensemble",
     "Venue": "Esplanade Concert Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "The Esplanade Co Ltd",
-    "original price min": 15,
+    "original price min": 15.0,
     "Event introduction": "Embark on a musical adventure that moves between legend, nostalgia, fantasy, and fun.",
     "First-Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
     "Last-Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
@@ -11012,22 +3623,108 @@
         "source url": "https://www.sistic.com.sg/events/donatss0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/donatss0526",
-        "prince min": 15
+        "prince min": 15.0
+      }
+    ]
+  },
+  {
+    "Event name": "Jomfest",
+    "Venue": "Asian Civilisations Museum",
+    "Artist": "unknown",
+    "Organizer": "The Inquiry Pte Ltd",
+    "original price min": 25.0,
+    "Event introduction": "Fresh ideas for our little red dot Jom fest 2026 Every Friday since mid 2022, Jom has landed in your.",
+    "First-Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
+    "Last-Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
+    "category": [
+      "Festival/Fair"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/lite_jomfest2026",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/lite_jomfest2026",
+        "prince min": 25.0
+      }
+    ]
+  },
+  {
+    "Event name": "Laufey: A Matter of Time Tour in Singapore",
+    "Venue": "[Laufey: A",
+    "Artist": "unknown",
+    "Organizer": "unknown",
+    "original price min": 0.0,
+    "Event introduction": "A Grammy-winning singer-songwriter, Laufey is set to bring her highly anticipated Laufey: A Matter of Time Tour to Singapore, performing.",
+    "First-Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
+    "Last-Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "19-May-2026 (Tuesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "19-May-2026 (Tuesday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Singapore Sports Hub",
+        "source url": "https://www.sportshub.com.sg/events/laufey-matter-time-tour-singapore",
+        "ticket status": "True",
+        "ticket url": "https://www.sportshub.com.sg/events/laufey-matter-time-tour-singapore",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Embracing Asian Family Businesses 家春秋 Tickets, Wednesday, May 20 • 9 AM - 12 PM",
+    "Venue": "unknown",
+    "Artist": "unknown",
+    "Organizer": "unknown",
+    "original price min": 0.0,
+    "Event introduction": "Eventbrite - BDO Singapore presents Embracing Asian Family Businesses 家春秋 - Wednesday, May 20, 2026 at BDO Singapore.",
+    "First-Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
+    "Last-Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
+    "category": [
+      "unknown"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "20-May-2026 (Wednesday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.sg/e/embracing-asian-family-businesses-tickets-1982938018994",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.sg/e/embracing-asian-family-businesses-tickets-1982938018994",
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Esplanade Presents Limelight 2026 Victoria Junior College Symphonic Band",
     "Venue": "Esplanade Concert Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "The Esplanade Co Ltd",
-    "original price min": 15,
+    "original price min": 15.0,
     "Event introduction": "Having played at numerous public concerts over the years and garnering top awards in the Singapore Youth Festival, Victoria Junior.",
     "First-Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
     "Last-Day-Month-Year (day of the week)": "20-May-2026 (Wednesday)",
     "category": [
-      "Concert",
-      "Brass Band"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -11042,24 +3739,50 @@
         "source url": "https://www.sistic.com.sg/events/donavjc0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/donavjc0526",
-        "prince min": 15
+        "prince min": 15.0
+      }
+    ]
+  },
+  {
+    "Event name": "Esplanade Presents Limelight 2026 Tanjong Katong Girls' School Symphonic Band",
+    "Venue": "Esplanade Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "The Esplanade Co Ltd",
+    "original price min": 15.0,
+    "Event introduction": "The Tanjong Katong Girls’ School Symphonic Band presents an evening of music that celebrates growth, resilience and the joy of.",
+    "First-Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
+    "Last-Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 19:30"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/donatkgs0526",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/donatkgs0526",
+        "prince min": 15.0
       }
     ]
   },
   {
     "Event name": "Hans Graf Farewell Series: Mozart and Salieri",
     "Venue": "Victoria Concert Hall",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra",
-    "original price min": 15,
-    "Event introduction": "Legend has it that his contemporary, the composer Antonio Salieri, poisoned Mozart out of jealousy, leading to the latter’s premature death in 1791, aged…",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra (SSO)",
+    "original price min": 15.0,
+    "Event introduction": "Legend has it that his contemporary, the composer Antonio Salieri, poisoned Mozart out of jealousy, leading to the latter’s premature.",
     "First-Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
     "Last-Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
     "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -11075,177 +3798,163 @@
     ],
     "sources": [
       {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/hans-graf-farewell-mozart-and-salieri",
+        "source name": "Arts House Group",
+        "source url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/hans-graf-farewell-series-mozart-and-salieri",
         "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/SOT2621-1a",
-        "prince min": 15
+        "ticket url": "https://www.artshousegroup.sg/whats-on/whats-on-details/music/hans-graf-farewell-series-mozart-and-salieri",
+        "prince min": 15.0
       },
       {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/SOT2621-1a",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/SOT2621-1a",
-        "prince min": 15
-      }
-    ]
-  },
-  {
-    "Event name": "Esplanade Presents Limelight 2026 Tanjong Katong Girls' School Symphonic Band",
-    "Venue": "Esplanade Concert Hall",
-    "Artist": "",
-    "Organizer": "The Esplanade Co Ltd",
-    "original price min": 15,
-    "Event introduction": "The Tanjong Katong Girls’ School Symphonic Band presents an evening of music that celebrates growth, resilience and the joy of.",
-    "First-Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-    "category": [
-      "Concert",
-      "Brass Band"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 19:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/donatkgs0526",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/donatkgs0526",
-        "prince min": 15
+        "prince min": 15.0
       }
     ]
   },
   {
     "Event name": "Scaredy Kat Presents",
-    "Venue": "Black Box, Gateway Theatre",
-    "Artist": "",
-    "Organizer": "Gateway Arts",
-    "original price min": 45,
-    "Event introduction": "A powerful Singapore theatre production exploring panic attacks, anxiety and friendship in youth. Early Bird tickets for Scaredy Kat Presents starts on 1 April.",
+    "Venue": "Gateway Theatre Black Box",
+    "Artist": "unknown",
+    "Organizer": "Gateway Arts Limited",
+    "original price min": 45.0,
+    "Event introduction": "Scaredy Kat Presents runs at Gateway Theatre in late May.",
     "First-Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
     "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
     "category": [
-      "Theatre",
-      "Family",
-      "Youth"
+      "Theatre"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
-        "hour: minute": "00:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) 00:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "00:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 00:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "00:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 00:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "00:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 00:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "25-May-2026 (Monday)",
-        "hour: minute": "00:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) 00:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "25-May-2026 (Monday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
-        "hour: minute": "00:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) 00:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "26-May-2026 (Tuesday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "00:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 00:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
-        "hour: minute": "00:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) 00:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "28-May-2026 (Thursday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 19:30"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "00:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 00:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "00:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 00:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) unknown"
       }
     ],
     "sources": [
       {
-        "source name": "Gateway Arts",
-        "source url": "https://gatewayarts.sg/portfolio/scaredy-kat-presents/",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/kat0526?utm_source=gaeventpage&#038;utm_medium=website&#038;utm_campaign=skp_sales&#038;utm_content=skp_tickets",
-        "prince min": 45
+        "source name": "Gateway Theatre",
+        "source url": "https://gatewaytheatre.sg/events/scaredy-kat-presents/",
+        "ticket status": "Unknown",
+        "ticket url": "https://gatewaytheatre.sg/events/scaredy-kat-presents/",
+        "prince min": 0.0
       },
       {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/kat0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/kat0526",
-        "prince min": 45
+        "prince min": 45.0
+      }
+    ]
+  },
+  {
+    "Event name": "Vir Das: Hey Stranger",
+    "Venue": "unknown",
+    "Artist": "unknown",
+    "Organizer": "Live Nation Singapore",
+    "original price min": 1.0,
+    "Event introduction": "Buy tickets for Vir Das: Hey Stranger at The Theatre at Mediacorp on Thu, 21 May 2026 at www.livenation.sg.",
+    "First-Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
+    "Last-Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "21-May-2026 (Thursday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "21-May-2026 (Thursday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Live Nation Singapore",
+        "source url": "https://www.livenation.sg/event/vir-das-hey-stranger-singapore-tickets-edp1640213",
+        "ticket status": "False",
+        "ticket url": "https://www.livenation.sg/event/vir-das-hey-stranger-singapore-tickets-edp1640213",
+        "prince min": 1.0
       }
     ]
   },
   {
     "Event name": "Dream in Peony Pavilion",
     "Venue": "Esplanade Theatre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Willow Arts Pte Ltd",
-    "original price min": 58,
-    "Event introduction": "Dancing through dreams and desire: an everlasting tale of love, longing and liberation.An ethereal vision brought to life through pure.",
+    "original price min": 58.0,
+    "Event introduction": "Dancing through dreams and desire: an everlasting tale of love, longing and liberation.",
     "First-Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
     "category": [
-      "Dance",
-      "Traditional/Ethnic"
+      "Dance"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) 20:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "22-May-2026 (Friday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 14:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) unknown"
       },
       {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 20:00"
+        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) unknown"
       }
     ],
     "sources": [
@@ -11254,16 +3963,16 @@
         "source url": "https://www.sistic.com.sg/events/dream0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/dream0526",
-        "prince min": 58
+        "prince min": 58.0
       }
     ]
   },
   {
     "Event name": "Esplanade Presents Limelight 2026 Bendemeer Secondary School Concert Band",
     "Venue": "Esplanade Concert Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "The Esplanade Co Ltd",
-    "original price min": 15,
+    "original price min": 15.0,
     "Event introduction": "Under the direction of alumnus Mr Joseph Teo, the Bendemeer Secondary School Concert Band returns once again to Esplanade’s Limelight.",
     "First-Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
     "Last-Day-Month-Year (day of the week)": "22-May-2026 (Friday)",
@@ -11283,83 +3992,73 @@
         "source url": "https://www.sistic.com.sg/events/donabss0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/donabss0526",
-        "prince min": 15
+        "prince min": 15.0
+      }
+    ]
+  },
+  {
+    "Event name": "G.E.M. I AM GLORIA World Tour 2.0 - Singapore",
+    "Venue": "[G.E.M. I AM GLORIA",
+    "Artist": "unknown",
+    "Organizer": "unknown",
+    "original price min": 0.0,
+    "Event introduction": "G.E.M. brings her cinematic I AM GLORIA concert experience to Singapore.",
+    "First-Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 19:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Singapore Sports Hub",
+        "source url": "https://www.sportshub.com.sg/events/gem-i-am-gloria-world-tour-20-singapore",
+        "ticket status": "True",
+        "ticket url": "https://www.sportshub.com.sg/events/gem-i-am-gloria-world-tour-20-singapore",
+        "prince min": 0.0
+      },
+      {
+        "source name": "Ticketmaster Singapore",
+        "source url": "https://ticketmaster.sg/activity/detail/26sg_gem",
+        "ticket status": "True",
+        "ticket url": "https://ticketmaster.sg/activity/detail/26sg_gem",
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "K!DZ Pop Con Asia 2026",
     "Venue": "Marina Bay Sands Expo and Convention Centre, Level 1, Halls A, B, C",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Generation Experience Pte Ltd",
-    "original price min": 10,
+    "original price min": 10.0,
     "Event introduction": "Join us on 23 - 24 May at Sands Expo & Convention Centre for two action-packed days of fun for.",
     "First-Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
     "category": [
-      "Family Entertainment",
-      "Children"
+      "Family Entertainment"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 13:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "16:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 16:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 20:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 10:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 13:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "16:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 16:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 20:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) unknown"
       }
     ],
     "sources": [
@@ -11368,20 +4067,51 @@
         "source url": "https://www.sistic.com.sg/events/kpopcon0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/kpopcon0626",
-        "prince min": 10
+        "prince min": 10.0
+      }
+    ]
+  },
+  {
+    "Event name": "Tanglin Philharmonia Concerto Concert",
+    "Venue": "SOTA Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Tanglin Trust School",
+    "original price min": 0.0,
+    "Event introduction": "An evening of brilliance and artistry, showcasing outstanding soloists in collaboration in collaboration with the Tanglin Philharmonia.",
+    "First-Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
+    "category": [
+      "unknown"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
+        "hour: minute": "19:00",
+        "Day-Month-Year (day of the week) hour: minute": "23-May-2026 (Saturday) 19:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.sg/e/tanglin-philharmonia-concerto-concert-tickets-1981392341832",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.sg/e/tanglin-philharmonia-concerto-concert-tickets-1981392341832",
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "The Music of SQUARE ENIX - Magic, Memories, and Melodies",
     "Venue": "The Star Theatre",
-    "Artist": "",
-    "Organizer": "Unknown organizer",
-    "original price min": 78,
+    "Artist": "unknown",
+    "Organizer": "unknown",
+    "original price min": 0.0,
     "Event introduction": "AWR Music Productions and SQUARE ENIX are proud to present this brand new official symphonic concert tour!",
     "First-Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
-    "category": [],
+    "category": [
+      "Concert"
+    ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "23-May-2026 (Saturday)",
@@ -11394,25 +4124,51 @@
         "source name": "The Star Performing Arts Centre",
         "source url": "https://www.thestar.sg/events/the-music-of-square-enix-magic-memories-and-melodies",
         "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/square0526",
-        "prince min": 78
+        "ticket url": "https://www.thestar.sg/events/the-music-of-square-enix-magic-memories-and-melodies",
+        "prince min": 0.0
       }
     ]
   },
   {
-    "Event name": "Prodigious 2026",
-    "Venue": "Victoria Concert Hall",
-    "Artist": "",
-    "Organizer": "Singapore National Youth Orchestra",
-    "original price min": 20,
-    "Event introduction": "Young talents abound in Prodigious 2026! This year, young musicians take on a complete symphony, playing Schubert's Fifth Symphony side-by-side with the…",
+    "Event name": "CAN I MAKE YOU A SUIT, MATE? – WILD RICE Singapore",
+    "Venue": "Wild Rice @ Funan Venue Hire Wild Rice @ Funan Venue Hire Venue Wild Rice @ Funan Venue Hire Support Us How You Can Help Donate Our Angels Be A Sponsor Our Sponsors & Donors The Rice Ball New & Now Plant A Seat Name A Space Leave A Legacy How You Can Help Donate Our Angels Be A Sponsor Our Sponsors & Donors The Rice Ball New & Now Plant A Seat Name A Space Leave A Legacy Support Us Featured Sections Be An Angel New & Now The Rice Ball NEW & NOW The Rice Cooker SCRIPT SUBMISSIONS The Rice Cooker SCRIPT SUBMISSIONS New & Now The Rice Cooker Script Submissions Learning Children Wild Rice Academy First Stage Mailing List Young People Singapore Youth Theatre Young & Wild School Programmes Training Programmes & Workshops Learning Resources Children Wild Rice Academy First Stage Mailing List Young People Singapore Youth Theatre Young & Wild School Programmes Training Programmes & Workshops Learning Resources Learning Featured Sections WILD RICE ACADEMY School Programmes Training Programmes & Workshops Engagement Community Engagement Corporate Hospitality Community Engagement Corporate Hospitality Engagement Community Engagement Corporate Hospitality News Magazine Press Releases Auditions Magazine Press Releases Auditions News Magazine Press Releases AUDITIONS About Us About Wild Rice Board of Directors Our Team Past Productions Touring & Collaborations Careers Financial Information About Wild Rice Board of Directors Our Team Past Productions Touring & Collaborations Careers Financial Information About Featured Sections About Wild Rice Our Team Past Productions What’s On Your Visit Getting Here Ticket Holder Privileges Accessibility Visitor Safety Information Venue Wild Rice @ Funan Venue Hire Support Us How You Can Help Donate Our Angels Be A Sponsor Our Sponsors & Donors The Rice Ball NEW & NOW Plant A Seat Name A Space Leave A Legacy New & Now The Rice Cooker Script Submissions Learning Children Wild Rice Academy Young People School Programmes Training Programmes & Workshops Learning Resources Engagement Community Engagement Corporate Hospitality News Magazine Press Releases About Us About Wild Rice Board of Directors Our Team Touring & Collaborations Careers Past Productions Financial Information Donate @media (min-width:1025px){.plus-navigation-wrap.nav-menu69ee34ff6caa459ba8bc #theplus-navigation-normal-menu{display: block!important;}.plus-navigation-wrap.nav-menu69ee34ff6caa459ba8bc #plus-mobile-nav-toggle-nav-menu69ee34ff6caa459ba8bc.collapse.in{display:none;}}@media (max-width:1024px){.plus-navigation-wrap.nav-menu69ee34ff6caa459ba8bc #theplus-navigation-normal-menu{display:none !important;}.plus-navigation-wrap.nav-menu69ee34ff6caa459ba8bc .plus-mobile-nav-toggle.mobile-toggle{display: -webkit-flex;display: -moz-flex;display: -ms-flex;display: flex;-webkit-align-items: center;-moz-align-items: center;-ms-align-items: center;align-items: center;-webkit-justify-content: flex-end;-moz-justify-content: flex-end;-ms-justify-content: flex-end;justify-content: flex-end;}.plus-navigation-wrap .plus-mobile-menu-content.collapse.swiper-container{display: block;}} Search Book Now! CAN I MAKE YOU A SUIT, MATE? by Rishi Budhrani 20 – 24 May 2026 Wild Rice @ Funan “The perfect blend of comedy and sentiment,” The Straits",
+    "Artist": "unknown",
+    "Organizer": "WILD RICE",
+    "original price min": 40.0,
+    "Event introduction": "Skip to content Donate Donate What’s On Your Visit Getting Here Ticket Holder Privileges Accessibility Visitor Safety Information Getting Here.",
     "First-Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
     "Last-Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
     "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Chamber Music-Western"
+      "Theatre"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "WILD RICE",
+        "source url": "https://www.wildrice.com.sg/event/500416-can-i-make-you-a-suit-mate-2/",
+        "ticket status": "True",
+        "ticket url": "https://www.wildrice.com.sg/event/500416-can-i-make-you-a-suit-mate-2/",
+        "prince min": 40.0
+      }
+    ]
+  },
+  {
+    "Event name": "SNYO x re:Sound: Prodigious 2026",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Singapore National Youth Orchestra",
+    "original price min": 20.0,
+    "Event introduction": "Young talents abound in Prodigious 2026!",
+    "First-Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
+    "category": [
+      "Concert"
     ],
     "showtimes": [
       {
@@ -11423,64 +4179,25 @@
     ],
     "sources": [
       {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/snyo-x-resound-prodigious-2026",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/YOT2621-1",
-        "prince min": 20
-      },
-      {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/YOT2621-1",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/YOT2621-1",
-        "prince min": 20
-      }
-    ]
-  },
-  {
-    "Event name": "WIM - Live in Singapore",
-    "Venue": "Capitol Theatre",
-    "Artist": "WIM",
-    "Organizer": "Symmetry Ent.",
-    "original price min": 108,
-    "Event introduction": "WIM brings tropical indie-pop grooves and the HONEYMOOD Asia Tour to Capitol Theatre.",
-    "First-Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-    "Last-Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-    "category": [
-      "Concert",
-      "Indie Pop",
-      "City Pop"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "24-May-2026 (Sunday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "24-May-2026 (Sunday) 19:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Eventbrite Singapore",
-        "source url": "https://www.eventbrite.sg/e/wim-live-in-singapore-tickets-1986200124038",
-        "ticket status": "True",
-        "ticket url": "https://www.eventbrite.sg/e/wim-live-in-singapore-tickets-1986200124038",
-        "prince min": 108
+        "prince min": 20.0
       }
     ]
   },
   {
     "Event name": "Thee Sacred Souls Live in Singapore",
     "Venue": "Capitol Theatre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "LAMC Presents Pte Ltd",
-    "original price min": 30,
-    "Event introduction": "Thee Sacred Souls Live in SingaporeExperience the timeless sound of modern soul as Thee Sacred Souls bring their heartfelt grooves.",
+    "original price min": 138.0,
+    "Event introduction": "Thee Sacred Souls Live in Singapore Experience the timeless sound of modern soul as Thee Sacred Souls bring their heartfelt.",
     "First-Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
     "Last-Day-Month-Year (day of the week)": "26-May-2026 (Tuesday)",
     "category": [
-      "Concert",
-      "pop western"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -11495,38 +4212,61 @@
         "source url": "https://www.sistic.com.sg/events/thee0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/thee0526",
-        "prince min": 138
+        "prince min": 138.0
+      }
+    ]
+  },
+  {
+    "Event name": "Live at Cool Cats on Weekdays",
+    "Venue": "Cool Cats at NCO Club",
+    "Artist": "unknown",
+    "Organizer": "VAMP Productions Pte Ltd",
+    "original price min": 15.0,
+    "Event introduction": "Discover a sultry fusion of live jazz and masterful mixology at Cool Cats — Singapore’s premier destination for cocktails and.",
+    "First-Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
+    "Last-Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
+    "category": [
+      "Musical"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/lite_coolcatsweekdays01",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/lite_coolcatsweekdays01",
+        "prince min": 15.0
       }
     ]
   },
   {
     "Event name": "Peter & Blue's Treasure Hunt 2026",
     "Venue": "SOTA Studio Theatre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Singapore Ballet Limited",
-    "original price min": 42,
+    "original price min": 0.0,
     "Event introduction": "Created by Janek Schergen, Peter & Blue’s Treasure Hunt invites young audiences on a joyful ballet adventure.",
     "First-Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-    "Last-Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
+    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
     "category": [
-      "Dance",
-      "Ballet"
+      "Dance"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 11:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) unknown"
       },
       {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-May-2026 (Wednesday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-May-2026 (Wednesday) 16:00"
+        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) unknown"
       }
     ],
     "sources": [
@@ -11535,23 +4275,21 @@
         "source url": "https://www.sistic.com.sg/events/peterblue0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/peterblue0526",
-        "prince min": 42
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Earth, Wind & Fire Experience by Al McKay: Live in Singapore 2026",
     "Venue": "Capitol Theatre",
-    "Artist": "Earth, Wind & Fire Experience",
+    "Artist": "unknown",
     "Organizer": "Vamp Productions",
-    "original price min": 148,
-    "Event introduction": "Al McKay's band recreates Earth, Wind and Fire classics in a one-night Capitol Theatre showcase.",
+    "original price min": 1.0,
+    "Event introduction": "Get ready to groove and feel the rhythm with the Earth, Wind & Fire Experience by Al Mckay - a.",
     "First-Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
     "Last-Day-Month-Year (day of the week)": "28-May-2026 (Thursday)",
     "category": [
-      "Concert",
-      "Soul",
-      "Funk"
+      "unknown"
     ],
     "showtimes": [
       {
@@ -11564,75 +4302,93 @@
       {
         "source name": "Eventbrite Singapore",
         "source url": "https://www.eventbrite.sg/e/earth-wind-fire-experience-by-al-mckay-live-in-singapore-2026-tickets-1983329737635",
-        "ticket status": "True",
+        "ticket status": "False",
         "ticket url": "https://www.eventbrite.sg/e/earth-wind-fire-experience-by-al-mckay-live-in-singapore-2026-tickets-1983329737635",
-        "prince min": 148
+        "prince min": 1.0
+      },
+      {
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.sg/e/earth-wind-fire-experience-by-al-mckay-live-in-singapore-2026-tickets-1983329737635?aff=ebdssbcitybrowsenightlife",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.sg/e/earth-wind-fire-experience-by-al-mckay-live-in-singapore-2026-tickets-1983329737635?aff=ebdssbcitybrowsenightlife",
+        "prince min": 1.0
       }
     ]
   },
   {
-    "Event name": "A Simple Space",
+    "Event name": "Esplanade Presents | Flipside A Simple Space By Gravity & Other Myths (Australia)",
     "Venue": "Esplanade Theatre Studio",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 40,
-    "Event introduction": "Handstands, climbs, flips, and twists—delight in a thrilling display of athleticism as award-winning acrobats defy the limits of the human body.",
+    "Artist": "unknown",
+    "Organizer": "The Esplanade Co Ltd",
+    "original price min": 40.0,
+    "Event introduction": "“This award-winning piece is never short of thrills.",
     "First-Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
     "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
     "category": [
-      "Theatre",
-      "Entertainment"
+      "Theatre"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 20:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 15:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) unknown"
       }
     ],
     "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/flipside/events/a-simple-space",
-        "ticket status": "True",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/flipside/events/a-simple-space",
-        "prince min": 33
-      },
       {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/space0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/space0526",
-        "prince min": 40
+        "prince min": 40.0
+      }
+    ]
+  },
+  {
+    "Event name": "Esplanade Presents | Flipside An Esplanade Commission Snakes and Ladders! By Dwayne Lau",
+    "Venue": "Esplanade Recital Studio",
+    "Artist": "unknown",
+    "Organizer": "The Esplanade Co Ltd",
+    "original price min": 40.0,
+    "Event introduction": "Master the game of life, one roll at a time.",
+    "First-Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
+    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+    "category": [
+      "Theatre"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/ladders0526",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/ladders0526",
+        "prince min": 40.0
       }
     ]
   },
   {
     "Event name": "JASS Spotlight Series: Sarah Chew & Friends",
     "Venue": "The Jazz Loft",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Jazz Association (Singapore)",
-    "original price min": 22,
+    "original price min": 22.0,
     "Event introduction": "Experience the future of jazz in Singapore with the JASS Spotlight Series, a monthly live showcase celebrating outstanding youth jazz.",
     "First-Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
     "Last-Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
@@ -11642,13 +4398,8 @@
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "21:45",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 21:45"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) unknown"
       }
     ],
     "sources": [
@@ -11657,24 +4408,21 @@
         "source url": "https://www.sistic.com.sg/events/lite_jassspotlight202605",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/lite_jassspotlight202605",
-        "prince min": 22
+        "prince min": 22.0
       }
     ]
   },
   {
     "Event name": "Qin Li-Wei Plays Shostakovich • Mahler 7",
     "Venue": "Esplanade Concert Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Orchestra of the Music Makers Ltd.",
-    "original price min": 18,
+    "original price min": 18.0,
     "Event introduction": "The Orchestra of the Music Makers presents an evening of powerful 20th century repertoire featuring world-renowned cellist Qin Li-Wei and.",
     "First-Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
     "Last-Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
     "category": [
-      "Concert",
-      "Orchestra",
-      "Instrumental",
-      "Symphony"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -11689,73 +4437,74 @@
         "source url": "https://www.sistic.com.sg/events/mahler0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/mahler0526",
-        "prince min": 18
+        "prince min": 18.0
       }
     ]
   },
   {
-    "Event name": "Snakes and Ladders!",
-    "Venue": "Esplanade Recital Studio",
-    "Artist": "",
-    "Organizer": "The Esplanade Co Ltd",
-    "original price min": 40,
-    "Event introduction": "An interactive, musical journey through the up and downs, slips and surprises of an actor’s life in Singapore.",
+    "Event name": "Ron Maxim Piano Recital Singapore 2026",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "unknown",
+    "original price min": 0.0,
+    "Event introduction": "Ron Maxim performs a recital spanning lyrical beauty and explosive intensity.",
     "First-Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
     "category": [
-      "Theatre",
-      "Comedy"
+      "Concert"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-May-2026 (Friday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "29-May-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 15:00"
       }
     ],
     "sources": [
       {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/flipside/events/snakes-and-ladders",
+        "source name": "Ticketmaster Singapore",
+        "source url": "https://ticketmaster.sg/activity/detail/26sg_ronmaxim",
         "ticket status": "True",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/flipside/events/snakes-and-ladders",
-        "prince min": 33
-      },
+        "ticket url": "https://ticketmaster.sg/activity/detail/26sg_ronmaxim",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "All That Jazz at The Lobby Lounge",
+    "Venue": "The Lobby Lounge, Frasers House, a Luxury Collection Hotel",
+    "Artist": "unknown",
+    "Organizer": "VAMP Productions Pte Ltd",
+    "original price min": 38.0,
+    "Event introduction": "ALL THAT JAZZ AT THE LOBBY LOUNGE🎙️ Introducing All That Jazz at The Lobby Lounge, a month-long weekend series featuring.",
+    "First-Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
+    "category": [
+      "Musical"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) unknown"
+      }
+    ],
+    "sources": [
       {
         "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/ladders0526",
+        "source url": "https://www.sistic.com.sg/events/lite_allthatjazz01",
         "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/ladders0526",
-        "prince min": 40
+        "ticket url": "https://www.sistic.com.sg/events/lite_allthatjazz01",
+        "prince min": 38.0
       }
     ]
   },
   {
     "Event name": "Eddie Izzard - The Remix Tour Live [Rating: R18 - TBC]",
     "Venue": "The Theatre at Mediacorp",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Now/Live Pte Ltd",
-    "original price min": 108,
+    "original price min": 108.0,
     "Event introduction": "Eddie Izzard –The Remix Tour Live is a chance for Eddie, inspired by her ever loyal audiences to remix and.",
     "First-Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
@@ -11775,24 +4524,113 @@
         "source url": "https://www.sistic.com.sg/events/ei1225",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/ei1225",
-        "prince min": 108
+        "prince min": 108.0
       }
     ]
   },
   {
-    "Event name": "Jubiläum",
-    "Venue": "Victoria Concert Hall",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra",
-    "original price min": 20,
-    "Event introduction": "In commemoration of their founding anniversaries, the Singapore Symphony Chorus, Youth Choir and Children's Choir present Jubiläum: A Celebration of…",
+    "Event name": "Gateway Kids Club – May Storytelling 2026",
+    "Venue": "Gateway Theatre Dance Studio",
+    "Artist": "unknown",
+    "Organizer": "Gateway Theatre Pte Ltd",
+    "original price min": 0.0,
+    "Event introduction": "Nurturing Nature – Stories in May “In all things of nature there is something of the marvelous.” – Aristotle There.",
     "First-Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
     "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
+      "Theatre"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/lite_gkc202605",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/lite_gkc202605",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "GMMTV MUSICON IN SINGAPORE",
+    "Venue": "Arena @ EXPO",
+    "Artist": "unknown",
+    "Organizer": "unknown",
+    "original price min": 0.0,
+    "Event introduction": "GMMTV MUSICON brings over 20 artists to Singapore.",
+    "First-Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
+        "hour: minute": "17:00",
+        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) 17:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+        "hour: minute": "17:00",
+        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 17:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Ticketmaster Singapore",
+        "source url": "https://ticketmaster.sg/activity/detail/26sg_gmmtv",
+        "ticket status": "True",
+        "ticket url": "https://ticketmaster.sg/activity/detail/26sg_gmmtv",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Jazzing Around at The Capitol Jazz Club",
+    "Venue": "The Capitol Jazz Club",
+    "Artist": "unknown",
+    "Organizer": "VAMP Productions Pte Ltd",
+    "original price min": 38.0,
+    "Event introduction": "⭐ Step beyond the velvet rope and immerse yourself in the timeless elegance of Jazzing Around at The Capitol Jazz.",
+    "First-Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
+    "category": [
+      "Musical"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/lite_thecapitoljazzclub02",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/lite_thecapitoljazzclub02",
+        "prince min": 38.0
+      }
+    ]
+  },
+  {
+    "Event name": "Jubiläum: A Celebration of Symphonic Voices",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Choruses",
+    "original price min": 20.0,
+    "Event introduction": "In commemoration of their founding anniversaries, the Singapore Symphony Chorus, Youth Choir and Children's Choir present Jubiläum: A Celebration of.",
+    "First-Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
+    "category": [
+      "Concert"
     ],
     "showtimes": [
       {
@@ -11803,371 +4641,83 @@
     ],
     "sources": [
       {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/jubilaum-a-celebration-of-symphonic-voices",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/CPT2622-1",
-        "prince min": 20
-      },
-      {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/CPT2622-1",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/CPT2622-1",
-        "prince min": 20
+        "prince min": 20.0
       }
     ]
   },
   {
-    "Event name": "Carnatic Fusion",
-    "Venue": "Victoria Concert Hall Atrium",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra",
-    "original price min": 0,
-    "Event introduction": "A cross-cultural collaboration between two contrasting genres of music, showcasing the unique musical texture created when two instruments are played…",
-    "First-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+    "Event name": "Live at Cool Cats",
+    "Venue": "Cool Cats at NCO Club",
+    "Artist": "unknown",
+    "Organizer": "VAMP Productions Pte Ltd",
+    "original price min": 28.0,
+    "Event introduction": "Discover a sultry fusion of live jazz and masterful mixology at Cool Cats — Singapore’s premier destination for cocktails and.",
+    "First-Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
     "category": [
-      "Music",
-      "Classical"
+      "Musical"
     ],
     "showtimes": [
       {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "10:15",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 10:15"
-      },
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "12:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 12:00"
+        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) unknown"
       }
     ],
     "sources": [
-      {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/open-house-2026-carnatic-fusion",
-        "ticket status": "True",
-        "ticket url": "https://www.sso.org.sg/whats-on/open-house-2026-carnatic-fusion",
-        "prince min": 0
-      }
-    ]
-  },
-  {
-    "Event name": "Introduction to Contact Juggling Workshop",
-    "Venue": "Esplanade Rehearsal Studio",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 25,
-    "Event introduction": "Discover the mysterious art of contact juggling in this introductory workshop. Learn rolls, isolations and balances to make crystal balls defy gravity!",
-    "First-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-    "category": [
-      "Workshop"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 13:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/flipside/events/introduction-to-contact-juggling-workshop",
-        "ticket status": "True",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/flipside/events/introduction-to-contact-juggling-workshop",
-        "prince min": 25
-      }
-    ]
-  },
-  {
-    "Event name": "Music Around You",
-    "Venue": "Various Locations around Victoria Concert Hall",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra",
-    "original price min": 0,
-    "Event introduction": "Learn about music in fun, interactive ways in three musical exhibits inviting you to participate hands on, music notation and instrument identification. …",
-    "First-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-    "category": [
-      "Music",
-      "Classical"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "09:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 09:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/open-house-2026-music-around-you",
-        "ticket status": "True",
-        "ticket url": "https://www.sso.org.sg/whats-on/open-house-2026-music-around-you",
-        "prince min": 0
-      }
-    ]
-  },
-  {
-    "Event name": "Quintets: Familiar Tunes",
-    "Venue": "Victoria Concert Hall",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra (SSO)",
-    "original price min": 20,
-    "Event introduction": "The string quintet is a genre steeped in lyrical and intimate tradition. Hear famous excerpts from composers across time such as Boccherini, Mozart,…",
-    "First-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-    "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 15:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/quintets-familiar-tunes",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/SOT2622-2g",
-        "prince min": 20
-      },
       {
         "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/SOT2622-2g",
+        "source url": "https://www.sistic.com.sg/events/lite_coolcats12",
         "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/SOT2622-2g",
-        "prince min": 20
+        "ticket url": "https://www.sistic.com.sg/events/lite_coolcats12",
+        "prince min": 28.0
       }
     ]
   },
   {
-    "Event name": "Sing Your Heart Out",
-    "Venue": "Victoria Concert Hall Dance Studio (Level 3)",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra (SSO)",
-    "original price min": 25,
-    "Event introduction": "Parents, learn the elements of singing together with your child in this interactive workshop led by singer Jeremy Koh. Combining professional techniques…",
-    "First-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+    "Event name": "The Cycle of Grace 八雅之循 Cultural Extravaganza 华彩",
+    "Venue": "Singapore Chinese Cultural Centre Auditorium, Level 9 新加坡华族文化中心表演厅, 九楼",
+    "Artist": "unknown",
+    "Organizer": "Singapore Chinese Cultural Centre",
+    "original price min": 28.0,
+    "Event introduction": "Presented by The TENG Ensemble and Singapore Chinese Dance Theatre, “The Cycle of Grace” is a music and dance extravaganza.",
+    "First-Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
     "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
+      "Music"
     ],
     "showtimes": [
       {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 13:00"
+        "Day-Month-Year (day of the week)": "30-May-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "30-May-2026 (Saturday) unknown"
       }
     ],
     "sources": [
       {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/sing-your-heart-out",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/SOT2622-2f",
-        "prince min": 25
-      },
-      {
         "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/SOT2622-2f",
+        "source url": "https://www.sistic.com.sg/events/ce2026c",
         "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/SOT2622-2f",
-        "prince min": 25
+        "ticket url": "https://www.sistic.com.sg/events/ce2026c",
+        "prince min": 28.0
       }
     ]
   },
   {
-    "Event name": "Singapore National Youth Orchestra in Concert: Mother Goose",
-    "Venue": "Victoria Concert Hall",
-    "Artist": "",
-    "Organizer": "Singapore National Youth Orchestra",
-    "original price min": 10,
-    "Event introduction": "Experience the thrill and beauty of classical music in this 45-minute concert featuring the jubilant Academic Festival Overture by Brahms, and the fairy…",
+    "Event name": "2026 Tsai Chin \"Don't Say Farewell\" World Tour Live in Singapore",
+    "Venue": "Expo & Convention, Level 5, Sands Ballroom",
+    "Artist": "unknown",
+    "Organizer": "Marina Bay Sands",
+    "original price min": 108.0,
+    "Event introduction": "Tsai Chin returns with a concert of classics and heartfelt farewell themes.",
     "First-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
     "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
     "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 11:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/singapore-national-youth-orchestra-in-concert-mother-goose",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/SOT2622-2c",
-        "prince min": 10
-      },
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/SOT2622-2c",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/SOT2622-2c",
-        "prince min": 10
-      }
-    ]
-  },
-  {
-    "Event name": "Sound Making For Babies & Toddlers",
-    "Venue": "Victoria Concert Hall Dance Studio (Level 3)",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra",
-    "original price min": 30,
-    "Event introduction": "Little ones and parents are invited for an unstructured, exploratory session by LittleCr3atures®, and discover the wonderful world of music-making, using…",
-    "First-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-    "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "09:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 09:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 10:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/sound-making-for-babies-toddlers",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/SOT2622-2a",
-        "prince min": 30
-      },
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/SOT2622-2a",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/SOT2622-2a",
-        "prince min": 30
-      }
-    ]
-  },
-  {
-    "Event name": "SSO Backstage Tours",
-    "Venue": "Various Locations around Victoria Concert Hall",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra",
-    "original price min": 25,
-    "Event introduction": "Reimagining the behind the scenes work of the Singapore Symphony within the Victoria Concert Hall! Cruise through 4 pit-stops in a 45-min tour, hear our…",
-    "First-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-    "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "13:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 13:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 16:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/sso-backstage-tours",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/SOT2622-2d",
-        "prince min": 25
-      },
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/SOT2622-2d",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/SOT2622-2d",
-        "prince min": 25
-      }
-    ]
-  },
-  {
-    "Event name": "Strike Up A Rhythm",
-    "Venue": "Victoria Concert Hall Dance Studio (Level 3)",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra (SSO)",
-    "original price min": 25,
-    "Event introduction": "Go on a journey of creation through percussion - introduce your children to the world of percussion, where rhythm and action combine to produce sounds…",
-    "First-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-    "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-        "hour: minute": "16:30",
-        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 16:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/open-house-2026-strike-up-a-rhythm",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/SOT2622-2h",
-        "prince min": 25
-      },
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/SOT2622-2h",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/SOT2622-2h",
-        "prince min": 25
-      }
-    ]
-  },
-  {
-    "Event name": "蔡琴《不要告别》2026 巡回演唱会 – 新加坡站 2026 Tsai Chin “Don’t Say Farewell” World Tour Live in Singapore [G]",
-    "Venue": "Marina Bay Sands, Expo & Convention, Level 5, Sands Ballroom",
-    "Artist": "",
-    "Organizer": "Casa Entertainment Group",
-    "original price min": 108,
-    "Event introduction": "Over the years, Tsai Chin (蔡琴) has become a tender source of comfort for many – her golden voice calm.",
-    "First-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
-    "category": [
-      "Concert",
-      "Evergreen-Asian"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -12178,32 +4728,291 @@
     ],
     "sources": [
       {
+        "source name": "Marina Bay Sands Entertainment",
+        "source url": "https://www.marinabaysands.com/entertainment/shows/tsai-chin-concert.html",
+        "ticket status": "True",
+        "ticket url": "https://www.marinabaysands.com/entertainment/shows/tsai-chin-concert.html",
+        "prince min": 108.0
+      }
+    ]
+  },
+  {
+    "Event name": "Quintets: Familiar Tunes | SSO Open House",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra (SSO)",
+    "original price min": 0.0,
+    "Event introduction": "The string quintet is a genre steeped in lyrical and intimate tradition.",
+    "First-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+        "hour: minute": "15:00",
+        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 15:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/SOT2622-2g",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/SOT2622-2g",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Sing Your Heart Out | SSO Open House",
+    "Venue": "Victoria Concert Hall Dance Studio",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra (SSO)",
+    "original price min": 25.0,
+    "Event introduction": "Parents, learn the elements of singing together with your child in this interactive workshop led by singer Jeremy Koh.",
+    "First-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+        "hour: minute": "13:00",
+        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 13:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/SOT2622-2f",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/SOT2622-2f",
+        "prince min": 25.0
+      }
+    ]
+  },
+  {
+    "Event name": "Singapore National Youth Orchestra in Concert: Mother Goose | SSO Open House",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Singapore National Youth Orchestra",
+    "original price min": 10.0,
+    "Event introduction": "Experience the thrill and beauty of classical music in this 45-minute concert featuring the jubilant Academic Festival Overture by Brahms.",
+    "First-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+        "hour: minute": "11:00",
+        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 11:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/SOT2622-2c",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/SOT2622-2c",
+        "prince min": 10.0
+      }
+    ]
+  },
+  {
+    "Event name": "Sound Making for Babies & Toddlers | SSO Open House",
+    "Venue": "Victoria Concert Hall Dance Studio",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra (SSO)",
+    "original price min": 30.0,
+    "Event introduction": "Little ones and parents are invited for an unstructured, exploratory session by LittleCr3atures®, and discover the wonderful world of music-making.",
+    "First-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+        "hour: minute": "09:00",
+        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 09:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/SOT2622-2a",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/SOT2622-2a",
+        "prince min": 30.0
+      }
+    ]
+  },
+  {
+    "Event name": "SSO Backstage Tours | SSO Open House",
+    "Venue": "Victoria Concert Hall Atrium",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra (SSO)",
+    "original price min": 0.0,
+    "Event introduction": "Reimagining the behind the scenes work of the Singapore Symphony within the Victoria Concert Hall!",
+    "First-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+        "hour: minute": "13:00",
+        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 13:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/SOT2622-2d",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/SOT2622-2d",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Strike Up A Rhythm | SSO Open House",
+    "Venue": "Victoria Concert Hall Dance Studio",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra (SSO)",
+    "original price min": 0.0,
+    "Event introduction": "Go on a journey of creation through percussion - introduce your children to the world of percussion, where rhythm and.",
+    "First-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+        "hour: minute": "16:30",
+        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 16:30"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/SOT2622-2h",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/SOT2622-2h",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "蔡琴《不要告别》2026 巡回演唱会 – 新加坡站 2026 Tsai Chin “Don’t Say Farewell” World Tour Live in Singapore [G]",
+    "Venue": "Marina Bay Sands, Expo & Convention, Level 5, Sands Ballroom",
+    "Artist": "unknown",
+    "Organizer": "Casa Entertainment Group",
+    "original price min": 108.0,
+    "Event introduction": "Over the years, Tsai Chin (蔡琴) has become a tender source of comfort for many – her golden voice calm.",
+    "First-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "31-May-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "31-May-2026 (Sunday) unknown"
+      }
+    ],
+    "sources": [
+      {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/tsaichin0526",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/tsaichin0526",
-        "prince min": 108
+        "prince min": 108.0
+      }
+    ]
+  },
+  {
+    "Event name": "Anson Seabra: The I Must Be Dreaming Tour",
+    "Venue": "The Theatre at Mediacorp",
+    "Artist": "unknown",
+    "Organizer": "Live Nation Singapore",
+    "original price min": 1.0,
+    "Event introduction": "Buy tickets for Anson Seabra: The I Must Be Dreaming Tour at The Theatre at Mediacorp on Tue, 02 Jun.",
+    "First-Day-Month-Year (day of the week)": "02-Jun-2026 (Tuesday)",
+    "Last-Day-Month-Year (day of the week)": "02-Jun-2026 (Tuesday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "02-Jun-2026 (Tuesday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "02-Jun-2026 (Tuesday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "02-Jun-2026 (Tuesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "02-Jun-2026 (Tuesday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Live Nation Singapore",
+        "source url": "https://www.livenation.sg/event/anson-seabra-the-i-must-be-dreaming-tour-singapore-tickets-edp1645100",
+        "ticket status": "False",
+        "ticket url": "https://www.livenation.sg/event/anson-seabra-the-i-must-be-dreaming-tour-singapore-tickets-edp1645100",
+        "prince min": 1.0
+      },
+      {
+        "source name": "Ticketmaster Singapore",
+        "source url": "https://ticketmaster.sg/activity/detail/26sg_ansonseabra",
+        "ticket status": "True",
+        "ticket url": "https://ticketmaster.sg/activity/detail/26sg_ansonseabra",
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Nurse John: The Short-Staffed Tour (R18)",
     "Venue": "The Star Theatre, The Star Performing Arts Centre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Now/Live Pte Ltd",
-    "original price min": 68,
-    "Event introduction": "John Dela Cruz’s (a.k.a Nurse John’s) comedy is like talking to your work bestie; you trauma dump, cry, scream, and laugh together through all the high and the lows of working in the service industry. It’s the feeling of relatability and instant relief that you are not crazy from experiencing all the roller coaster of emotions working short staffed while being underpaid, undervalued, and underappreciated.",
+    "original price min": 68.0,
+    "Event introduction": "John Dela Cruz’s (a.k.a Nurse John’s) comedy is like talking to your work bestie; you trauma dump, cry, scream, and.",
     "First-Day-Month-Year (day of the week)": "03-Jun-2026 (Wednesday)",
-    "Last-Day-Month-Year (day of the week)": "03-Jun-2026 (Wednesday)",
+    "Last-Day-Month-Year (day of the week)": "04-Jun-2026 (Thursday)",
     "category": [
       "Comedy",
-      "Stand-up comedy"
+      "Concert"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "03-Jun-2026 (Wednesday)",
         "hour: minute": "19:00",
         "Day-Month-Year (day of the week) hour: minute": "03-Jun-2026 (Wednesday) 19:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "03-Jun-2026 (Wednesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "03-Jun-2026 (Wednesday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "04-Jun-2026 (Thursday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "04-Jun-2026 (Thursday) unknown"
       }
     ],
     "sources": [
@@ -12212,24 +5021,24 @@
         "source url": "https://www.sistic.com.sg/events/john0625",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/john0625",
-        "prince min": 68
+        "prince min": 68.0
       },
       {
         "source name": "The Star Performing Arts Centre",
         "source url": "https://www.thestar.sg/events/nurse-john-the-short-staffed-tour-r18",
         "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/john0625",
-        "prince min": 68
+        "ticket url": "https://www.thestar.sg/events/nurse-john-the-short-staffed-tour-r18",
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Symphony Beyond Time",
     "Venue": "Esplanade Concert Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "MUSIC FOR PEOPLE (LTD)",
-    "original price min": 37,
-    "Event introduction": "A Night of Joy You Won’t ForgetStep into an unforgettable evening of music and meaning with Symphony Beyond Time, presented.",
+    "original price min": 37.0,
+    "Event introduction": "A Night of Joy You Won’t Forget Step into an unforgettable evening of music and meaning with Symphony Beyond Time.",
     "First-Day-Month-Year (day of the week)": "03-Jun-2026 (Wednesday)",
     "Last-Day-Month-Year (day of the week)": "03-Jun-2026 (Wednesday)",
     "category": [
@@ -12248,70 +5057,109 @@
         "source url": "https://www.sistic.com.sg/events/time0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/time0626",
-        "prince min": 37
+        "prince min": 37.0
+      }
+    ]
+  },
+  {
+    "Event name": "Gromkie",
+    "Venue": "Singtel Waterfront Theatre at Esplanade",
+    "Artist": "unknown",
+    "Organizer": "Octagon One Pte. Ltd.",
+    "original price min": 93.0,
+    "Event introduction": "\"Gromkie\" (\"Loud ones\") Viktoria Tolstoganova and Maxim Vitorgan in a production by Savva Saveliev How do you preserve love?",
+    "First-Day-Month-Year (day of the week)": "04-Jun-2026 (Thursday)",
+    "Last-Day-Month-Year (day of the week)": "04-Jun-2026 (Thursday)",
+    "category": [
+      "Theatre"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "04-Jun-2026 (Thursday)",
+        "hour: minute": "19:00",
+        "Day-Month-Year (day of the week) hour: minute": "04-Jun-2026 (Thursday) 19:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/gromkie0626",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/gromkie0626",
+        "prince min": 93.0
       }
     ]
   },
   {
     "Event name": "BUS THE 1ST ASIA FANCON TOUR : THE FIRST LIGHT IN SINGAPORE",
     "Venue": "The Star Theatre",
-    "Artist": "",
-    "Organizer": "Unknown organizer",
-    "original price min": 1,
-    "Event introduction": "Rising Thai pop powerhouse BUS because of you i shine is set to make their highly anticipated Singapore debut on 5 June 2026, performing live at The Star Theatre. In their Singapore show, BUS will light up the stage with an electrifying performance, bringing their signature style, charisma, and viral hits to fans for the very first time. Singapore stop will be the last stop of the tour, marking a powerful finale to a journey that has spanned continents and touched millions.",
+    "Artist": "unknown",
+    "Organizer": "Live Nation Singapore",
+    "original price min": 1.0,
+    "Event introduction": "Rising Thai pop powerhouse BUS because of you i shine is set to make their highly anticipated Singapore debut on.",
     "First-Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
     "Last-Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
-    "category": [],
+    "category": [
+      "Concert"
+    ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
         "hour: minute": "19:30",
         "Day-Month-Year (day of the week) hour: minute": "05-Jun-2026 (Friday) 19:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "05-Jun-2026 (Friday) unknown"
       }
     ],
     "sources": [
       {
+        "source name": "Live Nation Singapore",
+        "source url": "https://www.livenation.sg/event/bus-the-1st-asia-fancon-tour-the-first-light-in-singapore-singapore-tickets-edp1656617",
+        "ticket status": "False",
+        "ticket url": "https://www.livenation.sg/event/bus-the-1st-asia-fancon-tour-the-first-light-in-singapore-singapore-tickets-edp1656617",
+        "prince min": 1.0
+      },
+      {
         "source name": "The Star Performing Arts Centre",
         "source url": "https://www.thestar.sg/events/bus-in-singapore",
+        "ticket status": "False",
+        "ticket url": "https://www.thestar.sg/events/bus-in-singapore",
+        "prince min": 0.0
+      },
+      {
+        "source name": "Ticketmaster Singapore",
+        "source url": "https://ticketmaster.sg/activity/detail/26sg_bus",
         "ticket status": "True",
         "ticket url": "https://ticketmaster.sg/activity/detail/26sg_bus",
-        "prince min": 1
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Moonlit Lovers of the Durian Grove 月光下的榴梿恋人 Cultural Extravaganza 华彩",
     "Venue": "Singapore Chinese Cultural Centre Auditorium, Level 9 新加坡华族文化中心表演厅, 九楼",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Singapore Chinese Cultural Centre",
-    "original price min": 38,
+    "original price min": 38.0,
     "Event introduction": "“Moonlit Lovers of the Durian Grove” is an original laughter-filled musical comedy that weaves together frontstage and backstage antics in.",
     "First-Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
     "category": [
-      "Theatre",
-      "Drama-Chinese"
+      "Theatre"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jun-2026 (Friday) 15:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "05-Jun-2026 (Friday) unknown"
       },
       {
-        "Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jun-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 19:30"
+        "Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "07-Jun-2026 (Sunday) unknown"
       }
     ],
     "sources": [
@@ -12320,16 +5168,16 @@
         "source url": "https://www.sistic.com.sg/events/ce2026d",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/ce2026d",
-        "prince min": 38
+        "prince min": 38.0
       }
     ]
   },
   {
     "Event name": "Vidura Bandara Rajapaksa - The Paradise Gothic Tour",
     "Venue": "Victoria Theatre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Now/Live Pte Ltd",
-    "original price min": 88,
+    "original price min": 88.0,
     "Event introduction": "Vidura Bandara Rajapaksa returns with Paradise Gothic, a sharp, darkly funny new hour exploring immigration, anarchism and the absurdities of.",
     "First-Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
     "Last-Day-Month-Year (day of the week)": "05-Jun-2026 (Friday)",
@@ -12349,22 +5197,21 @@
         "source url": "https://www.sistic.com.sg/events/vidura0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/vidura0626",
-        "prince min": 88
+        "prince min": 88.0
       }
     ]
   },
   {
     "Event name": "AKU AWIE - EL DIVO",
     "Venue": "The Star Theatre, The Star Performing Arts Centre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "MSN ENTERTAINMENT PTE. LTD.",
-    "original price min": 108,
-    "Event introduction": "Aku Awie (El Divo) is a highly anticipated solo concert by Malaysia’s legendary rock icon, Dato’ Awie, set to take place in Singapore as a one-night-only spectacular musical experience. This exclusive showcase presents a fresh and intimate concept, revealing a different side of Awie -blending his powerful rock roots with a more refined, emotional, and dynamic live band performance experience.",
+    "original price min": 98.0,
+    "Event introduction": "Aku Awie (El Divo) is a highly anticipated solo concert by Malaysia’s legendary rock icon, Dato’ Awie, set to take.",
     "First-Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
     "category": [
-      "Concert",
-      "Solo-Asian"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -12379,184 +5226,116 @@
         "source url": "https://www.sistic.com.sg/events/divo0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/divo0626",
-        "prince min": 98
+        "prince min": 98.0
       },
       {
         "source name": "The Star Performing Arts Centre",
         "source url": "https://www.thestar.sg/events/aku-awie-el-divo",
         "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/divo0626",
-        "prince min": 98
+        "ticket url": "https://www.thestar.sg/events/aku-awie-el-divo",
+        "prince min": 0.0
       }
     ]
   },
   {
-    "Event name": "Circus in Singapore: Post-war to Present Day (Talk)",
-    "Venue": "Esplanade Black Room",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 0,
-    "Event introduction": "Is circus dead in Singapore? Arts and cultural worker Xyn Foo explores how contemporary circus is reinventing itself for modern audiences.",
+    "Event name": "Ele Yan MOMENTⁿ 2026 World Tour - Singapore",
+    "Venue": "Singapore Indoor Stadium",
+    "Artist": "unknown",
+    "Organizer": "Live Nation Singapore",
+    "original price min": 1.0,
+    "Event introduction": "Live Nation Singapore is proud to present the highly anticipated Ele Yan MOMENTⁿ 2026 World Tour - Singapore.",
     "First-Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
     "category": [
-      "Theatre,Talk"
+      "Concert"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 14:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) unknown"
       }
     ],
     "sources": [
       {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/flipside/events/circus-in-singapore-post-war-to-present-day-talk",
+        "source name": "Live Nation Singapore",
+        "source url": "https://www.livenation.sg/event/ele-yan-moment%E2%81%BF-2026-world-tour-singapore-singapore-tickets-edp1664241",
         "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/flipside/events/circus-in-singapore-post-war-to-present-day-talk",
-        "prince min": 0
+        "ticket url": "https://www.livenation.sg/event/ele-yan-moment%E2%81%BF-2026-world-tour-singapore-singapore-tickets-edp1664241",
+        "prince min": 1.0
+      },
+      {
+        "source name": "Singapore Sports Hub",
+        "source url": "https://www.sportshub.com.sg/events/ele-yan-momentn-2026-world-tour-singapore",
+        "ticket status": "True",
+        "ticket url": "https://www.sportshub.com.sg/events/ele-yan-momentn-2026-world-tour-singapore",
+        "prince min": 0.0
+      },
+      {
+        "source name": "Ticketmaster Singapore",
+        "source url": "https://ticketmaster.sg/activity/detail/26sg_eleyan",
+        "ticket status": "True",
+        "ticket url": "https://ticketmaster.sg/activity/detail/26sg_eleyan",
+        "prince min": 0.0
       }
     ]
   },
   {
-    "Event name": "Der Lauf (The Way Things Go)",
+    "Event name": "Esplanade Presents | Flipside Der Lauf (The Way Things Go) By Les Vélocimanes Associés (Belgium)",
     "Venue": "Esplanade Theatre Studio",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "The Esplanade Co Ltd",
-    "original price min": 40,
-    "Event introduction": "A juggler fights his way through broken crockery, flying balls and more in a series of absurdist experiments. Oh, and he can’t see.",
+    "original price min": 40.0,
+    "Event introduction": "“It is daft, delirious, edge-of-your-seat stuff.” – The Guardian “A hypnotic and very strange creation, in which the absurd rubs.",
     "First-Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
     "category": [
-      "Theatre",
-      "Comedy"
+      "Theatre"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 17:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-Jun-2026 (Sunday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-Jun-2026 (Sunday) 17:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "07-Jun-2026 (Sunday) unknown"
       }
     ],
     "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/flipside/events/der-lauf-the-way-things-go",
-        "ticket status": "True",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/flipside/events/der-lauf-the-way-things-go",
-        "prince min": 33
-      },
       {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/lauf0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/lauf0626",
-        "prince min": 40
-      }
-    ]
-  },
-  {
-    "Event name": "Fairy Tales & Fantasy",
-    "Venue": "Victoria Concert Hall",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra (SSO)",
-    "original price min": 20,
-    "Event introduction": "International keyboard duo Scott Brothers Duo (Jonathan & Tom Scott) perform a fun-filled concert of duos for piano and organ for everyone in the family,…",
-    "First-Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-    "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 19:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/organ-series-fairy-tales-fantasy-scott-brothers",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/ORT2623-1",
-        "prince min": 20
-      },
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/ORT2623-1",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/ORT2623-1",
-        "prince min": 20
-      }
-    ]
-  },
-  {
-    "Event name": "Introduction to Unicycling Workshop",
-    "Venue": "Esplanade Annexe Studio",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 25,
-    "Event introduction": "Always wanted to try riding a unicycle? This beginner-friendly workshop introduces the fundamentals in a safe and fun environment!",
-    "First-Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-    "category": [
-      "Workshop"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 11:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/flipside/events/introduction-to-unicycling-workshop",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/flipside/events/introduction-to-unicycling-workshop",
-        "prince min": 25
+        "prince min": 40.0
       }
     ]
   },
   {
     "Event name": "Sheila Majid 40 Years in Music",
     "Venue": "Esplanade Concert Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Biz Trends",
-    "original price min": 88,
+    "original price min": 88.0,
     "Event introduction": "Celebrate four decades of musical brilliance with Malaysia’s Queen of Jazz, Datuk Sheila Majid, in Sheila Majid 40 Years in.",
     "First-Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
     "category": [
-      "Concert",
-      "Pop-Asian"
+      "Concert"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
         "hour: minute": "19:30",
         "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 19:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) unknown"
       }
     ],
     "sources": [
@@ -12565,81 +5344,80 @@
         "source url": "https://www.sistic.com.sg/events/sm0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/sm0626",
-        "prince min": 88
+        "prince min": 88.0
       }
     ]
   },
   {
-    "Event name": "颜人中「MOMENTⁿ」2026 世界巡回演唱会-新加坡站 Ele Yan MOMENTⁿ 2026 World Tour - Singapore",
-    "Venue": "Singapore Indoor Stadium",
-    "Artist": "Ele Yan",
-    "Organizer": "",
-    "original price min": 178,
-    "Event introduction": "Ele Yan debuts his immersive cyberpunk-styled world tour in Singapore with reworked classics and new staging.",
+    "Event name": "SSO Organ Series: Fairy Tales & Fantasy",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra (SSO)",
+    "original price min": 20.0,
+    "Event introduction": "International keyboard duo Scott Brothers Duo (Jonathan & Tom Scott) perform a funfilled concert of duos for piano and organ.",
     "First-Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
     "category": [
-      "Concert",
-      "Mandopop"
+      "Concert"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 20:00"
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) 19:30"
       }
     ],
     "sources": [
       {
-        "source name": "Ticketmaster Singapore",
-        "source url": "https://ticketmaster.sg/activity/detail/26sg_eleyan",
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/ORT2623-1",
         "ticket status": "True",
-        "ticket url": "https://ticketmaster.sg/activity/detail/26sg_eleyan",
-        "prince min": 178
+        "ticket url": "https://www.sistic.com.sg/events/ORT2623-1",
+        "prince min": 20.0
       }
     ]
   },
   {
-    "Event name": "Between the Catch and the Throw: Creating a Movement Language for Juggling Workshop",
-    "Venue": "Esplanade Rehearsal Studio",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 25,
-    "Event introduction": "Transform juggling into storytelling in this immersive movement workshop with Alex Allison of Maleta Company.",
-    "First-Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
-    "Last-Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
+    "Event name": "Ticketing FAQs",
+    "Venue": "unknown",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra",
+    "original price min": 1.0,
+    "Event introduction": "Frequently Asked Questions on ticketing, including admission rules.",
+    "First-Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
     "category": [
-      "Workshop"
+      "Concert",
+      "Orchestra"
     ],
     "showtimes": [
       {
-        "Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-Jun-2026 (Sunday) 10:00"
+        "Day-Month-Year (day of the week)": "06-Jun-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "06-Jun-2026 (Saturday) unknown"
       }
     ],
     "sources": [
       {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/flipside/events/between-the-catch-and-the-throw-creating-a-movement-language-for-juggling-workshop",
-        "ticket status": "True",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/festivals/2026/flipside/events/between-the-catch-and-the-throw-creating-a-movement-language-for-juggling-workshop",
-        "prince min": 25
+        "source name": "Singapore Symphony Orchestra (SSO)",
+        "source url": "https://www.sso.org.sg/whats-on/ticketing-faqs\\",
+        "ticket status": "False",
+        "ticket url": "https://www.sso.org.sg/whats-on/ticketing-faqs\\",
+        "prince min": 1.0
       }
     ]
   },
   {
     "Event name": "Bored Teachers: “Is It Friday Yet?!” Comedy Tour",
     "Venue": "Victoria Theatre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Now/Live Pte Ltd",
-    "original price min": 88,
+    "original price min": 88.0,
     "Event introduction": "They’ve graded the papers, survived the staff meetings, and lost their last ounce of patience… and now they’re taking it.",
     "First-Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
     "Last-Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
     "category": [
-      "Comedy",
-      "Stand-up comedy"
+      "Comedy"
     ],
     "showtimes": [
       {
@@ -12654,22 +5432,21 @@
         "source url": "https://www.sistic.com.sg/events/bt0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/bt0626",
-        "prince min": 88
+        "prince min": 88.0
       }
     ]
   },
   {
     "Event name": "Dance Dynamics 20th Anniversary Cultural Dance Showcase ~ Grace of the Years ~",
     "Venue": "Drama Centre Theatre, National Library 100 Victoria St, #03-01, Singapore 188064",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Dance Dynamics",
-    "original price min": 28,
-    "Event introduction": "【砥砺二十载，初心不负】于树淮老师创办的新舞风舞团，成立二十周年之际，倾力呈献大型综合舞蹈晚会《舞颂年华》。本场晚会集结了舞团二十年的艺术沉淀，通过多元化的舞蹈语汇，展示生命不同阶段的美感与力量。​【演出亮点】​经典与创新并蓄： 汇聚芭蕾、现代舞、民族民间舞等多种流派。马来舞团 Kirana Seni 客卿表演传统马来舞。​跨越年龄的舞台： 由舞团全体成员联袂出演。从青春律动到岁月的从容，舞员们以极致的专业态度克服身体极限，用身躯与足尖传递最真挚的情感。​精彩内容预告： 包含华丽的大型群舞、意境深远的独舞及富有张力的三人舞。​【诚邀莅临】二十年是一个里程碑，更是一个新起点。我们期待与老友新朋齐聚一堂，在光影与乐章中，感受舞蹈带来的震撼与温情。",
+    "original price min": 28.0,
+    "Event introduction": "【砥砺二十载，初心不负】 于树淮老师创办的新舞风舞团，成立二十周年之际，倾力呈献大型综合舞蹈晚会《舞颂年华》。本场晚会集结了舞团二十年的艺术沉淀，通过多元化的舞蹈语汇，展示生命不同阶段的美感与力量。 ​【演出亮点】 ​经典与创新并蓄： 汇聚芭蕾、现代舞、民族民间舞等多种流派。马来舞团 Kirana Seni 客卿表演传统马来舞。 ​跨越年龄的舞台： 由舞团全体成员联袂出演。从青春律动到岁月的从容，舞员们以极致的专业态度克服身体极限，用身躯与足尖传递最真挚的情感。 ​精彩内容预告： 包含华丽的大型群舞、意境深远的独舞及富有张力的三人舞。 ​【诚邀莅临】 二十年是一个里程碑，更是一个新起点。我们期待与老友新朋齐聚一堂，在光影与乐章中，感受舞蹈带来的震撼与温情。",
     "First-Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
     "Last-Day-Month-Year (day of the week)": "07-Jun-2026 (Sunday)",
     "category": [
-      "Dance",
-      "Traditional/Ethnic"
+      "Dance"
     ],
     "showtimes": [
       {
@@ -12684,22 +5461,21 @@
         "source url": "https://www.sistic.com.sg/events/dancedynamics0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/dancedynamics0626",
-        "prince min": 28
+        "prince min": 28.0
       }
     ]
   },
   {
     "Event name": "​​​​​​​Esplanade Presents | Mosaic Music Series Deerhoof",
     "Venue": "Esplanade Annexe Studio",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "The Esplanade Co Ltd",
-    "original price min": 60,
+    "original price min": 60.0,
     "Event introduction": "For over three decades, Deerhoof have remained one of the most daring and unpredictable forces in experimental rock.",
     "First-Day-Month-Year (day of the week)": "08-Jun-2026 (Monday)",
     "Last-Day-Month-Year (day of the week)": "08-Jun-2026 (Monday)",
     "category": [
-      "Concert",
-      "Pop-Western"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -12714,22 +5490,21 @@
         "source url": "https://www.sistic.com.sg/events/deerhoof0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/deerhoof0626",
-        "prince min": 60
+        "prince min": 60.0
       }
     ]
   },
   {
     "Event name": "Yuhki Kuramoto Live in Concert",
     "Venue": "Esplanade Concert Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Credia Music & Artists",
-    "original price min": 48,
+    "original price min": 48.0,
     "Event introduction": "Composer and pianist Yuhki Kuramoto, who has enjoyed immense popularity in Korea with sold-out nationwide tours and continuous recording projects.",
     "First-Day-Month-Year (day of the week)": "09-Jun-2026 (Tuesday)",
     "Last-Day-Month-Year (day of the week)": "09-Jun-2026 (Tuesday)",
     "category": [
-      "Concert",
-      "Chamber Music-Western"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -12744,22 +5519,22 @@
         "source url": "https://www.sistic.com.sg/events/yuhki0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/yuhki0626",
-        "prince min": 48
+        "prince min": 48.0
       }
     ]
   },
   {
     "Event name": "Professor Brian Cox Emergence World Tour",
     "Venue": "The Star Theatre, The Star Performing Arts Centre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Lateral Events Pte Ltd",
-    "original price min": 105,
-    "Event introduction": "After performing his smash-hit show ‘Horizons’ to nearly half a million people across the world, Professor Brian Cox is back with his new tour world tour Emergence.",
+    "original price min": 105.0,
+    "Event introduction": "After performing his smash-hit show ‘Horizons’ to nearly half a million people across the world, Professor Brian Cox is back.",
     "First-Day-Month-Year (day of the week)": "10-Jun-2026 (Wednesday)",
     "Last-Day-Month-Year (day of the week)": "10-Jun-2026 (Wednesday)",
     "category": [
       "Theatre",
-      "Entertainment"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -12774,24 +5549,24 @@
         "source url": "https://www.sistic.com.sg/events/brian0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/brian0626",
-        "prince min": 105
+        "prince min": 105.0
       },
       {
         "source name": "The Star Performing Arts Centre",
         "source url": "https://www.thestar.sg/events/professor-brian-cox-emergence-world-tour",
         "ticket status": "True",
-        "ticket url": "https://sistic.com.sg/events/brian0626",
-        "prince min": 105
+        "ticket url": "https://www.thestar.sg/events/professor-brian-cox-emergence-world-tour",
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Genshin Impact Symphonic Band Concert 原神交响管乐音乐会",
     "Venue": "Victoria Concert Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "KC ENTERTAINMENT PTE. LTD.",
-    "original price min": 58,
-    "Event introduction": "A Concert Experience Not to Be MissedAuthentic symphonic recreation of Genshin Impact’s most iconic musicImmersive soundscapes crafted by a professional.",
+    "original price min": 58.0,
+    "Event introduction": "A Concert Experience Not to Be Missed Authentic symphonic recreation of Genshin Impact’s most iconic music Immersive soundscapes crafted by.",
     "First-Day-Month-Year (day of the week)": "11-Jun-2026 (Thursday)",
     "Last-Day-Month-Year (day of the week)": "12-Jun-2026 (Friday)",
     "category": [
@@ -12800,8 +5575,8 @@
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "11-Jun-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "11-Jun-2026 (Thursday) 19:30"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "11-Jun-2026 (Thursday) unknown"
       },
       {
         "Day-Month-Year (day of the week)": "12-Jun-2026 (Friday)",
@@ -12815,173 +5590,32 @@
         "source url": "https://www.sistic.com.sg/events/genshin0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/genshin0626",
-        "prince min": 58
+        "prince min": 58.0
       }
     ]
   },
   {
     "Event name": "GIRLS GIRLS GIRLS (R18)",
     "Venue": "The Ngee Ann Kongsi Theatre @ Wild Rice, Funan",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Wild Rice Ltd",
-    "original price min": 40,
+    "original price min": 40.0,
     "Event introduction": "In popular culture, queer women rarely get to take centre stage.",
     "First-Day-Month-Year (day of the week)": "11-Jun-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "26-Jun-2026 (Friday)",
+    "Last-Day-Month-Year (day of the week)": "27-Jun-2026 (Saturday)",
     "category": [
-      "Theatre",
-      "Drama-English"
+      "Theatre"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "11-Jun-2026 (Thursday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "11-Jun-2026 (Thursday) 13:30"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "11-Jun-2026 (Thursday) unknown"
       },
       {
-        "Day-Month-Year (day of the week)": "11-Jun-2026 (Thursday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "11-Jun-2026 (Thursday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-Jun-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "11-Jun-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-Jun-2026 (Friday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jun-2026 (Friday) 13:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-Jun-2026 (Friday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jun-2026 (Friday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-Jun-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jun-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-Jun-2026 (Tuesday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-Jun-2026 (Tuesday) 13:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-Jun-2026 (Tuesday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-Jun-2026 (Tuesday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-Jun-2026 (Tuesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-Jun-2026 (Tuesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-Jun-2026 (Wednesday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "17-Jun-2026 (Wednesday) 13:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-Jun-2026 (Wednesday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "17-Jun-2026 (Wednesday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-Jun-2026 (Wednesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "17-Jun-2026 (Wednesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jun-2026 (Thursday) 13:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jun-2026 (Thursday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jun-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) 13:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Jun-2026 (Tuesday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-Jun-2026 (Tuesday) 13:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Jun-2026 (Tuesday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-Jun-2026 (Tuesday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "23-Jun-2026 (Tuesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "23-Jun-2026 (Tuesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Jun-2026 (Wednesday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-Jun-2026 (Wednesday) 13:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Jun-2026 (Wednesday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-Jun-2026 (Wednesday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "24-Jun-2026 (Wednesday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "24-Jun-2026 (Wednesday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Jun-2026 (Thursday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-Jun-2026 (Thursday) 13:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Jun-2026 (Thursday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-Jun-2026 (Thursday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Jun-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "25-Jun-2026 (Thursday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Jun-2026 (Friday)",
-        "hour: minute": "13:30",
-        "Day-Month-Year (day of the week) hour: minute": "26-Jun-2026 (Friday) 13:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Jun-2026 (Friday)",
-        "hour: minute": "14:30",
-        "Day-Month-Year (day of the week) hour: minute": "26-Jun-2026 (Friday) 14:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Jun-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "26-Jun-2026 (Friday) 19:30"
+        "Day-Month-Year (day of the week)": "27-Jun-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "27-Jun-2026 (Saturday) unknown"
       }
     ],
     "sources": [
@@ -12990,33 +5624,85 @@
         "source url": "https://www.sistic.com.sg/events/girls0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/girls0626",
-        "prince min": 40
+        "prince min": 40.0
+      }
+    ]
+  },
+  {
+    "Event name": "NMIXX 1ST WORLD TOUR <EPISODE 1: ZERO FRONTIER> IN SINGAPORE",
+    "Venue": "The Star Theatre",
+    "Artist": "unknown",
+    "Organizer": "Live Nation Singapore",
+    "original price min": 1.0,
+    "Event introduction": "Rising K-pop girl group NMIXX is set to bring their highly anticipated first-ever world tour, “EPISODE 1: ZERO FRONTIER” to.",
+    "First-Day-Month-Year (day of the week)": "11-Jun-2026 (Thursday)",
+    "Last-Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "11-Jun-2026 (Thursday)",
+        "hour: minute": "23:59",
+        "Day-Month-Year (day of the week) hour: minute": "11-Jun-2026 (Thursday) 23:59"
+      },
+      {
+        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
+        "hour: minute": "17:00",
+        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 17:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Live Nation Singapore",
+        "source url": "https://www.livenation.sg/event/nmixx-1st-world-tour-episode-1-zero-frontier-in-singapore-singapore-tickets-edp1665282",
+        "ticket status": "False",
+        "ticket url": "https://www.livenation.sg/event/nmixx-1st-world-tour-episode-1-zero-frontier-in-singapore-singapore-tickets-edp1665282",
+        "prince min": 1.0
+      },
+      {
+        "source name": "The Star Performing Arts Centre",
+        "source url": "https://www.thestar.sg/events/nmixx-1st-world-tour-episode-1-zero-frontier-in-singapore",
+        "ticket status": "False",
+        "ticket url": "https://www.thestar.sg/events/nmixx-1st-world-tour-episode-1-zero-frontier-in-singapore",
+        "prince min": 1.0
+      },
+      {
+        "source name": "Ticketmaster Singapore",
+        "source url": "https://ticketmaster.sg/activity/detail/26sg_nmixx",
+        "ticket status": "True",
+        "ticket url": "https://ticketmaster.sg/activity/detail/26sg_nmixx",
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Drum Tao 2026 - BEYOND THE BEST",
     "Venue": "Esplanade Theatre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Sliding Doors Entertainment Pte Ltd",
-    "original price min": 68,
+    "original price min": 68.0,
     "Event introduction": "With a legacy of 250 songs over 33 years, DRUM TAO proudly celebrates its 33rd anniversary.",
     "First-Day-Month-Year (day of the week)": "12-Jun-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "12-Jun-2026 (Friday)",
+    "Last-Day-Month-Year (day of the week)": "14-Jun-2026 (Sunday)",
     "category": [
-      "Theatre",
-      "Entertainment"
+      "Theatre"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "12-Jun-2026 (Friday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jun-2026 (Friday) 15:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "12-Jun-2026 (Friday) unknown"
       },
       {
-        "Day-Month-Year (day of the week)": "12-Jun-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jun-2026 (Friday) 20:00"
+        "Day-Month-Year (day of the week)": "14-Jun-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "14-Jun-2026 (Sunday) unknown"
       }
     ],
     "sources": [
@@ -13025,66 +5711,55 @@
         "source url": "https://www.sistic.com.sg/events/tao0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/tao0626",
-        "prince min": 68
+        "prince min": 68.0
       }
     ]
   },
   {
-    "Event name": "Ma mère l’Oye: SNYO with Singapore Ballet",
-    "Venue": "Esplanade Concert Hall",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra",
-    "original price min": 20,
-    "Event introduction": "The Singapore Ballet stars in Ravel's enchanting Mother Goose (Ma mère l'Oye ), bringing scenes from tales such as Sleeping Beauty , Beauty and the Beast…",
+    "Event name": "​​​​​​​Esplanade Presents | Mosaic Music Series MONO",
+    "Venue": "Esplanade Annexe Studio",
+    "Artist": "unknown",
+    "Organizer": "The Esplanade Co Ltd",
+    "original price min": 75.0,
+    "Event introduction": "Japanese post-rock titans MONO have nothing left to prove—after 26 years as a band, they have released more than a.",
     "First-Day-Month-Year (day of the week)": "12-Jun-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "14-Jul-2026 (Tuesday)",
     "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
+      "Concert"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "12-Jun-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jun-2026 (Friday) 19:30"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "12-Jun-2026 (Friday) unknown"
       },
       {
-        "Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "13-Jun-2026 (Saturday) 19:30"
+        "Day-Month-Year (day of the week)": "14-Jul-2026 (Tuesday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "14-Jul-2026 (Tuesday) 20:00"
       }
     ],
     "sources": [
       {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/ma-mere-loye-snyo-singapore-ballet",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/YOT2624-1",
-        "prince min": 20
-      },
-      {
         "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/YOT2624-1",
+        "source url": "https://www.sistic.com.sg/events/mono0726",
         "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/YOT2624-1",
-        "prince min": 20
+        "ticket url": "https://www.sistic.com.sg/events/mono0726",
+        "prince min": 75.0
       }
     ]
   },
   {
     "Event name": "2026 i-dle WORLD TOUR [Syncopation] IN SINGAPORE",
     "Venue": "Singapore Indoor Stadium",
-    "Artist": "i-dle",
-    "Organizer": "iMe Singapore",
-    "original price min": 188,
-    "Event introduction": "i-dle's fourth world tour reaches Singapore with Syncopation's high-impact staging and global momentum.",
+    "Artist": "unknown",
+    "Organizer": "unknown",
+    "original price min": 188.0,
+    "Event introduction": "i-dle brings their Syncopation world tour to Singapore.",
     "First-Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
     "category": [
-      "Concert",
-      "K-pop"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -13099,28 +5774,61 @@
         "source url": "https://ticketmaster.sg/activity/detail/26sg_idle",
         "ticket status": "True",
         "ticket url": "https://ticketmaster.sg/activity/detail/26sg_idle",
-        "prince min": 188
+        "prince min": 188.0
+      }
+    ]
+  },
+  {
+    "Event name": "Ma mère l’Oye: SNYO with Singapore Ballet",
+    "Venue": "Esplanade Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Singapore National Youth Orchestra",
+    "original price min": 20.0,
+    "Event introduction": "The Singapore Ballet stars in Ravel's enchanting Mother Goose (Ma mère l'Oye) , bringing scenes from tales such as Sleeping.",
+    "First-Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "13-Jun-2026 (Saturday) 19:30"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/YOT2624-1",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/YOT2624-1",
+        "prince min": 20.0
       }
     ]
   },
   {
     "Event name": "Richard Clayderman Forever Love Concert 2026 World Tour",
     "Venue": "The Star Theatre, The Star Performing Arts Centre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Biz Trends",
-    "original price min": 98,
-    "Event introduction": "Renowned pianist Richard Clayderman brings his Forever Love Concert 2026 World Tour to The Star Theatre on 13 June 2026.",
+    "original price min": 98.0,
+    "Event introduction": "RICHARD CLAYDERMAN FOREVER LOVE CONCERT 2026 WORLD TOUR Renowned pianist Richard Clayderman brings his Forever Love Concert 2026 World Tour.",
     "First-Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
     "category": [
-      "Concert",
-      "Pop-Western"
+      "Concert"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
         "hour: minute": "15:00",
         "Day-Month-Year (day of the week) hour: minute": "13-Jun-2026 (Saturday) 15:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "13-Jun-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "13-Jun-2026 (Saturday) unknown"
       }
     ],
     "sources": [
@@ -13129,29 +5837,35 @@
         "source url": "https://www.sistic.com.sg/events/rc0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/rc0626",
-        "prince min": 98
+        "prince min": 98.0
       },
       {
         "source name": "The Star Performing Arts Centre",
         "source url": "https://www.thestar.sg/events/richard-clayderman-forever-love-concert-2026-world-tour",
         "ticket status": "True",
-        "ticket url": "https://bookmyshow.sg/en/events/richard-clayderman-forever-love-concert-2026-world-tour/RCSG2026",
-        "prince min": 1
+        "ticket url": "https://www.thestar.sg/events/richard-clayderman-forever-love-concert-2026-world-tour",
+        "prince min": 0.0
+      },
+      {
+        "source name": "Ticketmaster Singapore",
+        "source url": "https://ticketmaster.sg/activity/detail/26sg_clayderman",
+        "ticket status": "True",
+        "ticket url": "https://ticketmaster.sg/activity/detail/26sg_clayderman",
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Beginnings & Brilliance • Anna Geniushene — Piano Recital",
     "Venue": "Victoria Concert Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Altenburg Arts Pte Ltd",
-    "original price min": 30,
+    "original price min": 30.0,
     "Event introduction": "Following her acclaimed Singapore debut in 2023, presented by Altenburg Arts and memorably built around a first half devoted entirely.",
     "First-Day-Month-Year (day of the week)": "14-Jun-2026 (Sunday)",
     "Last-Day-Month-Year (day of the week)": "14-Jun-2026 (Sunday)",
     "category": [
-      "Concert",
-      "Solo-Western"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -13166,22 +5880,21 @@
         "source url": "https://www.sistic.com.sg/events/anna0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/anna0626",
-        "prince min": 30
+        "prince min": 30.0
       }
     ]
   },
   {
     "Event name": "Cheng Ballet Academy's 20th Anniversary: Révérence Gala 2026",
     "Venue": "University Cultural Centre Ho Bee Auditorium, NUS",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Cheng Ballet Academy Pte Ltd",
-    "original price min": 55,
+    "original price min": 55.0,
     "Event introduction": "Enter an afternoon of elegance and artistic excellence at Révérence Gala 2026, the annual mid-year performance of Cheng Ballet Academy.",
     "First-Day-Month-Year (day of the week)": "14-Jun-2026 (Sunday)",
     "Last-Day-Month-Year (day of the week)": "14-Jun-2026 (Sunday)",
     "category": [
-      "Dance",
-      "Ballet"
+      "Dance"
     ],
     "showtimes": [
       {
@@ -13196,22 +5909,21 @@
         "source url": "https://www.sistic.com.sg/events/reverence0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/reverence0626",
-        "prince min": 55
+        "prince min": 55.0
       }
     ]
   },
   {
     "Event name": "Esplanade Presents | Coffee Morning & Afternoon Tea A Four Heavenly Kings Tribute《永恒金曲：致敬香港四大天王》 by Donnie Chan and Winnie Wong 陈国荣与黄慧妮",
     "Venue": "Esplanade Concert Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "The Esplanade Co Ltd",
-    "original price min": 21,
+    "original price min": 21.0,
     "Event introduction": "Look forward to classics such as Kiss Goodbye by Jacky Cheung, The Days We Spent Together by Andy Lau, Will.",
     "First-Day-Month-Year (day of the week)": "15-Jun-2026 (Monday)",
     "Last-Day-Month-Year (day of the week)": "15-Jun-2026 (Monday)",
     "category": [
-      "Concert",
-      "Evergreen-Asian"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -13226,94 +5938,128 @@
         "source url": "https://www.sistic.com.sg/events/cmat0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/cmat0626",
-        "prince min": 21
+        "prince min": 21.0
       }
     ]
   },
   {
     "Event name": "DON QUIXOTE SUITES",
     "Venue": "Gateway Theatre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Kadence Ballet Academy Pte Ltd",
-    "original price min": 45,
+    "original price min": 45.0,
     "Event introduction": "Don Quixote Suites is Kadence Ballet Academy’s annual recital, featuring a rich programme of classical ballet excerpts, in-house contemporary choreography.",
     "First-Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
     "Last-Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
     "category": [
       "Dance",
-      "Ballet"
+      "Theatre"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
         "hour: minute": "19:30",
         "Day-Month-Year (day of the week) hour: minute": "18-Jun-2026 (Thursday) 19:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "18-Jun-2026 (Thursday) unknown"
       }
     ],
     "sources": [
+      {
+        "source name": "Gateway Theatre",
+        "source url": "https://gatewaytheatre.sg/events/don-quixote-suites/",
+        "ticket status": "Unknown",
+        "ticket url": "https://gatewaytheatre.sg/events/don-quixote-suites/",
+        "prince min": 0.0
+      },
       {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/donquixote0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/donquixote0626",
-        "prince min": 45
+        "prince min": 45.0
+      }
+    ]
+  },
+  {
+    "Event name": "GIRLS GIRLS GIRLS – WILD RICE Singapore",
+    "Venue": "Wild Rice @ Funan Venue Hire Wild Rice @ Funan Venue Hire Venue Wild Rice @ Funan Venue Hire Support Us How You Can Help Donate Our Angels Be A Sponsor Our Sponsors & Donors The Rice Ball New & Now Plant A Seat Name A Space Leave A Legacy How You Can Help Donate Our Angels Be A Sponsor Our Sponsors & Donors The Rice Ball New & Now Plant A Seat Name A Space Leave A Legacy Support Us Featured Sections Be An Angel New & Now The Rice Ball NEW & NOW The Rice Cooker SCRIPT SUBMISSIONS The Rice Cooker SCRIPT SUBMISSIONS New & Now The Rice Cooker Script Submissions Learning Children Wild Rice Academy First Stage Mailing List Young People Singapore Youth Theatre Young & Wild School Programmes Training Programmes & Workshops Learning Resources Children Wild Rice Academy First Stage Mailing List Young People Singapore Youth Theatre Young & Wild School Programmes Training Programmes & Workshops Learning Resources Learning Featured Sections WILD RICE ACADEMY School Programmes Training Programmes & Workshops Engagement Community Engagement Corporate Hospitality Community Engagement Corporate Hospitality Engagement Community Engagement Corporate Hospitality News Magazine Press Releases Auditions Magazine Press Releases Auditions News Magazine Press Releases AUDITIONS About Us About Wild Rice Board of Directors Our Team Past Productions Touring & Collaborations Careers Financial Information About Wild Rice Board of Directors Our Team Past Productions Touring & Collaborations Careers Financial Information About Featured Sections About Wild Rice Our Team Past Productions What’s On Your Visit Getting Here Ticket Holder Privileges Accessibility Visitor Safety Information Venue Wild Rice @ Funan Venue Hire Support Us How You Can Help Donate Our Angels Be A Sponsor Our Sponsors & Donors The Rice Ball NEW & NOW Plant A Seat Name A Space Leave A Legacy New & Now The Rice Cooker Script Submissions Learning Children Wild Rice Academy Young People School Programmes Training Programmes & Workshops Learning Resources Engagement Community Engagement Corporate Hospitality News Magazine Press Releases About Us About Wild Rice Board of Directors Our Team Touring & Collaborations Careers Past Productions Financial Information Donate @media (min-width:1025px){.plus-navigation-wrap.nav-menu69ee36acde47d59ba8bc #theplus-navigation-normal-menu{display: block!important;}.plus-navigation-wrap.nav-menu69ee36acde47d59ba8bc #plus-mobile-nav-toggle-nav-menu69ee36acde47d59ba8bc.collapse.in{display:none;}}@media (max-width:1024px){.plus-navigation-wrap.nav-menu69ee36acde47d59ba8bc #theplus-navigation-normal-menu{display:none !important;}.plus-navigation-wrap.nav-menu69ee36acde47d59ba8bc .plus-mobile-nav-toggle.mobile-toggle{display: -webkit-flex;display: -moz-flex;display: -ms-flex;display: flex;-webkit-align-items: center;-moz-align-items: center;-ms-align-items: center;align-items: center;-webkit-justify-content: flex-end;-moz-justify-content: flex-end;-ms-justify-content: flex-end;justify-content: flex-end;}.plus-navigation-wrap .plus-mobile-menu-content.collapse.swiper-container{display: block;}} Search Book Now! GIRLS GIRLS GIRLS 11 – 27 Jun 2026 Wild Rice @ Funan In popular culture, queer women rarely get to take centre stage. They seldom headline blockbuster movies and they don’t star in breakout television shows like Drag Race or Queer Eye . Lesbian slang has not become part of everyday conversation, and it can be hard to name a lesbian anthem. Sometimes, mainstream media pretends that queer women just don’t exist. Girls Girls Girls is here to change all that. Based on interviews with diverse voices from this evolving community, ranging from baby dykes to queer elders, this verbatim theatre play shines a spotlight on the lives of queer women in Singapore. How do queer women define their culture? Is their supposed invisibility in public spaces an advantage or a drawback? How do queer women challenge the stereotypes that plague their community, and how do they find themselves and their chosen families in a conservative society? In conjunction with Pride Month, Wild Rice proudly presents this touching and illuminating tapestry of true stories – from a singer to a stand-up comedian, from a burlesque dancer to a Paralympian, from mothers who raise children to “aunties” who travel the globe. Girls Girls Girls is the myth-busting, soul-affirming oral history project that Singapore never knew it needed… until now. Duration: approximately 100 minutes (with no intermission) Rating: R18 Recommended for patrons aged 18 and above For visitor safety information, click here . SUPPORT GIRLS GIRLS GIRLS ! Like all LGBTQ+-themed productions in Singapore, this brand-new play receives no government funding or support. At Wild Rice, we depend on your generosity to tell these important stories with courage and care. To bring Girls Girls Girls to life, Wild Rice needs to raise $50,000 . If you believe in theatre that speaks to our shared humanity, please consider making a donation in support of this production. Every gift matters, and will go a long way in helping us to shine a spotlight on the lives of queer women in Singapore. As Wild Rice is a registered charity, donations of $50 and above entitle you to 250% tax deduction. If you have any questions or require more information, please get in touch with Sharon at development@wildrice.com.sg . Donate Here! /* widget: Event Content Tabs */ #uc_content_tabs_elementor_698fcd9.uc_bold_tabs{ text-align: left; } #uc_content_tabs_elementor_698fcd9.uc_bold_tabs ul { padding: 0px; border-radius: 0px; } #uc_content_tabs_elementor_698fcd9.uc_bold_tabs > ul > li { border: 1px solid #ff0000; } #uc_content_tabs_elementor_698fcd9.uc_bold_tabs ul li.r-tabs-state-default a, #uc_content_tabs_elementor_698fcd9 .r-tabs-accordion-title a{ color: #ff0000; background: rgba(255, 255, 255, 0); border-radius: 0px; } #uc_content_tabs_elementor_698fcd9.uc_bold_tabs ul li.r-tabs-state-default a:hover, #uc_content_tabs_elementor_698fcd9 .r-tabs-accordion-title a:hover{ background:#ff0000 !important; color:#ffffff !important; } #uc_content_tabs_elementor_698fcd9.uc_bold_tabs ul li.r-tabs-state-active a, #uc_content_tabs_elementor_698fcd9 .r-tabs-accordion-title.r-tabs-state-active a{ background:#ff0000 !important; color:#ffffff !important; border-radius: 0px; } #uc_content_tabs_elementor_698fcd9.uc_bold_tabs .tab-container{ padding: 0 20px !important; } #uc_content_tabs_elementor_698fcd9.uc_bold_tabs .panel-container{ margin-top: 50px !important; } .r-tabs-accordion-title .r-tabs-anchor { padding: 10px 20px !important; margin: 0 !important; } Ticketing Information Access Performances Talkbacks Cast CREATIVE TEAM Previews – Thu 11 Jun & Fri 12 Jun, 7:30pm $40, $50, $65, $75 Tue, Wed & Thu, 7:30pm $45, $55, $70, $80 Fri, 7:30pm / Sat, 2:30pm & 7:30pm / Sun, 1:30pm $50, $60, $75, $85 Wild Rice Angels enjoy priority access and 20% off Category 1 & 2",
+    "Artist": "unknown",
+    "Organizer": "WILD RICE",
+    "original price min": 40.0,
+    "Event introduction": "Skip to content Donate Donate What’s On Your Visit Getting Here Ticket Holder Privileges Accessibility Visitor Safety Information Getting Here.",
+    "First-Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
+    "Last-Day-Month-Year (day of the week)": "27-Jun-2026 (Saturday)",
+    "category": [
+      "Theatre"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "18-Jun-2026 (Thursday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
+        "hour: minute": "14:30",
+        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 14:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "25-Jun-2026 (Thursday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "25-Jun-2026 (Thursday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "26-Jun-2026 (Friday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "26-Jun-2026 (Friday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "27-Jun-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "27-Jun-2026 (Saturday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "WILD RICE",
+        "source url": "https://www.wildrice.com.sg/event/472273-girls-girls-girls/",
+        "ticket status": "True",
+        "ticket url": "https://www.wildrice.com.sg/event/472273-girls-girls-girls/",
+        "prince min": 40.0
       }
     ]
   },
   {
     "Event name": "The Cat in the Hat [G]",
     "Venue": "Victoria Theatre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "ABA Productions Pte Ltd",
-    "original price min": 42,
-    "Event introduction": "BELOVED BY CHILDREN AND PARENTS ALIKE!West End WilmaCHARMING…PLAYFUL…LOVELYThe StageExperience mischief and mayhem in this acclaimed stage adaptation of Dr Seuss’.",
+    "original price min": 42.0,
+    "Event introduction": "BELOVED BY CHILDREN AND PARENTS ALIKE!",
     "First-Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
+    "Last-Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
     "category": [
-      "Theatre",
-      "Family Entertainment",
-      "Children"
+      "Theatre"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jun-2026 (Thursday) 11:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "18-Jun-2026 (Thursday) unknown"
       },
       {
-        "Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jun-2026 (Thursday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
-        "hour: minute": "16:30",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jun-2026 (Thursday) 16:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-Jun-2026 (Thursday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jun-2026 (Thursday) 17:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
-        "hour: minute": "16:30",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) 16:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) 17:00"
+        "Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "21-Jun-2026 (Sunday) unknown"
       }
     ],
     "sources": [
@@ -13322,33 +6068,56 @@
         "source url": "https://www.sistic.com.sg/events/hat0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/hat0626",
-        "prince min": 42
+        "prince min": 42.0
+      }
+    ]
+  },
+  {
+    "Event name": "GRASSHOPPER THREE IN LOVE CONCERT 2026",
+    "Venue": "[GRASSHOPPER THREE IN LOVE CONCERT",
+    "Artist": "unknown",
+    "Organizer": "unknown",
+    "original price min": 0.0,
+    "Event introduction": "Celebrating 40 years, Grasshopper brings their “THREE IN LOVE CONCERT 2026” to Singapore Indoor Stadium on 20 June.",
+    "First-Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Singapore Sports Hub",
+        "source url": "https://www.sportshub.com.sg/events/grasshopper-three-love-concert-2026",
+        "ticket status": "True",
+        "ticket url": "https://www.sportshub.com.sg/events/grasshopper-three-love-concert-2026",
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Princes of the Night — Singapore Premiere",
     "Venue": "Capitol Theatre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Princes Global Events Pty Ltd",
-    "original price min": 88,
+    "original price min": 88.0,
     "Event introduction": "PRINCES OF THE NIGHT is Australia’s iconic live stage spectacular, delivering a high-energy, cinematic theatre experience across two immersive acts.",
-    "First-Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
+    "First-Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
     "category": [
-      "Dance",
-      "Modern/Contemporary"
+      "Dance"
     ],
     "showtimes": [
       {
-        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
+        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
         "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) 14:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) 20:00"
+        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 14:00"
       }
     ],
     "sources": [
@@ -13357,62 +6126,16 @@
         "source url": "https://www.sistic.com.sg/events/princes0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/princes0626",
-        "prince min": 88
-      }
-    ]
-  },
-  {
-    "Event name": "THE TRIALS",
-    "Venue": "20 Merbau Rd, Singapore 239035 — KC Arts Centre - Home of SRT",
-    "Artist": "",
-    "Organizer": "Singapore Repertory Theatre",
-    "original price min": 20,
-    "Event introduction": "A youth-led climate tribunal confronts responsibility, justice, and generational guilt in a near-future drama.",
-    "First-Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
-    "category": [
-      "Theatre"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "19-Jun-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jun-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "21-Jun-2026 (Sunday) 14:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "BookMyShow Singapore",
-        "source url": "https://bookmyshow.sg/en/events/the-trials/T3602026",
-        "ticket status": "True",
-        "ticket url": "https://bookmyshow.sg/en/events/the-trials/T3602026",
-        "prince min": 20
-      },
-      {
-        "source name": "Singapore Repertory Theatre",
-        "source url": "https://www.srt.com.sg/show/the-trials/",
-        "ticket status": "True",
-        "ticket url": "https://bookmyshow.sg/booking/T3602026/sessions",
-        "prince min": 20
+        "prince min": 88.0
       }
     ]
   },
   {
     "Event name": "《GRASSHOPPER THREE IN LOVE CONCERT 草蜢演唱会2026》- 新加坡站",
     "Venue": "Singapore Indoor Stadium",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Biz Trends",
-    "original price min": 98,
+    "original price min": 98.0,
     "Event introduction": "Celebrating four decades of music, legendary Cantopop trio Grasshopper marks their 40th anniversary with the spectacular “GRASSHOPPER THREE IN LOVE.",
     "First-Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
@@ -13424,6 +6147,11 @@
         "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) unknown"
       }
     ],
     "sources": [
@@ -13432,70 +6160,27 @@
         "source url": "https://www.sistic.com.sg/events/gh0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/gh0626",
-        "prince min": 98
-      }
-    ]
-  },
-  {
-    "Event name": "NMIXX 1ST WORLD TOUR <EPISODE 1: ZERO FRONTIER> IN SINGAPORE",
-    "Venue": "The Star Theatre",
-    "Artist": "",
-    "Organizer": "Unknown organizer",
-    "original price min": 1,
-    "Event introduction": "Rising K-pop girl group NMIXX is set to bring their highly anticipated first-ever world tour, “EPISODE 1: ZERO FRONTIER” to Singapore, marking a major milestone in the group’s global journey. As one of the most exciting new acts in K-pop, NMIXX continues to build unstoppable momentum, enthralling audiences worldwide with their signature sound and performance prowess.",
-    "First-Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
-    "category": [],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
-        "hour: minute": "17:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 17:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "The Star Performing Arts Centre",
-        "source url": "https://www.thestar.sg/events/nmixx-1st-world-tour-episode-1-zero-frontier-in-singapore",
-        "ticket status": "True",
-        "ticket url": "https://ticketmaster.sg/activity/detail/26sg_nmixx",
-        "prince min": 1
+        "prince min": 98.0
       }
     ]
   },
   {
     "Event name": "Pluck & Pizz: The Musical",
     "Venue": "University Cultural Centre Theatre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Rave.Harps",
-    "original price min": 58,
+    "original price min": 58.0,
     "Event introduction": "PLUCK & PIZZ is Singapore’s original harp musical — a magical family theatre experience where music quite literally becomes magic.",
-    "First-Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
+    "First-Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
     "category": [
-      "Musical",
-      "Western"
+      "Musical"
     ],
     "showtimes": [
       {
-        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
-        "hour: minute": "15:30",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 15:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
-        "hour: minute": "19:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 19:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jun-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jun-2026 (Saturday) 19:30"
+        "Day-Month-Year (day of the week)": "21-Jun-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "21-Jun-2026 (Sunday) unknown"
       }
     ],
     "sources": [
@@ -13504,22 +6189,21 @@
         "source url": "https://www.sistic.com.sg/events/pizz0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/pizz0626",
-        "prince min": 58
+        "prince min": 58.0
       }
     ]
   },
   {
-    "Event name": "The Royal Ballet in Rehearsal",
+    "Event name": "Esplanade Presents | da:ns focus - Ballet by the Bay The Royal Ballet in Rehearsal",
     "Venue": "Esplanade Recital Studio",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "The Esplanade Co Ltd",
-    "original price min": 40,
-    "Event introduction": "An exclusive behind-the-scenes experience where participants can witness the dedication, discipline and artistry that bring The Royal Ballet’s performances to life.",
+    "original price min": 40.0,
+    "Event introduction": "The Royal Ballet in Rehearsal is a well-loved audience engagement programme at the company’s home venue, the Royal Opera House.",
     "First-Day-Month-Year (day of the week)": "24-Jun-2026 (Wednesday)",
     "Last-Day-Month-Year (day of the week)": "24-Jun-2026 (Wednesday)",
     "category": [
-      "Dance",
-      "Ballet"
+      "Dance"
     ],
     "showtimes": [
       {
@@ -13530,27 +6214,49 @@
     ],
     "sources": [
       {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/series/dans-focus/events/the-royal-ballet-in-rehearsal",
-        "ticket status": "True",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/series/dans-focus/events/the-royal-ballet-in-rehearsal",
-        "prince min": 40
-      },
-      {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/rehearsal0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/rehearsal0626",
-        "prince min": 40
+        "prince min": 40.0
+      }
+    ]
+  },
+  {
+    "Event name": "SHINE! CONCERTO IN PERSPECTIVE V",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "JOYEUX MUSIC INTERNATIONAL",
+    "original price min": 28.0,
+    "Event introduction": "Shine!",
+    "First-Day-Month-Year (day of the week)": "24-Jun-2026 (Wednesday)",
+    "Last-Day-Month-Year (day of the week)": "24-Jun-2026 (Wednesday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "24-Jun-2026 (Wednesday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "24-Jun-2026 (Wednesday) 19:30"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/shine0626",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/shine0626",
+        "prince min": 28.0
       }
     ]
   },
   {
     "Event name": "Kumar Got Balls [Rating: TBA]",
     "Venue": "Sands Theatre, Marina Bay Sands",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "BASE Entertainment Asia",
-    "original price min": 68,
+    "original price min": 68.0,
     "Event introduction": "Kumar Got Balls is a no-holds-barred extravaganza that tackles life, love, and the beautiful game with the sharp tongue and.",
     "First-Day-Month-Year (day of the week)": "25-Jun-2026 (Thursday)",
     "Last-Day-Month-Year (day of the week)": "12-Jul-2026 (Sunday)",
@@ -13560,18 +6266,8 @@
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "25-Jun-2026 (Thursday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "25-Jun-2026 (Thursday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "25-Jun-2026 (Thursday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "25-Jun-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Jun-2026 (Friday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-Jun-2026 (Friday) 16:00"
       },
       {
         "Day-Month-Year (day of the week)": "26-Jun-2026 (Friday)",
@@ -13594,54 +6290,14 @@
         "Day-Month-Year (day of the week) hour: minute": "28-Jun-2026 (Sunday) 16:00"
       },
       {
-        "Day-Month-Year (day of the week)": "28-Jun-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-Jun-2026 (Sunday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Jun-2026 (Monday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-Jun-2026 (Monday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "29-Jun-2026 (Monday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "29-Jun-2026 (Monday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Jun-2026 (Tuesday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-Jun-2026 (Tuesday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "30-Jun-2026 (Tuesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "30-Jun-2026 (Tuesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "01-Jul-2026 (Wednesday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "01-Jul-2026 (Wednesday) 16:00"
-      },
-      {
         "Day-Month-Year (day of the week)": "01-Jul-2026 (Wednesday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "01-Jul-2026 (Wednesday) 20:00"
       },
       {
         "Day-Month-Year (day of the week)": "02-Jul-2026 (Thursday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "02-Jul-2026 (Thursday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "02-Jul-2026 (Thursday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "02-Jul-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "03-Jul-2026 (Friday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "03-Jul-2026 (Friday) 16:00"
       },
       {
         "Day-Month-Year (day of the week)": "03-Jul-2026 (Friday)",
@@ -13664,54 +6320,14 @@
         "Day-Month-Year (day of the week) hour: minute": "05-Jul-2026 (Sunday) 16:00"
       },
       {
-        "Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jul-2026 (Sunday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-Jul-2026 (Monday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jul-2026 (Monday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "06-Jul-2026 (Monday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "06-Jul-2026 (Monday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-Jul-2026 (Tuesday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-Jul-2026 (Tuesday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "07-Jul-2026 (Tuesday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "07-Jul-2026 (Tuesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "08-Jul-2026 (Wednesday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "08-Jul-2026 (Wednesday) 16:00"
-      },
-      {
         "Day-Month-Year (day of the week)": "08-Jul-2026 (Wednesday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "08-Jul-2026 (Wednesday) 20:00"
       },
       {
         "Day-Month-Year (day of the week)": "09-Jul-2026 (Thursday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "09-Jul-2026 (Thursday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "09-Jul-2026 (Thursday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "09-Jul-2026 (Thursday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-Jul-2026 (Friday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-Jul-2026 (Friday) 16:00"
       },
       {
         "Day-Month-Year (day of the week)": "10-Jul-2026 (Friday)",
@@ -13735,8 +6351,8 @@
       },
       {
         "Day-Month-Year (day of the week)": "12-Jul-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jul-2026 (Sunday) 20:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "12-Jul-2026 (Sunday) unknown"
       }
     ],
     "sources": [
@@ -13745,80 +6361,86 @@
         "source url": "https://www.marinabaysands.com/entertainment/shows/kumar-got-balls.html",
         "ticket status": "True",
         "ticket url": "https://www.marinabaysands.com/entertainment/shows/kumar-got-balls.html",
-        "prince min": 68
+        "prince min": 68.0
       },
       {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/kumar0726",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/kumar0726",
-        "prince min": 68
+        "prince min": 68.0
       }
     ]
   },
   {
-    "Event name": "The Royal Ballet Gala",
-    "Venue": "Esplanade Theatre",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 80,
-    "Event introduction": "After 21 years, one of the world’s greatest ballet companies returns to Singapore with The Royal Ballet Gala, featuring over 30 dancers from the company.",
+    "Event name": "David Chiang’s Violin Graduation Recital",
+    "Venue": "The Arts House at The Old Parliament",
+    "Artist": "unknown",
+    "Organizer": "David Chiang",
+    "original price min": 0.0,
+    "Event introduction": "Come celebrate David Chiang’s epic violin graduation recital live—pure talent you don’t wanna miss!",
     "First-Day-Month-Year (day of the week)": "26-Jun-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "28-Jun-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "26-Jun-2026 (Friday)",
     "category": [
-      "Dance",
-      "Ballet"
+      "unknown"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "26-Jun-2026 (Friday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-Jun-2026 (Friday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "26-Jun-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "26-Jun-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Jun-2026 (Saturday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-Jun-2026 (Saturday) 15:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Jun-2026 (Saturday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "27-Jun-2026 (Saturday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "28-Jun-2026 (Sunday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-Jun-2026 (Sunday) 15:00"
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "26-Jun-2026 (Friday) 19:30"
       }
     ],
     "sources": [
       {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/series/dans-focus/events/the-royal-ballet-gala",
-        "ticket status": "True",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/series/dans-focus/events/the-royal-ballet-gala",
-        "prince min": 68
+        "source name": "Eventbrite Singapore",
+        "source url": "https://www.eventbrite.sg/e/david-chiangs-violin-graduation-recital-tickets-1980462583901",
+        "ticket status": "False",
+        "ticket url": "https://www.eventbrite.sg/e/david-chiangs-violin-graduation-recital-tickets-1980462583901",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Esplanade Presents | da:ns focus - Ballet by the Bay The Royal Ballet Gala",
+    "Venue": "Esplanade Theatre",
+    "Artist": "unknown",
+    "Organizer": "The Esplanade Co Ltd",
+    "original price min": 80.0,
+    "Event introduction": "The wait is over!",
+    "First-Day-Month-Year (day of the week)": "26-Jun-2026 (Friday)",
+    "Last-Day-Month-Year (day of the week)": "28-Jun-2026 (Sunday)",
+    "category": [
+      "Dance"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "26-Jun-2026 (Friday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "26-Jun-2026 (Friday) unknown"
       },
+      {
+        "Day-Month-Year (day of the week)": "28-Jun-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "28-Jun-2026 (Sunday) unknown"
+      }
+    ],
+    "sources": [
       {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/ballet0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/ballet0626",
-        "prince min": 80
+        "prince min": 80.0
       }
     ]
   },
   {
     "Event name": "Victor Khor plays Chopin and Nier",
     "Venue": "Esplanade Recital Studio",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "VirtuoMusic",
-    "original price min": 35,
+    "original price min": 35.0,
     "Event introduction": "Renowned Singaporean concert pianist returns to the stage again with a daring program combining beloved piano masterworks by Chopin and.",
     "First-Day-Month-Year (day of the week)": "27-Jun-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "27-Jun-2026 (Saturday)",
@@ -13828,13 +6450,8 @@
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "27-Jun-2026 (Saturday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "27-Jun-2026 (Saturday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "27-Jun-2026 (Saturday)",
-        "hour: minute": "20:45",
-        "Day-Month-Year (day of the week) hour: minute": "27-Jun-2026 (Saturday) 20:45"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "27-Jun-2026 (Saturday) unknown"
       }
     ],
     "sources": [
@@ -13843,22 +6460,21 @@
         "source url": "https://www.sistic.com.sg/events/lite_victorkhorchopinier2026",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/lite_victorkhorchopinier2026",
-        "prince min": 35
+        "prince min": 35.0
       }
     ]
   },
   {
     "Event name": "WALI x UNGU : Satu Cinta, Seribu Doa",
     "Venue": "The Star Theatre, The Star Performing Arts Centre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "SAH Entertainment Pte Ltd",
-    "original price min": 88,
-    "Event introduction": "WALI x UNGU brings together two legendary bands in a powerful storytelling concert that celebrates the essence of Love and Prayer , two elements that define life itself.",
+    "original price min": 78.0,
+    "Event introduction": "WALI x UNGU brings together two legendary bands in a powerful storytelling concert that celebrates the essence of Love and.",
     "First-Day-Month-Year (day of the week)": "27-Jun-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "27-Jun-2026 (Saturday)",
     "category": [
-      "Concert",
-      "Pop-Asian"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -13873,58 +6489,28 @@
         "source url": "https://www.sistic.com.sg/events/waliungu0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/waliungu0626",
-        "prince min": 78
+        "prince min": 78.0
       },
       {
         "source name": "The Star Performing Arts Centre",
         "source url": "https://www.thestar.sg/events/wali-x-ungu-satu-cinta-seribu-doa",
         "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/waliungu0626",
-        "prince min": 78
-      }
-    ]
-  },
-  {
-    "Event name": "Masterclass with Ryoichi Hirano from The Royal Ballet",
-    "Venue": "Esplanade Rehearsal Studio",
-    "Artist": "",
-    "Organizer": "Esplanade Presents",
-    "original price min": 60,
-    "Event introduction": "A rare opportunity for ballet students to learn from one of The Royal Ballet’s Principal dancer, Ryoichi Hirano.",
-    "First-Day-Month-Year (day of the week)": "28-Jun-2026 (Sunday)",
-    "Last-Day-Month-Year (day of the week)": "28-Jun-2026 (Sunday)",
-    "category": [
-      "Dance,Masterclass"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "28-Jun-2026 (Sunday)",
-        "hour: minute": "10:00",
-        "Day-Month-Year (day of the week) hour: minute": "28-Jun-2026 (Sunday) 10:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Esplanade - Theatres on the Bay",
-        "source url": "https://www.esplanade.com/whats-on/festivals-and-series/series/dans-focus/events/masterclass-with-ryoichi-hirano-from-the-royal-ballet",
-        "ticket status": "False",
-        "ticket url": "https://www.esplanade.com/whats-on/festivals-and-series/series/dans-focus/events/masterclass-with-ryoichi-hirano-from-the-royal-ballet",
-        "prince min": 60
+        "ticket url": "https://www.thestar.sg/events/wali-x-ungu-satu-cinta-seribu-doa",
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "SUNGHA JUNG 2026 LIVE IN SINGAPORE",
     "Venue": "Victoria Concert Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Naga Guitar Studio Pte Ltd",
-    "original price min": 48,
+    "original price min": 48.0,
     "Event introduction": "\"Sungha Jung, International Finger-Style Artist, had finally returns with his New Album that going to release soon!",
     "First-Day-Month-Year (day of the week)": "28-Jun-2026 (Sunday)",
     "Last-Day-Month-Year (day of the week)": "28-Jun-2026 (Sunday)",
     "category": [
-      "Concert",
-      "Solo-Asian"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -13939,16 +6525,16 @@
         "source url": "https://www.sistic.com.sg/events/ha0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/ha0626",
-        "prince min": 48
+        "prince min": 48.0
       }
     ]
   },
   {
     "Event name": "Timeless Resonance: Jaap van Zweden & HIMARI",
     "Venue": "Esplanade Concert Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Evergreen Symphony Orchestra",
-    "original price min": 38,
+    "original price min": 38.0,
     "Event introduction": "The Evergreen Symphony Orchestra (ESO) is expanding its international presence this year with a grand tour to Singapore’s Esplanade.",
     "First-Day-Month-Year (day of the week)": "28-Jun-2026 (Sunday)",
     "Last-Day-Month-Year (day of the week)": "28-Jun-2026 (Sunday)",
@@ -13968,24 +6554,87 @@
         "source url": "https://www.sistic.com.sg/events/timeless0626",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/timeless0626",
-        "prince min": 38
+        "prince min": 38.0
+      }
+    ]
+  },
+  {
+    "Event name": "Friends Season Pass",
+    "Venue": "unknown",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra",
+    "original price min": 1.0,
+    "Event introduction": "Enjoy up to 25% savings on exciting subscription concerts, exclusive Meet-the-Artist opportunities and more.",
+    "First-Day-Month-Year (day of the week)": "30-Jun-2026 (Tuesday)",
+    "Last-Day-Month-Year (day of the week)": "30-Jun-2026 (Tuesday)",
+    "category": [
+      "Concert",
+      "Orchestra"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "30-Jun-2026 (Tuesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "30-Jun-2026 (Tuesday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Singapore Symphony Orchestra (SSO)",
+        "source url": "https://www.sso.org.sg/whats-on/friends-season-pass\\",
+        "ticket status": "False",
+        "ticket url": "https://www.sso.org.sg/whats-on/friends-season-pass\\",
+        "prince min": 1.0
+      }
+    ]
+  },
+  {
+    "Event name": "The Kid LAROI - A Perfect World Tour",
+    "Venue": "unknown",
+    "Artist": "unknown",
+    "Organizer": "Live Nation Singapore",
+    "original price min": 1.0,
+    "Event introduction": "Buy tickets for The Kid LAROI - A Perfect World Tour at Arena @ EXPO on Wed, 01 Jul 2026.",
+    "First-Day-Month-Year (day of the week)": "01-Jul-2026 (Wednesday)",
+    "Last-Day-Month-Year (day of the week)": "01-Jul-2026 (Wednesday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "01-Jul-2026 (Wednesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "01-Jul-2026 (Wednesday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Live Nation Singapore",
+        "source url": "https://www.livenation.sg/event/the-kid-laroi-a-perfect-world-tour-singapore-tickets-edp1665295",
+        "ticket status": "False",
+        "ticket url": "https://www.livenation.sg/event/the-kid-laroi-a-perfect-world-tour-singapore-tickets-edp1665295",
+        "prince min": 1.0
+      },
+      {
+        "source name": "Ticketmaster Singapore",
+        "source url": "https://ticketmaster.sg/activity/detail/26sg_kidlaroi",
+        "ticket status": "True",
+        "ticket url": "https://ticketmaster.sg/activity/detail/26sg_kidlaroi",
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Churen Li in Recital - Echoes and Refractions",
-    "Venue": "Play Den, The Arts House at the Old Parliament",
-    "Artist": "",
+    "Venue": "Play Den, The Arts House",
+    "Artist": "unknown",
     "Organizer": "Singapore Symphony Orchestra (SSO)",
-    "original price min": 48,
-    "Event introduction": "In this programme, I intersperse my own compositions with the classical works that inspired them. The sequence traces a personal lineage of sound—where…",
+    "original price min": 0.0,
+    "Event introduction": "In this programme, I intersperse my own compositions with the classical works that inspired them.",
     "First-Day-Month-Year (day of the week)": "02-Jul-2026 (Thursday)",
     "Last-Day-Month-Year (day of the week)": "02-Jul-2026 (Thursday)",
     "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -13996,35 +6645,25 @@
     ],
     "sources": [
       {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/churen-li",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/EXT2627-7",
-        "prince min": 48
-      },
-      {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/EXT2627-7",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/EXT2627-7",
-        "prince min": 48
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Conrad Tao in Recital - Emigrés and Friends",
     "Venue": "Victoria Concert Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Singapore Symphony Orchestra (SSO)",
-    "original price min": 28,
-    "Event introduction": "With this program, I was thinking about \"American music\", how influences from European émigrés and Black traditions were instrumental to forming multiple…",
+    "original price min": 28.0,
+    "Event introduction": "With this program, I was thinking about \"American music\", how influences from European émigrés and Black traditions were instrumental to.",
     "First-Day-Month-Year (day of the week)": "02-Jul-2026 (Thursday)",
     "Last-Day-Month-Year (day of the week)": "02-Jul-2026 (Thursday)",
     "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -14034,36 +6673,73 @@
       }
     ],
     "sources": [
-      {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/conrad-tao",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/EXT2627-3",
-        "prince min": 28
-      },
       {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/EXT2627-3",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/EXT2627-3",
-        "prince min": 28
+        "prince min": 28.0
       }
     ]
   },
   {
-    "Event name": "TwoSet Violin × SSO: Sacrilegious Games",
-    "Venue": "Esplanade Concert Hall",
-    "Artist": "",
+    "Event name": "SNYS In Concert: Tchaikovsky Symphony…",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
     "Organizer": "Singapore Symphony Orchestra",
-    "original price min": 98,
-    "Event introduction": "With a mission to ignite a new generation’s love for classical music, TwoSet Violin has emerged as one of the world’s most influential musical voices of…",
+    "original price min": 15.0,
+    "Event introduction": "The Singapore National Youth Sinfonia and Associate Conductor Seow Yibin present a colourful programme of magic and myth, folklore and.",
+    "First-Day-Month-Year (day of the week)": "02-Jul-2026 (Thursday)",
+    "Last-Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
+    "category": [
+      "Concert",
+      "Orchestra"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "02-Jul-2026 (Thursday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "02-Jul-2026 (Thursday) 19:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "03-Jul-2026 (Friday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "03-Jul-2026 (Friday) 19:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "05-Jul-2026 (Sunday) 19:30"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Singapore Symphony Orchestra (SSO)",
+        "source url": "https://www.sso.org.sg/whats-on/snys-in-concert-tchaikovsky-symphony-no-2",
+        "ticket status": "True",
+        "ticket url": "https://www.sso.org.sg/whats-on/snys-in-concert-tchaikovsky-symphony-no-2",
+        "prince min": 15.0
+      },
+      {
+        "source name": "Singapore Symphony Orchestra (SSO)",
+        "source url": "https://www.sso.org.sg/whats-on/snys-in-concert-tchaikovsky-symphony-no-2\\",
+        "ticket status": "True",
+        "ticket url": "https://www.sso.org.sg/whats-on/snys-in-concert-tchaikovsky-symphony-no-2\\",
+        "prince min": 15.0
+      }
+    ]
+  },
+  {
+    "Event name": "SSO Pops: TwoSet Violin × SSO: Sacrilegious Games",
+    "Venue": "Esplanade Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra (SSO)",
+    "original price min": 98.0,
+    "Event introduction": "With a mission to ignite a new generation’s love for classical music, TwoSet Violin has emerged as one of the.",
     "First-Day-Month-Year (day of the week)": "02-Jul-2026 (Thursday)",
     "Last-Day-Month-Year (day of the week)": "03-Jul-2026 (Friday)",
     "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -14079,35 +6755,25 @@
     ],
     "sources": [
       {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/twoset-violin-singapore-sacrilegious-games",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/646SOT2627-1a",
-        "prince min": 98
-      },
-      {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/SOT2627-1a",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/SOT2627-1a",
-        "prince min": 98
+        "prince min": 98.0
       }
     ]
   },
   {
-    "Event name": "Hyung-ki Joo in Recital - Dreams and Nightmares",
+    "Event name": "Hyung-Ki Joo in Recital - Dreams and Nightmares",
     "Venue": "Victoria Concert Hall",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Singapore Symphony Orchestra (SSO)",
-    "original price min": 28,
-    "Event introduction": "This programme unfolds along the fragile line between dream and nightmare, vision and reflection, shaped by music rooted in childhood across generations.…",
+    "original price min": 28.0,
+    "Event introduction": "This programme unfolds along the fragile line between dream and nightmare, vision and reflection, shaped by music rooted in childhood.",
     "First-Day-Month-Year (day of the week)": "03-Jul-2026 (Friday)",
     "Last-Day-Month-Year (day of the week)": "03-Jul-2026 (Friday)",
     "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -14118,35 +6784,25 @@
     ],
     "sources": [
       {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/hyung-ki-joo",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/EXT2627-4a",
-        "prince min": 28
-      },
-      {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/EXT2627-4a",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/EXT2627-4a",
-        "prince min": 28
+        "prince min": 28.0
       }
     ]
   },
   {
     "Event name": "Jonathan Shin in Recital - Restless Natures",
-    "Venue": "Play Den, The Arts House at the Old Parliament",
-    "Artist": "",
+    "Venue": "Play Den, The Arts House",
+    "Artist": "unknown",
     "Organizer": "Singapore Symphony Orchestra (SSO)",
-    "original price min": 48,
-    "Event introduction": "We bemoan, we dream, we fantasize… Restless Natures is an ode to how composers perceive the world and the fuzzy ways we preserve these perceptions.…",
+    "original price min": 0.0,
+    "Event introduction": "We bemoan, we dream, we fantasize… Restless Natures is an ode to how composers perceive the world and the fuzzy.",
     "First-Day-Month-Year (day of the week)": "03-Jul-2026 (Friday)",
     "Last-Day-Month-Year (day of the week)": "03-Jul-2026 (Friday)",
     "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -14157,230 +6813,32 @@
     ],
     "sources": [
       {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/jonathan-shin",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/EXT2627-8",
-        "prince min": 48
-      },
-      {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/EXT2627-8",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/EXT2627-8",
-        "prince min": 48
-      }
-    ]
-  },
-  {
-    "Event name": "\"Creative Pianism\" - Talk by Hyung-ki Joo",
-    "Venue": "Victoria Concert Hall Dance Studio (Level 3)",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra (SSO)",
-    "original price min": 20,
-    "Event introduction": "Creativity is a vital spark that makes the performing arts come alive, and yet it seems that the way in which we learn and perform music nowadays is the…",
-    "First-Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
-    "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
-        "hour: minute": "18:30",
-        "Day-Month-Year (day of the week) hour: minute": "04-Jul-2026 (Saturday) 18:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/talk-hyung-ki-joo",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/EXT2627-4b",
-        "prince min": 20
-      },
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/EXT2627-4b",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/EXT2627-4b",
-        "prince min": 20
-      }
-    ]
-  },
-  {
-    "Event name": "Improvisation Workshop with Sean Chen",
-    "Venue": "Victoria Concert Hall Dance Studio (Level 3)",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra (SSO)",
-    "original price min": 20,
-    "Event introduction": "Improvisation used to be an established tradition in the life of a pianist and composer from the 17th century up until the early 20th century, with…",
-    "First-Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
-    "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
-        "hour: minute": "12:30",
-        "Day-Month-Year (day of the week) hour: minute": "04-Jul-2026 (Saturday) 12:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/improvisation-workshop-sean-chen",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/EXT2627-5b",
-        "prince min": 20
-      },
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/EXT2627-5b",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/EXT2627-5b",
-        "prince min": 20
-      }
-    ]
-  },
-  {
-    "Event name": "Masterclass with Jon Kimura Parker",
-    "Venue": "Victoria Concert Hall Dance Studio (Level 3)",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra (SSO)",
-    "original price min": 20,
-    "Event introduction": "A winner of the Leeds International Piano Competition, Canadian pianist Jon Kimura Parker is a veteran of the international concert stage, having…",
-    "First-Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
-    "Last-Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
-    "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "04-Jul-2026 (Saturday) 15:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/masterclass-jon-kimura-parker",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/EXT2627-6b",
-        "prince min": 20
-      },
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/EXT2627-6b",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/EXT2627-6b",
-        "prince min": 20
-      }
-    ]
-  },
-  {
-    "Event name": "Jon Kimura Parker in Recital - Structure and Spontaneity",
-    "Venue": "Victoria Concert Hall",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra (SSO)",
-    "original price min": 28,
-    "Event introduction": "Two pillars of classical structure are represented by Mozart and Beethoven. Despite their similarity in form, and their having been written less than 30…",
-    "First-Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
-    "Last-Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
-    "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jul-2026 (Sunday) 19:30"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/jon-kimura-parker",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/EXT2627-6a",
-        "prince min": 28
-      },
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/EXT2627-6a",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/EXT2627-6a",
-        "prince min": 28
-      }
-    ]
-  },
-  {
-    "Event name": "Sean Chen in Recital - Music and Magic",
-    "Venue": "Victoria Concert Hall",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra (SSO)",
-    "original price min": 28,
-    "Event introduction": "What excites me as a pianist is when I hear things in a new light, or see composers transform other material into something imaginative and fantastical.…",
-    "First-Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
-    "Last-Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
-    "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
-        "hour: minute": "15:00",
-        "Day-Month-Year (day of the week) hour: minute": "05-Jul-2026 (Sunday) 15:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/sean-chen",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/EXT2627-5a",
-        "prince min": 28
-      },
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/EXT2627-5a",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/EXT2627-5a",
-        "prince min": 28
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Xinyao 44th Reunion Concert",
     "Venue": "Singapore Indoor Stadium",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "TCR Music Station",
-    "original price min": 50,
+    "original price min": 50.0,
     "Event introduction": "The largest Xinyao concert of the year presented and organised by TCR Music Station is here!",
-    "First-Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
+    "First-Day-Month-Year (day of the week)": "03-Jul-2026 (Friday)",
     "Last-Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
     "category": [
-      "Concert",
-      "Evergreen-Asian"
+      "Concert"
     ],
     "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "03-Jul-2026 (Friday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "03-Jul-2026 (Friday) unknown"
+      },
       {
         "Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
         "hour: minute": "15:00",
@@ -14393,77 +6851,236 @@
         "source url": "https://www.sistic.com.sg/events/xinyao0726",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/xinyao0726",
-        "prince min": 50
+        "prince min": 50.0
+      },
+      {
+        "source name": "Singapore Sports Hub",
+        "source url": "https://www.sportshub.com.sg/events/xinyao-44th-reunion-concert",
+        "ticket status": "True",
+        "ticket url": "https://www.sportshub.com.sg/events/xinyao-44th-reunion-concert",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "\"Creative Pianism\" - Talk by Hyung-Ki Joo",
+    "Venue": "Victoria Concert Hall Dance Studio",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra (SSO)",
+    "original price min": 0.0,
+    "Event introduction": "Creativity is a vital spark that makes the performing arts come alive, and yet it seems that the way in.",
+    "First-Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
+        "hour: minute": "18:30",
+        "Day-Month-Year (day of the week) hour: minute": "04-Jul-2026 (Saturday) 18:30"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/EXT2627-4b",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/EXT2627-4b",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Improvisation Workshop with Sean Chen",
+    "Venue": "Victoria Concert Hall Dance Studio",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra (SSO)",
+    "original price min": 0.0,
+    "Event introduction": "Improvisation used to be an established tradition in the life of a pianist and composer from the 17th century up.",
+    "First-Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
+        "hour: minute": "12:30",
+        "Day-Month-Year (day of the week) hour: minute": "04-Jul-2026 (Saturday) 12:30"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/EXT2627-5b",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/EXT2627-5b",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Masterclass with Jon Kimura Parker",
+    "Venue": "Victoria Concert Hall Dance Studio",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra (SSO)",
+    "original price min": 0.0,
+    "Event introduction": "A winner of the Leeds International Piano Competition, Canadian pianist Jon Kimura Parker is a veteran of the international concert.",
+    "First-Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "04-Jul-2026 (Saturday)",
+        "hour: minute": "15:00",
+        "Day-Month-Year (day of the week) hour: minute": "04-Jul-2026 (Saturday) 15:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/EXT2627-6b",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/EXT2627-6b",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Jon Kimura Parker in Recital - Structure and Spontaneity",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra (SSO)",
+    "original price min": 28.0,
+    "Event introduction": "Two pillars of classical structure are represented by Mozart and Beethoven.",
+    "First-Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "05-Jul-2026 (Sunday) 19:30"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/EXT2627-6a",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/EXT2627-6a",
+        "prince min": 28.0
+      }
+    ]
+  },
+  {
+    "Event name": "Sean Chen in Recital - Music and Magic",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra (SSO)",
+    "original price min": 28.0,
+    "Event introduction": "What excites me as a pianist is when I hear things in a new light, or see composers transform other.",
+    "First-Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "05-Jul-2026 (Sunday)",
+        "hour: minute": "15:00",
+        "Day-Month-Year (day of the week) hour: minute": "05-Jul-2026 (Sunday) 15:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/EXT2627-5a",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/EXT2627-5a",
+        "prince min": 28.0
+      }
+    ]
+  },
+  {
+    "Event name": "Brian Mcknight - A Symphony of Love",
+    "Venue": "The Star Theatre, The Star Performing Arts Centre",
+    "Artist": "unknown",
+    "Organizer": "MEG Entertainment",
+    "original price min": 88.0,
+    "Event introduction": "Brian McKnight - A Symphony of Love Get ready for an unforgettable night with Brian McKnight, the legendary R&B singer-songwriter.",
+    "First-Day-Month-Year (day of the week)": "08-Jul-2026 (Wednesday)",
+    "Last-Day-Month-Year (day of the week)": "08-Jul-2026 (Wednesday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "08-Jul-2026 (Wednesday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "08-Jul-2026 (Wednesday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "08-Jul-2026 (Wednesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "08-Jul-2026 (Wednesday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/brian0726",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/brian0726",
+        "prince min": 88.0
       }
     ]
   },
   {
     "Event name": "Gil Shaham & Akira Eguchi in Recital: Beethoven Violin Sonatas",
     "Venue": "Victoria Concert Hall",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra",
-    "original price min": 20,
-    "Event introduction": "Ahead of the 200th anniversary of Beethoven in 2027, the acclaimed pair of violinist Gil Shaham and pianist Akira Eguchi perform all ten of the composer’s…",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra (SSO)",
+    "original price min": 20.0,
+    "Event introduction": "Ahead of the 200th anniversary of Beethoven in 2027, the acclaimed pair of violinist Gil Shaham and pianist Akira Eguchi.",
     "First-Day-Month-Year (day of the week)": "10-Jul-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "12-Jul-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "10-Jul-2026 (Friday)",
     "category": [
-      "Concert",
-      "Orchestra",
-      "Music",
-      "Classical"
+      "Concert"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "10-Jul-2026 (Friday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "10-Jul-2026 (Friday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "10-Jul-2026 (Friday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "10-Jul-2026 (Friday) 19:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "11-Jul-2026 (Saturday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "11-Jul-2026 (Saturday) 16:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "12-Jul-2026 (Sunday)",
-        "hour: minute": "16:00",
-        "Day-Month-Year (day of the week) hour: minute": "12-Jul-2026 (Sunday) 16:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "10-Jul-2026 (Friday) unknown"
       }
     ],
     "sources": [
-      {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/beethoven-violin-sonatas-11-july-spring",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/SOT2628-1a",
-        "prince min": 20
-      },
       {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/SOT2628-1a",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/SOT2628-1a",
-        "prince min": 20
+        "prince min": 20.0
       }
     ]
   },
   {
     "Event name": "SM Classics Live in Singapore 2026",
     "Venue": "Esplanade Theatre",
-    "Artist": "Wendy",
+    "Artist": "unknown",
     "Organizer": "Singapore Street Festival Limited",
-    "original price min": 78,
-    "Event introduction": "🎼✨ The world’s first K-POP Orchestra Concert‘SM CLASSICS LIVE’ A new definition of sound by SM Entertainmentbringing K-POP to life.",
+    "original price min": 78.0,
+    "Event introduction": "🎼✨ The world’s first K-POP Orchestra Concert ‘SM CLASSICS LIVE’ A new definition of sound by SM Entertainment bringing K-POP.",
     "First-Day-Month-Year (day of the week)": "10-Jul-2026 (Friday)",
     "Last-Day-Month-Year (day of the week)": "10-Jul-2026 (Friday)",
     "category": [
-      "Concert",
-      "K-pop",
-      "Orchestral"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -14476,24 +7093,23 @@
       {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/smclassics0726",
-        "ticket status": "Unknown",
+        "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/smclassics0726",
-        "prince min": 78
+        "prince min": 78.0
       }
     ]
   },
   {
     "Event name": "Pradeep Kumar Unplugged",
     "Venue": "The Star Theatre, The Star Performing Arts Centre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "1ST BENCH PRODUCTIONS",
-    "original price min": 80,
-    "Event introduction": "Pradeep Kumar Unplugged is an intimate live concert experience that brings audiences closer to one of Tamil music’s most soul-stirring voices. Stripped of heavy production and powered by pure musicianship, this unplugged format highlights the raw emotion, lyrical depth, and haunting melodies that define Pradeep Kumar’s artistry.",
+    "original price min": 90.0,
+    "Event introduction": "Pradeep Kumar Unplugged is an intimate live concert experience that brings audiences closer to one of Tamil music’s most soul-stirring.",
     "First-Day-Month-Year (day of the week)": "11-Jul-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "11-Jul-2026 (Saturday)",
     "category": [
-      "Concert",
-      "Indian"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -14508,30 +7124,28 @@
         "source url": "https://www.sistic.com.sg/events/pradeep0726",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/pradeep0726",
-        "prince min": 90
+        "prince min": 90.0
       },
       {
         "source name": "The Star Performing Arts Centre",
         "source url": "https://www.thestar.sg/events/pradeep-kumar-unplugged",
         "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/pradeep0726",
-        "prince min": 80
+        "ticket url": "https://www.thestar.sg/events/pradeep-kumar-unplugged",
+        "prince min": 0.0
       }
     ]
   },
   {
-    "Event name": "Stella Chang [TimeLESS Concert 2026] 張清芳〖TimeLESS演唱會〗 花見 - 新加坡站",
-    "Venue": "Resorts World Ballroom, Resorts World Convention Centre®",
-    "Artist": "Stella Chang",
-    "Organizer": "Biz Trends",
-    "original price min": 88,
-    "Event introduction": "Mandopop icon Stella Chang, hailed as the “Invincible Diva,” brings her TimeLESS Concert – Hua Jian (Singapore) to Resorts World.",
+    "Event name": "Stella Chang [TimeLESS concert 2026] 张清芳〖TimeLESS 演唱会〗 花见 - 新加坡站",
+    "Venue": "Resorts World Ballroom",
+    "Artist": "unknown",
+    "Organizer": "unknown",
+    "original price min": 88.0,
+    "Event introduction": "Stella Chang performs a curated Singapore edition of her TimeLESS concert.",
     "First-Day-Month-Year (day of the week)": "11-Jul-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "11-Jul-2026 (Saturday)",
     "category": [
-      "Concert",
-      "Pop-Asian",
-      "Mandopop"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -14542,58 +7156,84 @@
     ],
     "sources": [
       {
-        "source name": "BookMyShow Singapore",
-        "source url": "https://bookmyshow.sg/en/events/stella-chang-timeless-concert-2026-zhang-qing-fang-timeless-yan-chang-hui-hua-jian-xin-jia-po-zhan/STELLA26",
+        "source name": "Ticketmaster Singapore",
+        "source url": "https://ticketmaster.sg/activity/detail/26sg_stellachang",
         "ticket status": "True",
-        "ticket url": "https://bookmyshow.sg/en/events/stella-chang-timeless-concert-2026-zhang-qing-fang-timeless-yan-chang-hui-hua-jian-xin-jia-po-zhan/STELLA26",
-        "prince min": 88
-      },
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/stella0726",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/stella0726",
-        "prince min": 88
+        "ticket url": "https://ticketmaster.sg/activity/detail/26sg_stellachang",
+        "prince min": 88.0
       }
     ]
   },
   {
-    "Event name": "​​​​​​​Esplanade Presents | Mosaic Music Series MONO",
-    "Venue": "Esplanade Annexe Studio",
-    "Artist": "",
-    "Organizer": "The Esplanade Co Ltd",
-    "original price min": 75,
-    "Event introduction": "Japanese post-rock titans MONO have nothing left to prove—after 26 years as a band, they have released more than a.",
-    "First-Day-Month-Year (day of the week)": "14-Jul-2026 (Tuesday)",
-    "Last-Day-Month-Year (day of the week)": "14-Jul-2026 (Tuesday)",
+    "Event name": "Stella Chang [TimeLESS Concert 2026] 張清芳【TimeLESS演唱會】 花見 - 新加坡站",
+    "Venue": "Resorts World Ballroom, Resorts World Convention Centre®",
+    "Artist": "unknown",
+    "Organizer": "Biz Trends",
+    "original price min": 88.0,
+    "Event introduction": "Mandopop icon Stella Chang, hailed as the “Invincible Diva,” brings her TimeLESS Concert – Hua Jian (Singapore) to Resorts World.",
+    "First-Day-Month-Year (day of the week)": "11-Jul-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "11-Jul-2026 (Saturday)",
     "category": [
-      "Concert",
-      "Instrumental/New Age/World music"
+      "Concert"
     ],
     "showtimes": [
       {
-        "Day-Month-Year (day of the week)": "14-Jul-2026 (Tuesday)",
+        "Day-Month-Year (day of the week)": "11-Jul-2026 (Saturday)",
         "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "14-Jul-2026 (Tuesday) 20:00"
+        "Day-Month-Year (day of the week) hour: minute": "11-Jul-2026 (Saturday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "11-Jul-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "11-Jul-2026 (Saturday) unknown"
       }
     ],
     "sources": [
       {
         "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/mono0726",
+        "source url": "https://www.sistic.com.sg/events/stella0726",
         "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/mono0726",
-        "prince min": 75
+        "ticket url": "https://www.sistic.com.sg/events/stella0726",
+        "prince min": 88.0
+      }
+    ]
+  },
+  {
+    "Event name": "Yomii Piano Tour Asia Singapore 2026",
+    "Venue": "SCO Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Melrose Production, Seimpi School of Music LLP",
+    "original price min": 68.0,
+    "Event introduction": "“Anime, Vocaloid & Pop Hits — All Reimagined Live in One Night.” Experience an unforgettable night of modern piano artistry.",
+    "First-Day-Month-Year (day of the week)": "11-Jul-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "11-Jul-2026 (Saturday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "11-Jul-2026 (Saturday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "11-Jul-2026 (Saturday) 19:30"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/ypiano0726",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/ypiano0726",
+        "prince min": 68.0
       }
     ]
   },
   {
     "Event name": "The Neighbourhood - THE WOURLD TOUR",
     "Venue": "The Star Theatre, The Star Performing Arts Centre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Now/Live Pte Ltd",
-    "original price min": 88,
-    "Event introduction": "The Neighbourhood are a California-based alternative rock band comprised of Jesse Rutherford, Zach Abels, Brandon Fried, Jeremy Freeman, and Mikey Margott. Known for their genre-blending sound and moody aesthetic, the band formed in 2011 and broke through in 2013 with their double-Platinum debut album I Love You. The album features the multi-platinum hit \"Sweater Weather,\" which reached No. 1 on Billboard’s Alternative chart.",
+    "original price min": 88.0,
+    "Event introduction": "The Neighbourhood are a California-based alternative rock band comprised of Jesse Rutherford, Zach Abels, Brandon Fried, Jeremy Freeman, and Mikey.",
     "First-Day-Month-Year (day of the week)": "14-Jul-2026 (Tuesday)",
     "Last-Day-Month-Year (day of the week)": "14-Jul-2026 (Tuesday)",
     "category": [
@@ -14604,6 +7244,11 @@
         "Day-Month-Year (day of the week)": "14-Jul-2026 (Tuesday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "14-Jul-2026 (Tuesday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "14-Jul-2026 (Tuesday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "14-Jul-2026 (Tuesday) unknown"
       }
     ],
     "sources": [
@@ -14612,56 +7257,35 @@
         "source url": "https://www.sistic.com.sg/events/hood0726",
         "ticket status": "False",
         "ticket url": "https://www.sistic.com.sg/events/hood0726",
-        "prince min": 88
+        "prince min": 88.0
       },
       {
         "source name": "The Star Performing Arts Centre",
         "source url": "https://www.thestar.sg/events/the-neighbourhood-the-wourld-tour",
         "ticket status": "True",
-        "ticket url": "https://sistic.com.sg/events/hood0726",
-        "prince min": 88
+        "ticket url": "https://www.thestar.sg/events/the-neighbourhood-the-wourld-tour",
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Slava's Snowshow [G]",
     "Venue": "Sands Theatre, Marina Bay Sands",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "BASE Entertainment Asia",
-    "original price min": 78,
-    "Event introduction": "Created by Slava Polunin, cited by The London Times as “The Greatest Clown in the World,” Slava’s Snowshow is the winner of the Laurence Olivier Award for Best Entertainment (1998) and a Tony Award nominee for Special Theatrical Event (2009).",
+    "original price min": 88.0,
+    "Event introduction": "Created by Slava Polunin, cited by The London Times as “The Greatest Clown in the World,” Slava’s Snowshow is the.",
     "First-Day-Month-Year (day of the week)": "15-Jul-2026 (Wednesday)",
-    "Last-Day-Month-Year (day of the week)": "22-Jul-2026 (Wednesday)",
+    "Last-Day-Month-Year (day of the week)": "26-Jul-2026 (Sunday)",
     "category": [
       "Family",
-      "Entertainment",
       "Family Entertainment"
     ],
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "15-Jul-2026 (Wednesday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-Jul-2026 (Wednesday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-Jul-2026 (Wednesday)",
-        "hour: minute": "15:30",
-        "Day-Month-Year (day of the week) hour: minute": "15-Jul-2026 (Wednesday) 15:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "15-Jul-2026 (Wednesday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "15-Jul-2026 (Wednesday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-Jul-2026 (Thursday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-Jul-2026 (Thursday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "16-Jul-2026 (Thursday)",
-        "hour: minute": "15:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-Jul-2026 (Thursday) 15:30"
       },
       {
         "Day-Month-Year (day of the week)": "16-Jul-2026 (Thursday)",
@@ -14670,23 +7294,8 @@
       },
       {
         "Day-Month-Year (day of the week)": "17-Jul-2026 (Friday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "17-Jul-2026 (Friday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-Jul-2026 (Friday)",
-        "hour: minute": "15:30",
-        "Day-Month-Year (day of the week) hour: minute": "17-Jul-2026 (Friday) 15:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "17-Jul-2026 (Friday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "17-Jul-2026 (Friday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "18-Jul-2026 (Saturday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "18-Jul-2026 (Saturday) 11:30"
       },
       {
         "Day-Month-Year (day of the week)": "18-Jul-2026 (Saturday)",
@@ -14709,54 +7318,49 @@
         "Day-Month-Year (day of the week) hour: minute": "19-Jul-2026 (Sunday) 15:30"
       },
       {
-        "Day-Month-Year (day of the week)": "19-Jul-2026 (Sunday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "19-Jul-2026 (Sunday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jul-2026 (Monday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jul-2026 (Monday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jul-2026 (Monday)",
-        "hour: minute": "15:30",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jul-2026 (Monday) 15:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "20-Jul-2026 (Monday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "20-Jul-2026 (Monday) 20:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-Jul-2026 (Tuesday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "21-Jul-2026 (Tuesday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "21-Jul-2026 (Tuesday)",
-        "hour: minute": "15:30",
-        "Day-Month-Year (day of the week) hour: minute": "21-Jul-2026 (Tuesday) 15:30"
-      },
-      {
         "Day-Month-Year (day of the week)": "21-Jul-2026 (Tuesday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "21-Jul-2026 (Tuesday) 20:00"
       },
       {
         "Day-Month-Year (day of the week)": "22-Jul-2026 (Wednesday)",
-        "hour: minute": "11:30",
-        "Day-Month-Year (day of the week) hour: minute": "22-Jul-2026 (Wednesday) 11:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-Jul-2026 (Wednesday)",
-        "hour: minute": "15:30",
-        "Day-Month-Year (day of the week) hour: minute": "22-Jul-2026 (Wednesday) 15:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-Jul-2026 (Wednesday)",
         "hour: minute": "20:00",
         "Day-Month-Year (day of the week) hour: minute": "22-Jul-2026 (Wednesday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "23-Jul-2026 (Thursday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "23-Jul-2026 (Thursday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "24-Jul-2026 (Friday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "24-Jul-2026 (Friday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "25-Jul-2026 (Saturday)",
+        "hour: minute": "15:30",
+        "Day-Month-Year (day of the week) hour: minute": "25-Jul-2026 (Saturday) 15:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "25-Jul-2026 (Saturday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "25-Jul-2026 (Saturday) 20:00"
+      },
+      {
+        "Day-Month-Year (day of the week)": "26-Jul-2026 (Sunday)",
+        "hour: minute": "11:30",
+        "Day-Month-Year (day of the week) hour: minute": "26-Jul-2026 (Sunday) 11:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "26-Jul-2026 (Sunday)",
+        "hour: minute": "15:30",
+        "Day-Month-Year (day of the week) hour: minute": "26-Jul-2026 (Sunday) 15:30"
+      },
+      {
+        "Day-Month-Year (day of the week)": "26-Jul-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "26-Jul-2026 (Sunday) unknown"
       }
     ],
     "sources": [
@@ -14765,29 +7369,28 @@
         "source url": "https://www.marinabaysands.com/entertainment/shows/slavas-snowshow.html",
         "ticket status": "True",
         "ticket url": "https://www.marinabaysands.com/entertainment/shows/slavas-snowshow.html",
-        "prince min": 78
+        "prince min": 88.0
       },
       {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/slava0826",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/slava0826",
-        "prince min": 88
+        "prince min": 88.0
       }
     ]
   },
   {
     "Event name": "Esplanade Presents | Mosaic Music Series Altın Gün",
     "Venue": "Esplanade Annexe Studio",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "The Esplanade Co Ltd",
-    "original price min": 60,
-    "Event introduction": "Since bursting onto the scene in 2018 with their debut album, On, Amsterdam-based Altın Gün have been at the vanguard.",
+    "original price min": 60.0,
+    "Event introduction": "Since bursting onto the scene in 2018 with their debut album, On , Amsterdam-based Altın Gün have been at the.",
     "First-Day-Month-Year (day of the week)": "16-Jul-2026 (Thursday)",
     "Last-Day-Month-Year (day of the week)": "16-Jul-2026 (Thursday)",
     "category": [
-      "Concert",
-      "Pop-Western"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -14802,55 +7405,57 @@
         "source url": "https://www.sistic.com.sg/events/altin0726",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/altin0726",
-        "prince min": 60
+        "prince min": 60.0
       }
     ]
   },
   {
-    "Event name": "Plini - Live in Singapore",
-    "Venue": "*SCAPE Ground Theatre",
-    "Artist": "Plini",
-    "Organizer": "Asymmetry",
-    "original price min": 88,
-    "Event introduction": "Australian guitar virtuoso Plini returns with intricate instrumental rock and a full live band.",
-    "First-Day-Month-Year (day of the week)": "16-Jul-2026 (Thursday)",
-    "Last-Day-Month-Year (day of the week)": "16-Jul-2026 (Thursday)",
+    "Event name": "Mika Nakashima Asia Tour 2026 in Singapore",
+    "Venue": "The Star Theatre, The Star Performing Arts Centre",
+    "Artist": "unknown",
+    "Organizer": "FANMEETING / RED SPADE",
+    "original price min": 128.0,
+    "Event introduction": "Mika Nakashima 2026 Asia Tour Confirmed!",
+    "First-Day-Month-Year (day of the week)": "17-Jul-2026 (Friday)",
+    "Last-Day-Month-Year (day of the week)": "17-Jul-2026 (Friday)",
     "category": [
-      "Concert",
-      "Instrumental Rock",
-      "Progressive Rock"
+      "Concert"
     ],
     "showtimes": [
       {
-        "Day-Month-Year (day of the week)": "16-Jul-2026 (Thursday)",
-        "hour: minute": "19:30",
-        "Day-Month-Year (day of the week) hour: minute": "16-Jul-2026 (Thursday) 19:30"
+        "Day-Month-Year (day of the week)": "17-Jul-2026 (Friday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "17-Jul-2026 (Friday) 20:00"
       }
     ],
     "sources": [
       {
-        "source name": "Eventbrite Singapore",
-        "source url": "https://www.eventbrite.sg/e/plini-live-in-singapore-tickets-1985384768287",
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/mika0726",
         "ticket status": "True",
-        "ticket url": "https://www.eventbrite.sg/e/plini-live-in-singapore-tickets-1985384768287",
-        "prince min": 78
+        "ticket url": "https://www.sistic.com.sg/events/mika0726",
+        "prince min": 128.0
+      },
+      {
+        "source name": "The Star Performing Arts Centre",
+        "source url": "https://www.thestar.sg/events/mika-nakashima-asia-tour-2026-in-singapore",
+        "ticket status": "True",
+        "ticket url": "https://www.thestar.sg/events/mika-nakashima-asia-tour-2026-in-singapore",
+        "prince min": 0.0
       }
     ]
   },
   {
-    "Event name": "Hannu Lintu Inaugural Series: Gil Shaham and Mahler 5",
+    "Event name": "SSO Gala: Hannu Lintu Inaugural Series: Gil Shaham and Mahler 5",
     "Venue": "Esplanade Concert Hall",
-    "Artist": "",
-    "Organizer": "Singapore Symphony Orchestra",
-    "original price min": 28,
-    "Event introduction": "The Singapore Symphony launches its 2026/27 season with a bold step into the future. The journey begins with two contemporary works: a newly commissioned…",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra (SSO)",
+    "original price min": 28.0,
+    "Event introduction": "The Singapore Symphony launches its 2026/27 season with a bold step into the future.",
     "First-Day-Month-Year (day of the week)": "17-Jul-2026 (Friday)",
     "Last-Day-Month-Year (day of the week)": "18-Jul-2026 (Saturday)",
     "category": [
-      "Music",
-      "Classical",
-      "Concert",
-      "Orchestra"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -14866,64 +7471,20 @@
     ],
     "sources": [
       {
-        "source name": "Singapore Symphony Orchestra",
-        "source url": "https://www.sso.org.sg/whats-on/hannu-lintu-inaugural-series-gil-shaham-mahler",
-        "ticket status": "True",
-        "ticket url": "https://ticketing.sso.org.sg/sso/booking/SOT2629-1a",
-        "prince min": 28
-      },
-      {
         "source name": "SISTIC",
         "source url": "https://www.sistic.com.sg/events/SOT2629-1a",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/SOT2629-1a",
-        "prince min": 28
-      }
-    ]
-  },
-  {
-    "Event name": "Mika Nakashima Asia Tour 2026 in Singapore",
-    "Venue": "The Star Theatre, The Star Performing Arts Centre",
-    "Artist": "",
-    "Organizer": "FANMEETING / RED SPADE",
-    "original price min": 128,
-    "Event introduction": "Mika Nakashima 2026 Asia Tour Confirmed!A renewed stage featuring her classic hits with a brand-new ensemble.Following her 2025 tour, Mika.",
-    "First-Day-Month-Year (day of the week)": "17-Jul-2026 (Friday)",
-    "Last-Day-Month-Year (day of the week)": "17-Jul-2026 (Friday)",
-    "category": [
-      "Concert",
-      "Pop-Asian"
-    ],
-    "showtimes": [
-      {
-        "Day-Month-Year (day of the week)": "17-Jul-2026 (Friday)",
-        "hour: minute": "20:00",
-        "Day-Month-Year (day of the week) hour: minute": "17-Jul-2026 (Friday) 20:00"
-      }
-    ],
-    "sources": [
-      {
-        "source name": "SISTIC",
-        "source url": "https://www.sistic.com.sg/events/mika0726",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/mika0726",
-        "prince min": 128
-      },
-      {
-        "source name": "The Star Performing Arts Centre",
-        "source url": "https://www.thestar.sg/events/mika-nakashima-asia-tour-2026-in-singapore",
-        "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/mika0726",
-        "prince min": 128
+        "prince min": 28.0
       }
     ]
   },
   {
     "Event name": "Cellography Presents: Finding Okaasan - Music of Joe Hisaishi with Original Animation",
     "Venue": "Gateway Theatre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Cellography",
-    "original price min": 48,
+    "original price min": 48.0,
     "Event introduction": "“Fireflies hold memories… When you hold a firefly, you do not see the past; you feel how the past was.",
     "First-Day-Month-Year (day of the week)": "18-Jul-2026 (Saturday)",
     "Last-Day-Month-Year (day of the week)": "18-Jul-2026 (Saturday)",
@@ -14943,22 +7504,50 @@
         "source url": "https://www.sistic.com.sg/events/cello0726",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/cello0726",
-        "prince min": 48
+        "prince min": 48.0
+      }
+    ]
+  },
+  {
+    "Event name": "Finding Okaasan",
+    "Venue": "unknown",
+    "Artist": "unknown",
+    "Organizer": "Gateway Theatre",
+    "original price min": 0.0,
+    "Event introduction": "Finding Okaasan is listed as a July Gateway Theatre event.",
+    "First-Day-Month-Year (day of the week)": "18-Jul-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "18-Jul-2026 (Saturday)",
+    "category": [
+      "Theatre"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "18-Jul-2026 (Saturday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "18-Jul-2026 (Saturday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Gateway Theatre",
+        "source url": "https://gatewaytheatre.sg/events/finding-okaasan/",
+        "ticket status": "Unknown",
+        "ticket url": "https://gatewaytheatre.sg/events/finding-okaasan/",
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Mitski",
     "Venue": "The Star Theatre, The Star Performing Arts Centre",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Now/Live Pte Ltd",
-    "original price min": 88,
-    "Event introduction": "Mitski is \"the most alluring and enigmatic musician in indie rock\" (Rolling Stone) who “keeps shifting in all these really brilliant and wonderful ways” (NPR Music). Throughout her career, sheʼs released seven albums, four of which are certified gold. Her song, “My Love Mine All Mine,” was a global sensation, and is four-times platinum. Mitskiʼs varied collaborations with other artists include two co-writes on the most recent Florence and the Machine album, Everybody Scream, and with David Byrne and Son Lux for the Oscar nominated “This Is A Life.” She is currently writing the music and lyrics for the musical adaptation of The Queenʼs Gambit.“A mesmerizing study in movement” (Variety), Mitskiʼs live show has also been described as “highly stylized, brilliantly realized, super cool” (Philadelphia Inquirer) and “unusual, enigmatic and utterly compelling” (The Guardian). Her first concert film, Mitski: The Land, was played in over 600 cinemas across 30 countries in October 2025, cementing her as “the rare indie star who has earned the big-screen treatment” (Uproxx). It was released in conjunction with The Land: The Live Album.",
+    "original price min": 88.0,
+    "Event introduction": "Mitski is \"the most alluring and enigmatic musician in indie rock\" (Rolling Stone) who “keeps shifting in all these really.",
     "First-Day-Month-Year (day of the week)": "21-Jul-2026 (Tuesday)",
     "Last-Day-Month-Year (day of the week)": "21-Jul-2026 (Tuesday)",
     "category": [
-      "Concert",
-      "pop western"
+      "Concert"
     ],
     "showtimes": [
       {
@@ -14973,23 +7562,23 @@
         "source url": "https://www.sistic.com.sg/events/mi0726",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/mi0726",
-        "prince min": 88
+        "prince min": 88.0
       },
       {
         "source name": "The Star Performing Arts Centre",
         "source url": "https://www.thestar.sg/events/mitski",
         "ticket status": "True",
-        "ticket url": "https://www.sistic.com.sg/events/mi0726",
-        "prince min": 88
+        "ticket url": "https://www.thestar.sg/events/mitski",
+        "prince min": 0.0
       }
     ]
   },
   {
     "Event name": "Chicken Little 天降奇鸡",
     "Venue": "Drama Centre Theatre, National Library 100 Victoria St, #03-01, Singapore 188064",
-    "Artist": "",
+    "Artist": "unknown",
     "Organizer": "Singapore Repertory Theatre Ltd",
-    "original price min": 28,
+    "original price min": 28.0,
     "Event introduction": "Life on the farm can be a scary place if you’re poor Chicken Little!",
     "First-Day-Month-Year (day of the week)": "22-Jul-2026 (Wednesday)",
     "Last-Day-Month-Year (day of the week)": "22-Jul-2026 (Wednesday)",
@@ -14999,18 +7588,8 @@
     "showtimes": [
       {
         "Day-Month-Year (day of the week)": "22-Jul-2026 (Wednesday)",
-        "hour: minute": "09:30",
-        "Day-Month-Year (day of the week) hour: minute": "22-Jul-2026 (Wednesday) 09:30"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-Jul-2026 (Wednesday)",
-        "hour: minute": "11:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-Jul-2026 (Wednesday) 11:00"
-      },
-      {
-        "Day-Month-Year (day of the week)": "22-Jul-2026 (Wednesday)",
-        "hour: minute": "14:00",
-        "Day-Month-Year (day of the week) hour: minute": "22-Jul-2026 (Wednesday) 14:00"
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "22-Jul-2026 (Wednesday) unknown"
       }
     ],
     "sources": [
@@ -15019,7 +7598,229 @@
         "source url": "https://www.sistic.com.sg/events/chicken0826",
         "ticket status": "True",
         "ticket url": "https://www.sistic.com.sg/events/chicken0826",
-        "prince min": 28
+        "prince min": 28.0
+      }
+    ]
+  },
+  {
+    "Event name": "EXO PLANET #6 - EXhOrizon in SINGAPORE",
+    "Venue": "[EXO",
+    "Artist": "unknown",
+    "Organizer": "Live Nation Singapore",
+    "original price min": 1.0,
+    "Event introduction": "& Sunday Global K-pop powerhouse EXO is set to reunite on stage for a highly anticipated concert, marking their first.",
+    "First-Day-Month-Year (day of the week)": "24-Jul-2026 (Friday)",
+    "Last-Day-Month-Year (day of the week)": "26-Jul-2026 (Sunday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "24-Jul-2026 (Friday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "24-Jul-2026 (Friday) unknown"
+      },
+      {
+        "Day-Month-Year (day of the week)": "26-Jul-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "26-Jul-2026 (Sunday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Live Nation Singapore",
+        "source url": "https://www.livenation.sg/event/exo-planet-6-exhorizon-in-singapore-singapore-tickets-edp1665654",
+        "ticket status": "False",
+        "ticket url": "https://www.livenation.sg/event/exo-planet-6-exhorizon-in-singapore-singapore-tickets-edp1665654",
+        "prince min": 1.0
+      },
+      {
+        "source name": "Singapore Sports Hub",
+        "source url": "https://www.sportshub.com.sg/events/exo-planet-6-exhorizon-world-tour",
+        "ticket status": "True",
+        "ticket url": "https://www.sportshub.com.sg/events/exo-planet-6-exhorizon-world-tour",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "Hannu Lintu Inaugural Series: Zarathustra and Bluebeard’s Castle",
+    "Venue": "Esplanade Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra (SSO)",
+    "original price min": 15.0,
+    "Event introduction": "Continuing Hannu Lintu’s inaugural concert series, this programme explores the expressive breadth of orchestral and operatic storytelling.",
+    "First-Day-Month-Year (day of the week)": "24-Jul-2026 (Friday)",
+    "Last-Day-Month-Year (day of the week)": "24-Jul-2026 (Friday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "24-Jul-2026 (Friday)",
+        "hour: minute": "19:30",
+        "Day-Month-Year (day of the week) hour: minute": "24-Jul-2026 (Friday) 19:30"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/SOT2630-1",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/SOT2630-1",
+        "prince min": 15.0
+      }
+    ]
+  },
+  {
+    "Event name": "natori ONE-MAN LIVE TOUR Koshin (March)",
+    "Venue": "The Theatre at Mediacorp",
+    "Artist": "unknown",
+    "Organizer": "unknown",
+    "original price min": 0.0,
+    "Event introduction": "natori performs in Singapore for the first time.",
+    "First-Day-Month-Year (day of the week)": "25-Jul-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "25-Jul-2026 (Saturday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "25-Jul-2026 (Saturday)",
+        "hour: minute": "20:00",
+        "Day-Month-Year (day of the week) hour: minute": "25-Jul-2026 (Saturday) 20:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "Ticketmaster Singapore",
+        "source url": "https://ticketmaster.sg/activity/detail/26sg_natori",
+        "ticket status": "True",
+        "ticket url": "https://ticketmaster.sg/activity/detail/26sg_natori",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "The Unstoppable Tour Shreya Ghoshal 2026",
+    "Venue": "The Star Theatre, The Star Performing Arts Centre",
+    "Artist": "unknown",
+    "Organizer": "Global Indian Entertainment",
+    "original price min": 98.0,
+    "Event introduction": "“The Unstoppable Tour” — Shreya Ghoshal Live 2026 Celebrated as one of the most iconic and versatile voices in contemporary.",
+    "First-Day-Month-Year (day of the week)": "25-Jul-2026 (Saturday)",
+    "Last-Day-Month-Year (day of the week)": "25-Jul-2026 (Saturday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "25-Jul-2026 (Saturday)",
+        "hour: minute": "19:00",
+        "Day-Month-Year (day of the week) hour: minute": "25-Jul-2026 (Saturday) 19:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/shreya0726",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/shreya0726",
+        "prince min": 98.0
+      },
+      {
+        "source name": "The Star Performing Arts Centre",
+        "source url": "https://www.thestar.sg/events/the-unstoppable-tour-shreya-ghoshal-2026",
+        "ticket status": "True",
+        "ticket url": "https://www.thestar.sg/events/the-unstoppable-tour-shreya-ghoshal-2026",
+        "prince min": 0.0
+      }
+    ]
+  },
+  {
+    "Event name": "SSO Organ Series: Music for a While",
+    "Venue": "Victoria Concert Hall",
+    "Artist": "unknown",
+    "Organizer": "Singapore Symphony Orchestra (SSO)",
+    "original price min": 10.0,
+    "Event introduction": "Travel back to a golden age of English music from the 16th century Tudor era to the early Baroque.",
+    "First-Day-Month-Year (day of the week)": "26-Jul-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "26-Jul-2026 (Sunday)",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "26-Jul-2026 (Sunday)",
+        "hour: minute": "16:00",
+        "Day-Month-Year (day of the week) hour: minute": "26-Jul-2026 (Sunday) 16:00"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/ORT2630-1",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/ORT2630-1",
+        "prince min": 10.0
+      }
+    ]
+  },
+  {
+    "Event name": "华语儿童魔幻剧《大圣归来》(The Monkey King: Legendary Return)",
+    "Venue": "Singapore Chinese Cultural Centre Auditorium, Level 9 新加坡华族文化中心表演厅, 九楼",
+    "Artist": "unknown",
+    "Organizer": "Singapore Focus Theatre Ltd",
+    "original price min": 28.0,
+    "Event introduction": "The Legend of the Monkey King Returns begins with Sun Wukong trapped under the Five Finger Mountain, having lost his.",
+    "First-Day-Month-Year (day of the week)": "26-Jul-2026 (Sunday)",
+    "Last-Day-Month-Year (day of the week)": "26-Jul-2026 (Sunday)",
+    "category": [
+      "Theatre"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "26-Jul-2026 (Sunday)",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "26-Jul-2026 (Sunday) unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/return0726",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/return0726",
+        "prince min": 28.0
+      }
+    ]
+  },
+  {
+    "Event name": "Happy Sing-Along 欢喜来唱歌 2026",
+    "Venue": "Singapore Chinese Cultural Centre",
+    "Artist": "unknown",
+    "Organizer": "Singapore Chinese Cultural Centre",
+    "original price min": 7.0,
+    "Event introduction": "Happy Sing Along is coming back with double the happiness and double the fun!",
+    "First-Day-Month-Year (day of the week)": "unknown",
+    "Last-Day-Month-Year (day of the week)": "unknown",
+    "category": [
+      "Concert"
+    ],
+    "showtimes": [
+      {
+        "Day-Month-Year (day of the week)": "unknown",
+        "hour: minute": "unknown",
+        "Day-Month-Year (day of the week) hour: minute": "unknown"
+      }
+    ],
+    "sources": [
+      {
+        "source name": "SISTIC",
+        "source url": "https://www.sistic.com.sg/events/happy2026",
+        "ticket status": "True",
+        "ticket url": "https://www.sistic.com.sg/events/happy2026",
+        "prince min": 7.0
       }
     ]
   }
